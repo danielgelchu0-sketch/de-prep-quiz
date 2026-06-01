@@ -1,0 +1,552 @@
+[
+  {
+    "text": "In the following choices, given that the symbols N, m, J, kg, stand for Newton, meter, Joule, and kilogram, respectively, then which one is the correct SI unit of torque?",
+    "options": [
+      "A) N",
+      "B) kg m²",
+      "C) N m = J",
+      "D) N m ≠ J"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following waves is an example of longitudinal waves in material medium?",
+    "options": [
+      "A) Water wave at depth",
+      "B) P-waves in earthquake",
+      "C) Wave in a string",
+      "D) S-waves in earthquake"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is a correctly matched between circuit symbol and the semiconductor device?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about the difference between orbital and escape velocities of a satellite orbiting the Earth?",
+    "options": [
+      "A) Orbital velocity depends on the radius of the Earth, whereas scape velocity depends on the radius of the satellite's orbit.",
+      "B) Scape velocity depends on the radius of the Earth, whereas orbital velocity depends on the radius of the satellite's orbit.",
+      "C) Orbital velocity is inversely proportional to the radius of the Earth, whereas scape velocity is directly proportional to the radius of the Earth.",
+      "D) Orbital velocity depends on the mass of the earth, whereas scape velocity depends on the mass of the satellite."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about actions of A.C. and D.C. generators?",
+    "options": [
+      "A) The voltage output of D.C. generators varies periodically whereas the voltage output of A.C generator is constant.",
+      "B) The current outputs of both generator A.C. and D.C. generator have constant values.",
+      "C) The voltage induced by A.C. generator reverses its direction periodically whereas by the D.C. generators has a constant value.",
+      "D) The current outputs of both A.C. and D.C. generators reverse their directions periodically."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An electric motor exerts a constant 10 N⋅m torque on a grindstone, which has a moment of inertia of 5.0 kg⋅m2about its axis. The system starts from rest and turns. What is the work done by the motor in 4.0 s?",
+    "options": [
+      "A) 160 J",
+      "B) 40 J",
+      "C) 2 J",
+      "D) 320 J"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Three charges Q1= 5 x 10-10C, Q2= 2 x 10-10C and Q3= 3 x 10-10C, are placed on the x axis at points x = 0, x = 2 cm and x = 4 cm, respectively, as shown in the figure below.What is the magnitude of electrostatic force exerted on Q2by the other two charges? [DIAGRAM: image]",
+    "options": [
+      "A) 3.6 x 10-6N",
+      "B) 9 x 10-7N",
+      "C) 9 N",
+      "D) 9 x 10-15N"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Two capacitors having capacitances C1and C2are connected in series to a voltage source of potential difference v. If the total charge stored by the capacitors is Q, the total electrical energy stored by the capacitors is",
+    "options": [
+      "A) 1/2(C1+ C2)Q2",
+      "B) C1C2Q2/2(C1+ C2)",
+      "C) Q2/2(C1+ C2)",
+      "D) Q2(C1+ C2)/2C1C2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An experimenter measures a current flowing through a resistor R1to be 1.3 A by connecting to a voltage source of a potential difference ΔV = 6 V. Next, a second resistor of R2is added to the circuit with parallel connection. In doing so, the current through R1is NOT changed but a current of I2= 2 A flowing through R2is recorded. What is the value of the effective resistance (R) of the final circuit?",
+    "options": [
+      "A) R = R1+ R2= 1.2 Ω",
+      "B) R = (R1+ R2)/R1R2= 1.2 Ω",
+      "C) R = (R1R2)/(R1+ R2) = 1.2 Ω",
+      "D) R = R1+ R2= 5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A long straight wire passing through the origin perpendicular to the xy plane carries a current I. A compass needle is moved around in the xy plane. When it is placed at the point (0, +y), it deflects towards the negative x-axis; while when it is placed at(-x, 0), it deflects towards the negative y-axis. In what direction does the needle deflect when it is placed at (0, -y)?",
+    "options": [
+      "A) to the positive x-axis",
+      "B) to the negative y-axis",
+      "C) to the positive y-axis",
+      "D) to the negative x-axis"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements correctly defines a couple? Couple is a pair of equal magnitude forces acting on a body",
+    "options": [
+      "A) in the same directions to have net torque.",
+      "B) in opposite directions at the same point.",
+      "C) in opposite directions generating a net force.",
+      "D) in opposite directions generating a net torque."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The amount of heat energy required to change 1 kg of the substance from solid to liquid at its melting point is",
+    "options": [
+      "A) specific latent heat of fusion",
+      "B) specific heat capacity",
+      "C) specific latent heat of vaporization",
+      "D) specific heat of boiling"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is correct about the assumptions made in the kinetic theory of ideal gases?",
+    "options": [
+      "A) Collisions between particles of the gas are perfectly inelastic",
+      "B) Newton's laws cannot be applied during collisions between particles of the gas",
+      "C) All particles of the gas have the same value of velocities at any instant",
+      "D) The internal energy of the gas is equal to the kinetic energy of the gas"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Two points P1and P2on a rigid body are located at different distances, d1and d2respectively, from the pivot point O as shown in the figure below.If a body is set to rotate about the pivot point O, [DIAGRAM: image]",
+    "options": [
+      "A) P2completes a cycle before point P1.",
+      "B) P1and P2have equal linear speed.",
+      "C) P1and P2have equal angular velocity.",
+      "D) P2has greater linear speed than P1."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following correctly describes the relationship between the factors affecting laminar flow?",
+    "options": [
+      "A) A fast moving object in air makes air to expand more.",
+      "B) A fast moving object in air causes the air to become denser.",
+      "C) The effect of temperature would be significant at low speeds.",
+      "D) Viscosity has no effect in case when a fast moving object is taken."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A body is observed to be moving with constant velocity in a straight line. One can surely conclude that for this body,",
+    "options": [
+      "A) no external force is applied on it.",
+      "B) no friction force is acting on it.",
+      "C) constant force is applied on it.",
+      "D) the net external force acting on it is zero."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The speed of sound wave in one end closed organ pipe of length L is v. For which of the following harmonic frequencies (fn) standing waves through the pipe are formed?",
+    "options": [
+      "A) fn= nv/4L, where n = 1,2,3,...",
+      "B) fn= nv/2L, where n = 1,3,5,...",
+      "C) fn= nv/4L, where n = 1,3,5,...",
+      "D) fn= nv/2L, where n = 1,2,3,..."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A constant torque of 80 Nm is applied to the rim of a flywheel for 2 s. If the flywheel initially has angular momentum of 40 kgm2/s, what will be its final angular momentum?",
+    "options": [
+      "A) 200 kgm2/s",
+      "B) 40 kgm2/s",
+      "C) 160 kgm2/s",
+      "D) 120 kgm2/"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A load of 4 kg is applied to the ends of a wire 5 m and cross sectional area 4 mm2to produce an extension of 0.40 mm. What is the Young's modulus of the wire?",
+    "options": [
+      "A) 1.25×1010Nm-2",
+      "B) 1.25×1011Nm-2",
+      "C) 8.00×1011Nm-2",
+      "D) 8.00×1010Nm-2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Molar heat capacity of an ideal gas at a constant pressure and constant volume are given by CPand CVrespectively. If R is a universal gas constant, which one of the following equation is correct about the relation between CPand CV?",
+    "options": [
+      "A) CP- CV= R",
+      "B) CV- CP= 2R",
+      "C) CV- CP= R",
+      "D) CP- CV= 2R"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A continuous and periodic disturbance of particles of medium or fields is known as",
+    "options": [
+      "A) pulse",
+      "B) wave front",
+      "C) wave speed",
+      "D) wave"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following statements correctly explains the difference between distance and displacement for an object that does not move in a straight line?",
+    "options": [
+      "A) Distance can be zero whereas displacement is not",
+      "B) Displacement has larger magnitude than distance",
+      "C) Displacement can be zero whereas distance is not",
+      "D) Distance is a shortest path whereas displacement is the actual path travelled by the object"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following types of renewable energy resources are characterized by no emission of greenhouse gases?",
+    "options": [
+      "A) Hydroelectric and Wind energy",
+      "B) Wind and Geothermal energy",
+      "C) Solar and Wind energy",
+      "D) Geothermal and Solar energy"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following bodies is in linear equilibrium?",
+    "options": [
+      "A) A body moving with constantly changing velocity in straight line",
+      "B) A body moving with constant velocity",
+      "C) A body in uniformly accelerated motion in a straight line",
+      "D) A body acted upon by a single constant force"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A car travelled 4 km towards east and then 3 km towards north. What is the angle of the resultant displacement from east?",
+    "options": [
+      "A) tan-1(4/3)",
+      "B) tan-1(3/4)",
+      "C) tan-1(4/5)",
+      "D) tan-1(3/5)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A ball is dropped off from the top of a 20 m high cliff. How long it takes to hit the ground?",
+    "options": [
+      "A) 4 s",
+      "B) 10 s",
+      "C) 2 s",
+      "D) 5 s"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A student of mass 40 kg is in a lift moving upward with an acceleration of 2.5 m/s2. What is the apparent weight of the student?",
+    "options": [
+      "A) 500 N",
+      "B) 800 N",
+      "C) 400 N",
+      "D) 300 N"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A farmer pulls out a bucket of water from a well with wheel and axle with radii of 30 cm and 6 cm respectively. Assuming no energy losses, what effort should be applied on the wheel in order to lift a load of 40 N on the axle?",
+    "options": [
+      "A) 20 N",
+      "B) 8 N",
+      "C) 5 N",
+      "D) 40 N"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A square shaped body of side length l0is heated to raise its temperature by ΔT in Kelvin. If α stands for coefficient of linear expansion and β being coefficient of area expansion, which one of the following expressions is correct for area (A) of the body, after the temperature changed by ΔT?",
+    "options": [
+      "A) A = l02(1 + 2αΔT)",
+      "B) A = l02(1 + α2ΔT)",
+      "C) A = l02(1 + 2βΔT)",
+      "D) A = l02(1 + 2βΔT)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In order to measure atmospheric pressure in a given location, a student used a dish with mercury, a test tube of 4 mm radius closed at one end and a meter stick. The student inserted the open end of the tube in mercury inside the dish and left the dish open to the atmosphere as shown in the figure below.If the mercury was observed to be pushed up to raise in the tube by 500 mm, what is the atmospheric pressure in that location?(ρmercury= 13600 kg/m3) [DIAGRAM: image]",
+    "options": [
+      "A) 101 kPa",
+      "B) 340 kPa",
+      "C) 68 kPa",
+      "D) 27 kPa"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about Biot-Savart law?",
+    "options": [
+      "A) It describes the values of magnetic torque on a coil of wire",
+      "B) It is used to determine the values for magnetic field strength of a current carrying element",
+      "C) It describes the relationship between electric fields and magnetic fields",
+      "D) It is used to determine the magnetic force on a current carrying conductor"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A capacitor with a capacitance of C is connected to an AC power supply producing a sinusoidal voltage of peak value vpand frequency f. The capacitive reactance (Xc) of the circuit is",
+    "options": [
+      "A) Xc= 2πfC",
+      "B) Xc= 2πf/C",
+      "C) Xc= √(R²+ω²C²)",
+      "D) Xc= 1/2πfC"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A tangent galvanometer is set so that the plane of its coil is along the Earth's magnetic meridian. When current is passed through the galvanometer, its compass needle deflects by an angle θ. If Bvand Bhare the vertical and horizontal components of the Earth's magnetic field, the current through the coil is proportional to",
+    "options": [
+      "A) Bvcos θ",
+      "B) Bhtan θ",
+      "C) Bhcos θ",
+      "D) Bvtan θ"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The current I through and voltage V across a purely capacitive AC circuit can be put as a sinusoidal function with respective peak values of I0and V0. Assuming the angular frequency of the AC source is ω, which of the following sinusoidal function correctly represent I and V in the circuit as a function of time t?",
+    "options": [
+      "A) I = I0sin(ωt + π/2) and V = V0sin(ωt)",
+      "B) I = I0sin(ωt + π/4) and V = V0sin(ωt - π/2)",
+      "C) I = I0sin(ωt) and V = V0sin(ωt + π/2)",
+      "D) I = I0sin(ωt) and V = V0sin(ωt)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following statements is correct comparison of destructive and constructive interference of light wave with wave along a string?",
+    "options": [
+      "A) Constructive interference of two waves on a string causes node, while constructive interference of two light waves cause brightness",
+      "B) Constructive interference of two waves on a string gives rise to an antinode, while constructive interference of two light waves gives rise to brightness",
+      "C) Destructive interference of two waves on a string causes an antinode, while destructive interference of two light waves causes maxima",
+      "D) Destructive interference of two waves on a string results in maximum amplitude, while destructive interference of two light waves results in maximum intensity"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A point charge of Q = 2 × 10-8C is placed in xy plane at the coordinate position of (4, 2) cm. What is the value of the electric potential produced by the charge at a point P which is located at coordinate position of (7, -2) cm?",
+    "options": [
+      "A) 4 kV",
+      "B) 6 kV",
+      "C) 3.6 kV",
+      "D) 2.5 kV"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Two equal parallel plate capacitors are connected in parallel to a 10 V battery. When the space between the plates is air, each capacitor has a capacitance of 2 x 10-12F. If the space between the plates is completely filled with dielectric materials with dielectric constants 500 and 1000 respectively, the total electrical energy stored by the capacitors is",
+    "options": [
+      "A) 0.15 μJ",
+      "B) 0.33 nJ",
+      "C) 0.15 nJ",
+      "D) 0.33 μJ"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Measurements of the currents ICand IDis made for a part of a circuit given in the diagram.If I = 2 A is recorded, then which of the following is correct about the values of current ICand ID? [DIAGRAM: image]",
+    "options": [
+      "A) IC= 1.5 A and ID= 0.5 A",
+      "B) IC= 2.5 A and ID= -0.5 A",
+      "C) IC= 3 A and ID= -1 A",
+      "D) IC= 1 A and ID= 1 A"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A light radiation is used to measure the position of an electron of wavelength 3 x 10-11m. If the uncertainty in the momentum (ΔP) is 2.21 x 10-23kgm/s, then according to the uncertainty principle, which one of the following is an acceptable value of the uncertainty in the position (Δx) of the electron?",
+    "options": [
+      "A) Δx = 3.0 x 10-13m",
+      "B) Δx = 1.5 x 10-15m",
+      "C) Δx = 3.0 x 10-11m",
+      "D) Δx = 1.5 x 10-14m"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A radioactive material initially consisting of 108particles decays over time according to the decay law, where λ = 3 x 10-12s-1is the decay constant. The half-life is (ln 2 = 0.693)",
+    "options": [
+      "A) 2.04 x 1011s",
+      "B) 4.33 x 1012s",
+      "C) 3.69 x 1012s",
+      "D) 2.3 x 1011s"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "One of the four fundamental forces of nature acting over long distances and purely attractive is",
+    "options": [
+      "A) electromagnetic force",
+      "B) strong nuclear force",
+      "C) weak nuclear force",
+      "D) gravitational force"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following set contains vectors ONLY?",
+    "options": [
+      "A) {Velocity, Force, Momentum}",
+      "B) {Time, Acceleration, Displacement}",
+      "C) {Momentum, Energy, Force}",
+      "D) {Acceleration, Mass, Velocity}"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose you are going to investigate the relation between current through and voltage across a resistor by measuring them five times. Which one of the following should be performed before taking the measurements?",
+    "options": [
+      "A) Computing the uncertainty",
+      "B) Clearly describe the method",
+      "C) Presenting the possible results",
+      "D) Performing the analysis"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An image is formed by plane mirrors using a ray tracing method. Which one of the following diagrams is a correctly display between an object, a plane mirror, and the image formed?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A man looks down at a coin that lies at the bottom of a glass container of liquid of depth d = 12 cm and index of refraction, n. Because of the view of eye, the coin appears to be located at a depth of 9 cm below the surface of the liquid. What is the value of n?",
+    "options": [
+      "A) 3/2",
+      "B) 5/3",
+      "C) 3/4",
+      "D) 4/3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Given two vectors A = [-2] and B = [9], the scalar product of these vectors is equal to",
+    "options": [
+      "A) -18",
+      "B) 28",
+      "C) 10",
+      "D) 22"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Starting from rest, a particle accelerates uniformly with an acceleration of magnitude. After time interval, the particles cover a distance s and attain a velocity of magnitude v. Which one of the following equations correctly describes the distance moved during this time interval t?",
+    "options": [
+      "A) s = 1/2 at",
+      "B) s = vt²/2",
+      "C) s = vt",
+      "D) s = v²/2a"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider two satellites A and B with mass mAand mBrespectively, and orbiting the earth at height hAand hBabove the earth's surface. Which one of the following statements correctly describes the motion of these satellites?",
+    "options": [
+      "A) If mA> mB, satellite A's period is shorter than that of B",
+      "B) If hA> hB, the period satellite A is longer than that of B",
+      "C) If hA> hB, satellite A orbits faster than that of B",
+      "D) If mA> mB, satellite A orbits faster than that of B"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The system comprising three point masses is arranged as shown in the figure below.What is the distance of the center of mass of a system, from point P? [DIAGRAM: image]",
+    "options": [
+      "A) 1.67 m",
+      "B) 0.67 m",
+      "C) 2.33 m",
+      "D) 1.00 m"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If a ball is thrown vertically upward with an initial velocity of v0and reaches a maximum height h after time t, then during the time interval",
+    "options": [
+      "A) work done by gravity is greater than the initial kinetic energy",
+      "B) work done by gravity is positive since kinetic energy increases",
+      "C) work done by gravity equals the kinetic energy at h",
+      "D) work done by gravity equals the change in the kinetic energy of the ball"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

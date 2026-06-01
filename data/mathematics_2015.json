@@ -1,0 +1,717 @@
+[
+  {
+    "text": "What is the value of x that satisfies the equation(5−258)12x2−23x=2(5 - \\frac{25}{8})^{\\frac{1}{2}x^{2} - \\frac{2}{3}x} = 2(5−825​)21​x2−32​x=2",
+    "options": [
+      "A) 1",
+      "B) -3/2",
+      "C) 3/2",
+      "D) 4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The solution set of the inequality(2x−3)(x+5)≤0(2x - 3)(x + 5) \\leq 0(2x−3)(x+5)≤0is",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The histogram below shows the recorded temperature (in °C) of a certain town in Ethiopia for the first 15 days of March 2023.Then which one of the following statement is true about the data represented by the histogram? [DIAGRAM: image]",
+    "options": [
+      "A) The temperature was 24°C for two days.",
+      "B) The mode of the data is 22°C.",
+      "C) The highest frequency is 3-.",
+      "D) For 45% of the days, the temperature was more than 19°C."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A 20m high building casts a shadow of 4m, at the same time a 35m tree casts a shadow of x m. What is the value of x?",
+    "options": [
+      "A) 8m",
+      "B) 11m",
+      "C) 7m",
+      "D) 15m"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A car started moving 9km to the East then moved 4 km to the North and then 12km towards West to reach its destination. How far the car it travelled from its starting point?",
+    "options": [
+      "A) 25km",
+      "B) 12km",
+      "C) 4km",
+      "D) 5km"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "When the polynomialP(x)=3x6+5x4−7x3+2kx2+3P(x) = 3x^{6} + 5x^{4} - 7x^{3} + 2kx^{2} + 3P(x)=3x6+5x4−7x3+2kx2+3is divided by (x + 1), the remainder is 4. What is the value of k?",
+    "options": [
+      "A) -5",
+      "B) -7",
+      "C) 3",
+      "D) 6"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The solution set of the equation5log⁡9x−2log⁡4(x2)−log⁡48=−15\\log_{9}x - 2\\log_{4}(x^{2}) - \\log_{4} 8 = -15log9​x−2log4​(x2)−log4​8=−1is",
+    "options": [
+      "A) {4}",
+      "B) {3}",
+      "C) {9}",
+      "D) {3/2}"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following statement is true aboutf(x)=x2−6x+10f(x) = x^{2} - 6x + 10f(x)=x2−6x+10?",
+    "options": [
+      "A) 2",
+      "B) 1",
+      "C) The graph of f opens downward.",
+      "D) The vertex of the graph of f is (3, 1)."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the area of a regular hexagon inscribed in a circle of radius 6cm?",
+    "options": [
+      "A) 2",
+      "B) 2",
+      "C) 48cm2",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following defines a prime number?",
+    "options": [
+      "A) It is a number that has more than two positive factors.",
+      "B) It is a number whose only factor is 1.",
+      "C) It is a number that has only two positive factors.",
+      "D) It is a number whose only factor is itself."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following rational numbers is written in its standard form?",
+    "options": [
+      "A) 2",
+      "B) 2",
+      "C) 5",
+      "D) 5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the value of x in the equation125x25x−1=253x+1\\sqrt{125x^{2} 5^{x-1}} = 25^{3x + 1}125x25x−1​=253x+1?",
+    "options": [
+      "A) -5",
+      "B) -5/7",
+      "C) 5",
+      "D) 5/7"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The solution set of the equation3∣2x−4∣=6−2∣1−5x∣3|2x - 4| = 6 - 2|1 - 5x|3∣2x−4∣=6−2∣1−5x∣is",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "GivenA={x∈N:x<3}A = \\{x \\in \\mathbb{N} : x < 3\\}A={x∈N:x<3}and B is the set of all possible factors of 13. Then which one of the following is equal to B x A?",
+    "options": [
+      "A) {(1, 1), (2, 1), (1, 13), (2, 13)}",
+      "B) {(1, 1), (1,2), (13, 1), (13, 2), (1, 13), (13, 2)}",
+      "C) {(1, 1), (13, 2)}",
+      "D) {(1, 2), (13, 1), (13, 2)}"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The object shown in the figure below is made of wood. Its top cover is a solid hemisphere and its bottom is a cylindrical part of base diameter 6cm and height of 12cm. From the bottom of the cylindrical part of height 8cm is cut off.Thus, what is the volume of the solid in cubic centimeter? [DIAGRAM: image]",
+    "options": [
+      "A) 102π",
+      "B) 72π",
+      "C) 96π",
+      "D) 126π"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The domain of the functionf(x)=2x23f(x) = 2x^{\\frac{2}{3}}f(x)=2x32​is",
+    "options": [
+      "A) }",
+      "B) [0,∞)",
+      "C) R",
+      "D) (0, 2)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The slope of the line that makes an angle of 135° with the positive x-axis is equal to",
+    "options": [
+      "A) 2",
+      "B) -1",
+      "C) 1",
+      "D) 3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If tan31° = 0.81 then what is the value of tan509°",
+    "options": [
+      "A) 0.19",
+      "B) -0.81",
+      "C) 0.81",
+      "D) -0.91"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Ifsin⁡θ=−35\\sin\\theta = -\\frac{3}{5}sinθ=−53​andθ\\thetaθis a 4th quadrant angle, then what is the value ofsecθsec\\thetasecθ?",
+    "options": [
+      "A) -5/3",
+      "B) 5/4",
+      "C) 5/3",
+      "D) -5/4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If ABCD is a parallelogram with P a mid-point ofAB‾\\overline{AB}ABand Q a mid-point ofCD‾\\overline{CD}CD, then which of the following isNOTnecessarily true?",
+    "options": [
+      "A) CBP",
+      "B) ",
+      "C) APCD is a trapezium",
+      "D) APCQ is a rhombus"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A regular pyramid has a hexagonal base whose side length is 12cm. What is the lateral surface area of the pyramid in square centimeters if the length of each lateral edge is 10cm?",
+    "options": [
+      "A) 360",
+      "B) 72",
+      "C) 288",
+      "D) 720"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If(2−1a4)(1b−13)=(31−118)\\begin{pmatrix} 2 & -1 \\\\ a & 4 \\end{pmatrix} \\begin{pmatrix} 1 & b \\\\ -1 & 3 \\end{pmatrix} = \\begin{pmatrix} 3 & 1 \\\\ -1 & 18 \\end{pmatrix}(2a​−14​)(1−1​b3​)=(3−1​118​)Then what are the values of a and b respectively?",
+    "options": [
+      "A) 3, 2",
+      "B) 2, -2",
+      "C) -1, 2",
+      "D) 0, -1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "LetA=(1−102−36)A = \\begin{pmatrix}1 & -1 \\\\0 & 2 \\\\-3 & 6 \\end{pmatrix}A=​10−3​−126​​Then ATis",
+    "options": [
+      "A) )",
+      "B) ",
+      "C) )",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "On the set of Natural numbersN\\mathbb{N}N, which one of the following propositions has a truth valueTrue?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In a certain month of the year, the temperature of a city was recorded and presented as follows:Temperature (in °C)10-1415-1920-2425-2930-34Frequency (number of days)291153Which one of the following is the cumulative frequency of the fourth class?",
+    "options": [
+      "A) 22",
+      "B) 27",
+      "C) 18",
+      "D) 20"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A fair die is going to be rolled once, and let:E1 be the event that an even number occurs;E2 be the event that a prime number occurs;E3 be the event that a multiple of 3 occurs;E4 be the event that a multiple of 5 occurs;Then which of the following pairs of events are mutually exclusive?",
+    "options": [
+      "A) E1 and E3",
+      "B) E3 and E4",
+      "C) E1 and E2",
+      "D) E2 and E4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The following is the distribution of the weight of 40 students in a certain class:Weight (in Kg)40-4849-5758-6667-7576-84f818752Then for data given above, what is the median weight in kg?",
+    "options": [
+      "A) 54.5",
+      "B) 55",
+      "C) 53",
+      "D) 53.8"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A group of students, 5 from grade 10, 8 from grade 11 and 2 from grade 12 is to be formed. If a student is chosen randomly from this group, what is the probability that the chosen student is either from grade 10 or grade 12?",
+    "options": [
+      "A) 7/15",
+      "B) 5/15",
+      "C) 12/15",
+      "D) 1/7"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the equation of the hyperbola with foci F1=(-2, 1), F2=(8, 1) and the length of the conjugate axis is 8 units?",
+    "options": [
+      "A) 1",
+      "B) 1",
+      "C) 1",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If the truth value of p is T, then which of the following compound propositions has a truth value T for any proposition q?",
+    "options": [
+      "A) )",
+      "B) q",
+      "C) q",
+      "D) p"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following functions is one to one?",
+    "options": [
+      "A) )}",
+      "B) 1",
+      "C) 1",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Ifx2+14(x+2)(x−1)2=Ax+2+Bx−1+C(x−1)2\\frac{x^{2} + 14}{(x+2)(x-1)^{2}} = \\frac{A}{x+2} + \\frac{B}{x-1} + \\frac{C}{(x-1)^{2}}(x+2)(x−1)2x2+14​=x+2A​+x−1B​+(x−1)2C​then what are the values of A, B and C respectively?",
+    "options": [
+      "A) 1, -1, 3",
+      "B) 3, -2, 6",
+      "C) 2, -2, -5",
+      "D) 2, -1, 5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following line is true about the intercept and symmetry of the graph off(x)=x3−3xx2−6f(x) = \\frac{x^3 - 3x}{x^2 - 6}f(x)=x2−6x3−3x​?",
+    "options": [
+      "A) The graph is symmetrical with respect to the y-axis.",
+      "B) Its y-intercept is 3.",
+      "C) Its x-intercepts are ±√6.",
+      "D) The graph is symmetrical with respect to the origin."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the linesl1:y=2x+3l1: y = 2x + 3l1:y=2x+3andl2:y=1−3xl2: y = 1-3xl2:y=1−3x. Then the angle betweenl1l1l1andl2l2l2is",
+    "options": [
+      "A) π/4",
+      "B) 3π/2",
+      "C) π/2",
+      "D) π/6"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The equation of the parabola with vertex V(2, -1) and focus F(-1, -1) is",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the value oflim⁡x→1x2−1x2+1\\lim_{x \\to 1} \\frac{x^{2} - 1}{x^{2} + 1}limx→1​x2+1x2−1​?",
+    "options": [
+      "A) 3",
+      "B) 1",
+      "C) 2",
+      "D) 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the value of a so that the function given byf(x)={ax+1forx≥1x2−4forx<1f(x) = \\begin{cases} ax + 1 & \\text{for } x \\geq 1\\\\ x^2 - 4 & \\text{for } x < 1\\end{cases}f(x)={ax+1x2−4​forx≥1forx<1​is continuous at 1?",
+    "options": [
+      "A) 4",
+      "B) -4",
+      "C) -1",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letf(x)=−13cos⁡(2x3−π3)+1f(x) = -\\frac{1}{3}\\cos\\left(2^{x^{3}} - \\frac{\\pi}{3}\\right) + 1f(x)=−31​cos(2x3−3π​)+1. Then what is the period and Phase shift of the graph of f respectively?",
+    "options": [
+      "A) 4π⁄9and2π⁄9",
+      "B) 2π⁄3and2π⁄9",
+      "C) 3π⁄2and4π⁄9",
+      "D) π⁄9and4π⁄9"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the fifth term of the sequence{2n+4n−5}n=0∞\\{ 2^n + 4n - 5 \\}_{n=0}^{\\infty}{2n+4n−5}n=0∞​?",
+    "options": [
+      "A) 27",
+      "B) 17",
+      "C) 47",
+      "D) 15"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If the 6thand the 11thterm of an arithmetic sequence are 35 and 75 respectively, then what is the sum of the first 31 terms of the sequence?",
+    "options": [
+      "A) 2145",
+      "B) 724",
+      "C) 2635",
+      "D) 846"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following numbers is the upper bounds of the sequence{2n+1n+1}n=1∞\\{ \\frac{2n + 1}{n + 1} \\}_{n=1}^{\\infty}{n+12n+1​}n=1∞​?",
+    "options": [
+      "A) 3/2",
+      "B) 0",
+      "C) 1",
+      "D) 4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let the sequence {an} converges to 3 while {bn} converges to -1. Then the sequence {an-bn} converges to",
+    "options": [
+      "A) 1",
+      "B) 4",
+      "C) 3",
+      "D) 1/3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following argument is valid?",
+    "options": [
+      "A) q",
+      "B) r",
+      "C) r",
+      "D) r"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following assertions is true applying the Principle of Mathematical Induction?",
+    "options": [
+      "A) 0",
+      "B) 0",
+      "C) 2",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is equal to∫3cos3xdx∫3cos3xdx∫3cos3xdx?",
+    "options": [
+      "A) c",
+      "B) c",
+      "C) c",
+      "D) c"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the area of the region bounded by the graph off(x)=x2−4f(x) = x^{2} - 4f(x)=x2−4and the x-axis in square units?",
+    "options": [
+      "A) 16",
+      "B) 32",
+      "C) 16/3",
+      "D) 32/3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let f be a continuous function on [0, 1] and let F be an anti-derivative of f withF(1)=−1F(1) = -1F(1)=−1andF(0)=1F(0) = 1F(0)=1. Then∫01f(x)dx\\int_{0}^{1} f(x) \\, dx∫01​f(x)dxis equal to",
+    "options": [
+      "A) -22",
+      "B) 11",
+      "C) 0",
+      "D) 22"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following set of equations define the xz-plane?",
+    "options": [
+      "A) {(x,y,z)|x,y,z ∈ ℝ and x==9}",
+      "B) {(x,y,z)|x,y,z ∈ ℝ and y=0}",
+      "C) {(x,y,z)|x,y,z ∈ ℝ and x=0}",
+      "D) {(x,y,z)|x,y,z ∈ ℝ and z=0}"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the coefficient of the midpoint of the line segment joining(−1,−3,3)(-1,-3, 3)(−1,−3,3)and(1,5,−7)(1, 5, -7)(1,5,−7)in space?",
+    "options": [
+      "A) ",
+      "B) (1, 4, 3)",
+      "C) (-1, 1, -2)",
+      "D) (-1, 3, 5)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true about the graph ofy=3sin⁡(4x)y = 3\\sin(4x)y=3sin(4x)?",
+    "options": [
+      "A) The graph completes one cycle on the interval [0, π].",
+      "B) The graph lies below the x-axis on ( π/4, π/2 ).",
+      "C) The graph completes one cycle on the interval [0, π/4].",
+      "D) The graph rises up on (0, π/4)."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following functions has a graph that completes one full cycle on∣−π,11π4∣\\left|-\\pi, \\frac{11\\pi}{4}\\right|​−π,411π​​?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let A be a square matrix of order n and let B be a matrix obtained by multiplying one row of A by 2 and C be a matrix found by adding one row of A to another row of A. If det(A) = 10, what are det(B) and det(C)?",
+    "options": [
+      "A) 20 and 10",
+      "B) 20 and 0",
+      "C) 10 and 20",
+      "D) 10 and 10"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The solution set of the system{2x−y+3z=1x+y+3z=5x−y+z=−1\\left\\{\\begin{aligned}2x - y + 3z &= 1\\\\x + y + 3z &= 5 \\\\x - y + z &= -1\\end{aligned} \\right.⎩⎨⎧​2x−y+3zx+y+3zx−y+z​=1=5=−1​is",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letz1,z2,andz3z1, z2, and z3z1,z2,andz3be complex numbers. Then which of the following is NOT necessarily true?",
+    "options": [
+      "A) 3",
+      "B) 3",
+      "C) 3",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following complex numbers corresponds to the point (-3, -1) in the Argand plane?",
+    "options": [
+      "A) -3 + i",
+      "B) 3 + i",
+      "C) -1 - 3i",
+      "D) -3 - i"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If a translation T takes a point (-1, 1) to a point (3, 2), then the image of the circlex2+y2−2x+4y+1=0x^2 + y^2 - 2x + 4y + 1 = 0x2+y2−2x+4y+1=0under T is",
+    "options": [
+      "A) 4",
+      "B) 4",
+      "C) 4",
+      "D) 4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let u = (-1,6) and v = (2, 4) be position vectors. Then the vector 4u - 3v is",
+    "options": [
+      "A) (-10,12)",
+      "B) (-10,11)",
+      "C) (-4,24)",
+      "D) (-15,18)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Water is running into a canonical tank, which is pointed down at a constant rate of 6π cm³/sec. The cone has a height of 10 cm and a base radius of 5 cm, then how fast is the water level rising when the water reaches 2 cm deep?",
+    "options": [
+      "A) ",
+      "B) 6 cm/sec",
+      "C) 4 cm/sec",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let F be the anti-derivative of f. Then which of the following is NOT true about F and f?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) c",
+      "D) c"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letf(x)=1xf(x) = \\frac{1}{\\sqrt{x}}f(x)=x​1​andg(x)=2−16x3g(x) = 2 - \\frac{1}{6}x^{3}g(x)=2−61​x3be two functions. For what values of x do the graphs of f and g have tangent lines of the same slope?",
+    "options": [
+      "A) ",
+      "B) 1",
+      "C) 4",
+      "D) 1/4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the value of a number in the interval (0, 1) that satisfies the Mean Value Theorem for the functionf(x)=3x2−5x+1f(x) = 3x² - 5x + 1f(x)=3x2−5x+1?",
+    "options": [
+      "A) 1/2",
+      "B) 3/5",
+      "C) 5/6",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letf(x)=3x+2x−sinx+exf(x) = 3x + 2x - sin{x} + e^{x}f(x)=3x+2x−sinx+ex. What is the value off′(0)f^{'}(0)f′(0)?",
+    "options": [
+      "A) 2",
+      "B) 1",
+      "C) -1",
+      "D) 4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let f and g be differentiable functions, andh(x)=g(f(3x+1))h(x) = g(f(3x+1))h(x)=g(f(3x+1)). Iff′(1)=f(1)=2f^{'}(1) = f(1) = 2f′(1)=f(1)=2andg′(2)=1g^{'}(2) = 1g′(2)=1, then what is the value ofh′(0)h^{'}(0)h′(0)?",
+    "options": [
+      "A) 2",
+      "B) 1",
+      "C) 6",
+      "D) 4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following describes the mechanical meaning of derivative?",
+    "options": [
+      "A) Gradient of graphs of functions",
+      "B) Area under the curve",
+      "C) Instantaneous rate of change",
+      "D) Slope of tangent line"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true about the zero(s) of a function f(x)?",
+    "options": [
+      "A) If f(a)=0, then x-a is a factor for f(x).",
+      "B) If f(a)=0, then (x-a)² is a factor of f(x).",
+      "C) If f(a)=0, then a is not necessarily in the domain.",
+      "D) If f(a)=0, then y=a is they-intercept."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

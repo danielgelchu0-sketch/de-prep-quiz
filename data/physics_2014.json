@@ -1,0 +1,354 @@
+[
+  {
+    "text": "Suppose a triangular object (O) is placed in front of a plane mirror and its image is observed at position (X). Which one of the following diagrams represents the image (I) formed by the mirror when it is observed from position (X)",
+    "options": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An object is placed 25.0 cm in front of a concave mirror having focal length of 10.0 cm. The magnification of the mirror is ____",
+    "options": [
+      "A) 2.5",
+      "B) 16.7",
+      "C) 0.67",
+      "D) 1.5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The unit vector in the direction of A⃗ = 3î + 4ĵ is ______.",
+    "options": [
+      "A) 3/5 î + 4/5 ĵ",
+      "B) 2î - ĵ",
+      "C) 3/2 î + 4/2 ĵ",
+      "D) î + ĵ"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following pair of vectors are collinear?",
+    "options": [
+      "A) 2î - 3ĵ and -4î - 6ĵ",
+      "B) î + ĵ and -î + ĵ",
+      "C) 2î + 3ĵ and -4î + 6ĵ",
+      "D) 2î + 3ĵ and -4î - 6ĵ"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following statements distinguishes between random and systematic errors?",
+    "options": [
+      "A) Systematic error can be minimized by taking several readings and averaging; whereas random error cannot be minimized.",
+      "B) Systematic error makes measured values to be always above or always below the true value; whereas random error causes measured values to be sometimes above and sometimes below the true value.",
+      "C) Random error makes measured values to be always above or always below the true value; whereas systematic error causes measured values to be sometimes above and sometimes below the true value.",
+      "D) Random error is biased, whereas systematic error does not show bias."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "For an object moving in straight line,",
+    "options": [
+      "A) if the displacement changes by equal amount in equal time interval, the displacement-time graph is horizontal line.",
+      "B) the area of the region under the displacement-time graph and the slope of velocity-time graph are, respectively, the acceleration and displacement of the object.",
+      "C) if the velocity increases by equal amount in equal time interval, the velocity-time graph is straight line with positive slope and the acceleration-time graph is horizontal.",
+      "D) the slope of displacement-time graph and the area of the region under acceleration-time graph are, respectively, the acceleration and velocity of the object."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true about satellite motion?",
+    "options": [
+      "A) A satellite moving closer to the Earth takes longer time to complete one revolution than a satellite farther from the Earth.",
+      "B) For two satellites moving around the Earth at equal orbital radius, a heavier satellite has larger speed than a lighter one.",
+      "C) For equal orbital radius, a satellite moving around the Earth has smaller speed than a satellite moving about Moon.",
+      "D) A satellite closer to Earth is faster than a satellite farther from the Earth."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A block of mass m is placed on a horizontal surface. The coefficient of static friction between the block and the surface is μ. A force of magnitude F acts on the block at an angle θ as shown in the figure below. The minimum magnitude of the force F required to slide the block on the surface is [DIAGRAM: image]",
+    "options": [
+      "A) μmg / (cosθ - μsinθ)",
+      "B) μmg / (cosθ + μsinθ)",
+      "C) μmg / (cosθ - sinθ)",
+      "D) μmg / (cosθ + sinθ)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A ball of mass m moving with a speed v strikes a hard wall at an angle θ with the wall. It is reflected with the same speed at the same angle as shown in the figure below.If the ball is in contact with the wall for time t, then the average force acting on the wall is given by [DIAGRAM: image]",
+    "options": [
+      "A) mv/t cos θ",
+      "B) mv/t sin θ",
+      "C) 2mv/t cos θ",
+      "D) 2mv/t sin θ"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "According to the work-energy theorem,",
+    "options": [
+      "A) work done by tension on an object tied to a string and moving in a horizontal circle is negative.",
+      "B) work done by gravity on an object thrown downward is negative.",
+      "C) work done by gravity on an object thrown upward and moving upward is negative.",
+      "D) work done by gravitational force on a satellite moving around the earth in a circular orbit is positive."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Standing wave is formed when two identical waves traveling in opposite directions in the same medium interfere with each other. If y1 and y2 are the interfering waves and y=y1+y2 is the resulting standing wave, which of the following is a correct combination?",
+    "options": [
+      "A) y1=A sin(kx-ωt), y2=A sin(kx+ωt), y=A sin(kx)cos(2ωt)",
+      "B) y1=A sin(kx-ωt), y2=A sin(kx+ωt), y=2A sin(kx)cos(ωt)",
+      "C) y1=A sin(kx-ωt), y2=A sin(kx-ωt), y=2A sin(kx)cos(ωt)",
+      "D) y1=A sin(kx-ωt), y2=A cos(kx+ωt), y=2A sin(kx-ωt)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A Young double slit experiment consists of two narrow slits separated by 0.06 mm and 1.2 m away from a screen. If the slits are illuminated with a light of wavelength 563 nm, the location of the fourth bright fringe on the screen is",
+    "options": [
+      "A) 0.394 cm",
+      "B) 0.45 cm",
+      "C) 3.94 cm",
+      "D) 4.5 cm"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An electric dipole consists of a negative charge -q placed at a point with x and y coordinates (-2,-2) and a positive charge +q at (2,2). The dipole is placed in a uniform electric field E directed in the positive x direction. If the dipole axis makes an angle θ with the field, which of the following is true about the dipole?",
+    "options": [
+      "A) The field rotates the dipole in the direction of decreasing the angle θ, until the dipole becomes parallel to the field.",
+      "B) The field rotates it in the direction of increasing the angle θ, until the dipole is perpendicular to the field.",
+      "C) It is in both translational and rotational equilibrium.",
+      "D) It travels in the direction of the electric field."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The electric potential at a distance of 2 cm from a -1.6 x 10-9C point charge is",
+    "options": [
+      "A) -14.4 V.",
+      "B) 720 V.",
+      "C) 4.4 V.",
+      "D) -720 V."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Two resistors R1=1 Ω and R2=4 Ω are connected in parallel to each other and their combination is connected in series with a third resistor R3=2 Ω. The whole combination is connected to a voltage source of potential difference 14 V.The potential difference across R1 is [DIAGRAM: image]",
+    "options": [
+      "A) 10 V.",
+      "B) 14 V.",
+      "C) 5 V.",
+      "D) 4 V."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider a long and tightly wound solenoid carrying current I, having length L and N turns of winding. If n is the number of turns per unit length, which of the following describes the magnetic field produced by the solenoid?",
+    "options": [
+      "A) The magnetic field inside the solenoid is zero, whereas the field outside is proportional to the length of the solenoid.",
+      "B) The magnetic field inside the solenoid is constant and is parallel to the solenoid's axis, whereas the field outside is negligible.",
+      "C) The magnetic field inside the solenoid is uniform and perpendicular to the axis of the solenoid.",
+      "D) The magnetic field outside the solenoid is as strong as the field inside it."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "According to the law of electromagnetic induction,",
+    "options": [
+      "A) the magnitude of emf induced in a circuit is directly proportional to the rate of change the magnetic flux crossing any surface bounded by the circuit.",
+      "B) a changing magnetic field parallel to the plane of a circuit induces an emf in it.",
+      "C) a constant magnetic flux crossing the surface of a circuit induced an emf in the circuit.",
+      "D) an emf is induced in a circuit when a constant magnetic field crosses its surface."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A resistor R, a capacitor C, and inductor L are connected in series to an AC voltage source that generates a sinusoidal voltage, V(t)=Vpsin(ω t), with Vpand ω being the peak voltage and angular frequency of the source. If XC, XL, and Z are capacitive reactance, inductive reactance, and impedance, respectively, Irmsand Vrmsare the root-mean-square (rms) values of the current and voltage, the average power dissipated in series the RLC circuit is given by",
+    "options": [
+      "A) A",
+      "B) IrmsVrms",
+      "C) C",
+      "D) Irms2Z"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "According to the Heisenberg's uncertainty principle,",
+    "options": [
+      "A) the larger the position uncertainty, the larger the momentum uncertainty.",
+      "B) if the uncertainty in position decreases, the momentum uncertainty decreases, too.",
+      "C) the more precisely we measure the position of a particle, we become less precise of its momentum and vice versa.",
+      "D) we can measure both the position and momentum of a particle simultaneously with unlimited precision."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The graph of nuclear binding energy per nucleon (BE/A) versus mass number (A) has its peak near an atomic weight A = 56. Which of the following statements is true about the graph?",
+    "options": [
+      "A) Uranium (A = 235), which has larger binding energy than iron (A = 56), is more stable than iron.",
+      "B) Nucleus with larger number of neutron is more stable than nucleus of the same atom with smaller number of neutron.",
+      "C) For heavier nuclei (A > 56), the binding energy per nucleon decreases with the increase of mass number; implying that heavier atoms can increase their stability by increasing their protons' number.",
+      "D) For smaller atoms (A < 56), the biding energy per nucleon generally increases with the increase of mass number; indicating that lighter atoms can increase stability through nuclear fission."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following statements is NOT correct about reflection and refraction of sound waves and their applications?",
+    "options": [
+      "A) In pre-natal scanning, reflection and refraction of sound allows doctors to monitor the progress of a developing baby.",
+      "B) Reflection of sound (echo) is formed when sound enters a medium of varying densities.",
+      "C) Reflection and refraction of sound are used to detect flaws in metals and to help people park their cars.",
+      "D) Refraction of sound is the change in its direction as it travels through a medium having different densities."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A torque T rotates an object of mass m and moment of inertia I through an angle θ. The work done on the object by the torque is",
+    "options": [
+      "A) Iθ",
+      "B) mθ",
+      "C) Tθ",
+      "D) TI"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A satellite revolves around the Earth in a circular orbit of radius r = 4 x 10^6 m. The period of the satellite is",
+    "options": [
+      "A) 2.5 x 109s.",
+      "B) 3.7 x 1027s.",
+      "C) 3.7 x 106s.",
+      "D) 2.5 x 1018s."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "One of the following statements is a correct description of the charging processes?",
+    "options": [
+      "A) During charging a neutral object by induction using a negatively charged rod, charge flows from the rod to the object.",
+      "B) When a neutral metallic sphere is charged by induction using a negatively charged rod, the sphere acquires a net negative charge.",
+      "C) When a positively charged object is momentarily brought into contact with a neutral metallic sphere, the sphere acquires a net positive charge.",
+      "D) When a plastic rod is rubbed with wool, the two objects acquire a net charge of the same sign."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A parallel plate capacitor is charged with a battery. The battery is then disconnected, and a dielectric material is inserted between the plates of the capacitor. Which of the following is correct about the effect of the dielectric?",
+    "options": [
+      "A) The potential difference between the plates remains the same and the charge increases.",
+      "B) The charge on the plates decreases and the energy stored increases.",
+      "C) The electric field between the plates and the energy stored decrease.",
+      "D) The capacitance remains the same and the electric field between the plates increases."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about the resistance of a conductor with a circular cross-section?",
+    "options": [
+      "A) At a given temperature, the resistance of copper and silver wires of the same length and diameter is the same.",
+      "B) The resistance of the conductor increases as its length increases and its diameter decreases.",
+      "C) The resistance of the conductor increases as its length and diameter increases.",
+      "D) The resistance of the conductor decreases as it is heated."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A student wants to investigate Ohm's law using an ammeter (A) and a voltmeter (V) to measure current through and potential difference across a resistor R. Moreover, she employs a rheostat to vary the potential difference across the resistor. Which of the following connections is the correct set up of the circuit to perform the experiment?",
+    "options": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Circular paths followed by two charges q1 and q2 moving with the same speed in uniform magnetic field directed into the page (X) are shown in the figure below. If the two charges have the same mass, which of the following is correct about the sign and the magnitude of charges? [DIAGRAM: image]",
+    "options": [
+      "A) q1 is negative, q2 is positive and |q1|<|q2|.",
+      "B) q1 is negative, q2 is positive and |q1|>|q2|.",
+      "C) q1 is positive, q2 is negative and |q1|<|q2|.",
+      "D) q1 is positive, q2 is negative and |q1|>|q2|."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The primary coil of a transformer has 250 turns and its secondary coil consists of 1500 turns. If 220 V is applied to its primary coil, the voltage induced in the secondary coil and the ratio of current in the primary coil to the current in the secondary coil, respectively, are",
+    "options": [
+      "A) 1320 V and 6",
+      "B) 1330 V and 6",
+      "C) 1220 V and 60",
+      "D) 1320 V and 60"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A diode is an electronic component that",
+    "options": [
+      "A) is useful to convert a DC voltage to AC voltage.",
+      "B) allows electric current to pass through it in one direction.",
+      "C) allows the flow of current when its p-type region is connected to the negative terminal of a cell.",
+      "D) allows current to pass through it either from cathode to anode or from anode to cathode."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Three forces, each having equal magnitudes of 10 N, are applied to an object on a horizontal surface. A force F1 makes an angle of 30° above positive x-axis, F2 makes 30° above the negative x-axis, and the third force F3 is directed along the positive x-axis. The magnitude and direction of their resultant force are, respectively",
+    "options": [
+      "A) 20 N 45° above positive x-axis.",
+      "B) 14.1 N in the positive y-axis.",
+      "C) 20 N in the negative y-axis.",
+      "D) 14.1 N 45° above positive x-axis."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A student throws a ball vertically upward with a speed of 20 m/s. The maximum height reached by the ball and its velocity 3.0 s after it was thrown are, respectively",
+    "options": [
+      "A) 20 m and 30 m/s upward.",
+      "B) 15 m and 10 m/s, downward.",
+      "C) 105 m and 50 m/s upward.",
+      "D) 20 m and 10 m/s downward."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

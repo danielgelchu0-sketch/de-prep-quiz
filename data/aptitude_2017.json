@@ -1,0 +1,662 @@
+[
+  {
+    "text": "KEY: LOCK; ________ : Computer",
+    "options": [
+      "A) Monitor",
+      "B) Password",
+      "C) Server",
+      "D) Screen"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "PHYSICIAN: HOSPITAL; ________ : School",
+    "options": [
+      "A) Supervisor",
+      "B) Teacher",
+      "C) Administrator",
+      "D) Student"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "NEST: BIRD; ________ : Lion",
+    "options": [
+      "A) Hive",
+      "B) Cave",
+      "C) Backyard",
+      "D) Den"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "AUTOMOBILE: GARAGE; ________ : Hangar",
+    "options": [
+      "A) Train",
+      "B) Airplane",
+      "C) Deck",
+      "D) Truck"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "PHONEY",
+    "options": [
+      "A) Genuine",
+      "B) Authentic",
+      "C) Fake",
+      "D) Funny"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "THEFT",
+    "options": [
+      "A) Gossip",
+      "B) Suspicion",
+      "C) Burglary",
+      "D) Hypocrisy"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "HUMOROUS",
+    "options": [
+      "A) Amusing",
+      "B) Doubting",
+      "C) Satiating",
+      "D) Satisfying"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "INVINCIBLE",
+    "options": [
+      "A) Visible",
+      "B) Conquerable",
+      "C) Breakable",
+      "D) Debatable"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "FONDLY",
+    "options": [
+      "A) Hatred",
+      "B) Agreeable",
+      "C) Affectionate",
+      "D) Sociable"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "SUBORDINATE",
+    "options": [
+      "A) Soldier",
+      "B) Inferior",
+      "C) Superior",
+      "D) Retainer"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The government has justrepealedthe law segregating public facilities so that there will be no longer discrimination",
+    "options": [
+      "A) signed",
+      "B) cancelled",
+      "C) approved",
+      "D) renewed"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The man was killed in a car accident. His body was dragged from the burningwreckageof his car.",
+    "options": [
+      "A) backseats",
+      "B) wheels",
+      "C) remains",
+      "D) fire"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Harvard is one of the mostprestigiousuniversities in the USA.",
+    "options": [
+      "A) furnished",
+      "B) expensive",
+      "C) privileged",
+      "D) admired"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "",
+    "options": [
+      "A) Strolling",
+      "B) Striding",
+      "C) Tiptoeing",
+      "D) Flying"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "",
+    "options": [
+      "A) Vehicle",
+      "B) Boat",
+      "C) Yacht",
+      "D) Ship"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "",
+    "options": [
+      "A) Signal-box",
+      "B) Voting",
+      "C) Election",
+      "D) Ballot-box"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "",
+    "options": [
+      "A) Polyglot",
+      "B) Polyandry",
+      "C) Monogamy",
+      "D) Polygamy"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Identify thecorrectsentence:",
+    "options": [
+      "A) One of all-time greatest payer has recently retired from football.",
+      "B) One of all-time greatest payers have recently retired from football.",
+      "C) One of all-time greatest payer have recently retired from football.",
+      "D) One of all-time greatest payers has recently retired from football."
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Identify thecorrectsentence:",
+    "options": [
+      "A) I wanted to first take shower and then ate snack.",
+      "B) I wanted to first take shower and then eating snack.",
+      "C) I wanted to first take shower and then eat snack.",
+      "D) I wanted first take shower and then eat snack."
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Identify thecorrectsentence:",
+    "options": [
+      "A) Their school takes only twenty minutes on foot.",
+      "B) They’re school takes only twenty minutes on foot.",
+      "C) There school takes only twenty minutes on foot.",
+      "D) Theirs school takes only twenty minutes on foot."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Identify thecorrectsentence:",
+    "options": [
+      "A) If you’ll not feel well, you better go to clinic.",
+      "B) If you’re not feeling well, you’d better go to clinic.",
+      "C) If you’ll not feel well, you’d better go to clinic.",
+      "D) If you’re not feeling well, you better go to clinic."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The main intent of the writer in the text is to imply that __________.",
+    "options": [
+      "A) most successful employers are those who have achieved their dreams through trade-off.",
+      "B) there are steps that one needs to undergo in the transition from employee to employer.",
+      "C) the transition from employee to employer does not require much effort except having the interest.",
+      "D) smooth transition from being an employer to employee is more of a matter of destiny than hard work."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What does the sentencemost successful employers today have risen through the ranks, relying on their ability to manage and direct others effectivelyimply?",
+    "options": [
+      "A) All successful employers today have reached their level passing through lots of ups and downs.",
+      "B) Most successful employers have proven their leadership ability through their journey.",
+      "C) Every successful employer is the result of his/her hard work and diligence.",
+      "D) Having different ranks and rewards is the real manifestation of successful employers."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In Paragraph 2, the phrasethese two individualsrefers to __________.",
+    "options": [
+      "A) the employer and the employee.",
+      "B) people and the community as a whole.",
+      "C) John Smith & the person in movie industry.",
+      "D) the grocery store and the movie theatre."
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "According to the passage, what does the wordvicesmost likely denote?",
+    "options": [
+      "A) weaknesses",
+      "B) ambitions",
+      "C) deputies",
+      "D) strengths"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is described as an absurd assumption about reading according to the passage?",
+    "options": [
+      "A) Ideas can be instantly absorbed and organized.",
+      "B) Superior minds are easy to understand.",
+      "C) Reading does not require physical effort.",
+      "D) All books are equally valuable."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the ideas is used as evidence for your answer to question number 26?",
+    "options": [
+      "A) Line 2 ( We do not ... disposal of the book. )",
+      "B) Line 11 (Hence, it follows... remains to be...)",
+      "C) Line 3 - 4 (If we are not ... is not in us.)",
+      "D) Line 7-9 (For we ... greater than our own.)"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Why does the author emphasize the act of reflection?",
+    "options": [
+      "A) To improve intellectual superiority.",
+      "B) To make reading more enjoyable.",
+      "C) To complete the reading process.",
+      "D) To simplify the ideas encountered."
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the ideas is used as evidence for your answer to question number 28?",
+    "options": [
+      "A) Line 4 (tired after reading... not in us.)",
+      "B) Line 1 (What is the ... preoccupation.)",
+      "C) Line 10 (The assumption ... absurdity.)",
+      "D) Line 12 (Reading without... ridiculous.)"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following can be rearranged into a 5-letter English word?",
+    "options": [
+      "A) GOFAT",
+      "B) PASEH",
+      "C) PYRIO",
+      "D) DWAEP"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If two days after tomorrow is four days before Saturday, what day is it today?",
+    "options": [
+      "A) Sunday",
+      "B) Monday",
+      "C) Friday",
+      "D) Saturday"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Aki is Bali's sister. Yaya is Bali's mother. Lema is Yaya's father. Gette is Lema's mother. Then how is Aki related to Lema?",
+    "options": [
+      "A) grandson",
+      "B) grandmother",
+      "C) daughter",
+      "D) granddaughter"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Statement I:All football players are sportspersons.Statement II:All sportspersons are fit.Conclusion:Some football players are not fit. This conclusion is:",
+    "options": [
+      "A) reasonably correct",
+      "B) appropriate",
+      "C) incorrect",
+      "D) can't be determined"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "How many months have a twenty-eighth day?",
+    "options": [
+      "A) one month",
+      "B) two months",
+      "C) seven months",
+      "D) twelve months"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Gad is older than Dan and Dan is older than Betti. With Senni being older than Dan and younger than Gad, who is the youngest?",
+    "options": [
+      "A) Gad",
+      "B) Dan",
+      "C) Betti",
+      "D) Senni"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is true?",
+    "options": [
+      "A) Every non-negative integer is a natural number.",
+      "B) Every integer number can be numerator of a rational number.",
+      "C) The sum of two irrational numbers is irrational number.",
+      "D) The intersection of the set of integers and the set of irrational numbers is non-empty set."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the largest number?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A ball is shot into the air from the top of the building. The height in meter is given byh(t)=kt−t2+30h(t)=kt-t^2+30h(t)=kt−t2+30, wheretttis the time taken in second. What is the possible value ofkkkif the maximum value of height from the ground is 34?",
+    "options": [
+      "A) 4",
+      "B) ",
+      "C) 2",
+      "D) 5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Iff(x)=sin⁡πx+ex2+∣x∣+x3f(x)=\\sin \\pi x + e^{x^2} + |x| + x^3f(x)=sinπx+ex2+∣x∣+x3andg(x)=cos⁡πx+ln⁡(x+1)+xg(x)=\\cos \\pi x + \\ln(x+1) + xg(x)=cosπx+ln(x+1)+x, then what is the value off(1)−2g(0)f(1)-2g(0)f(1)−2g(0)?",
+    "options": [
+      "A) 2",
+      "B) e",
+      "C) 2",
+      "D) 0"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the domain ofg(x)=ln⁡(1−x)+ln⁡xg(x)=\\ln(1-x)+\\ln xg(x)=ln(1−x)+lnx?",
+    "options": [
+      "A) }",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If−x+2y=4-x + 2y = 4−x+2y=4, then what is the value of25y5x\\frac{25^y}{5^x}5x25y​?",
+    "options": [
+      "A) 625",
+      "B) 125",
+      "C) 25",
+      "D) 5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A farmer has ten cows. Every day, he receives the same amount of milk in liters from each cow. One day, due to the food supply, he received half of the daily amount of milk from the four cows; he received three-fourth of the daily amount of milk from the three cows, and no milk from the other three cows. In total, he didn’t receive ninety-two liters of milk on that day. How many liters of milk did he receive on that particular day?",
+    "options": [
+      "A) 16",
+      "B) 92",
+      "C) 68",
+      "D) 160"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A woman burns 416 calories in an hour exercise at a fitness center. If she burns 10 calories per minute swimming in the water and 6 calories per minute pedaling on the stationary bike, then how many minutes of the hour does she spend exercising in the water?",
+    "options": [
+      "A) 14",
+      "B) 56",
+      "C) 46",
+      "D) 60"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A daily profit earned by a T-shirt factory is modeled by the formulap(x)=−x2+1,400x−80,000p(x) = -x^2 + 1,400x - 80,000p(x)=−x2+1,400x−80,000, wherepppis the profit andxxxis the price for each T-shirt sold. What range of prices will yield a profit of at least Birr 400,000?",
+    "options": [
+      "A) 800",
+      "B) 800",
+      "C) 600",
+      "D) 800"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the functionf(x)=x25f(x) = x^{\\frac{2}{5}}f(x)=x52​?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the value ofzzzin the sequence1,2,4,8,10,20,22,z,…1, 2, 4, 8, 10, 20, 22, z, \\dots1,2,4,8,10,20,22,z,…?",
+    "options": [
+      "A) 24",
+      "B) 44",
+      "C) 40",
+      "D) 32"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the possible value of the missing termxxxin the sequence−1,0,1,2,−1.8,1,26,−1,x,1,242,−1,728,1,…-1, 0, 1, 2, -1.8, 1, 26, -1, x, 1, 242, -1, 728, 1, \\dots−1,0,1,2,−1.8,1,26,−1,x,1,242,−1,728,1,…?",
+    "options": [
+      "A) 36",
+      "B) 54",
+      "C) 34",
+      "D) 80"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "How many days are there from the first day of March to the last day of May?",
+    "options": [
+      "A) 92",
+      "B) 89",
+      "C) 90",
+      "D) 91"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the lengths of the sides of a trianglex,y,zx, y, zx,y,z, and the quantities given below:Quantity PQuantity Q3x+y−z3x + y - z3x+y−z4x4x4x",
+    "options": [
+      "A) Quantity P is greater than Quantity Q.",
+      "B) Quantity P is less than Quantity Q.",
+      "C) The two quantities are equal.",
+      "D) The two quantities cannot be compared."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A corporation pays ten employees a total of Birr 100,000 every month. Six out of ten employees receives less than Birr 10,000 per month.Quantity PQuantity QThe average of the monthly payment of the corporationThe median of the monthly payment of the corporation",
+    "options": [
+      "A) Quantity P is less than Quantity Q.",
+      "B) Quantity P is greater than Quantity Q.",
+      "C) The two quantities are equal.",
+      "D) The two quantities cannot be compared."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An engineer is putting black and white colored ceramics on a square floor of area36m236\\text{m}^236m2. Each ceramic has area1m21\\text{m}^21m2. The engineer places the black ones along both diagonals and the rest is covered by white colored ceramics. In what ratio is black to white ceramic used?",
+    "options": [
+      "A) 1:2",
+      "B) 1:6",
+      "C) 4:5",
+      "D) 1:5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A person makes a glass of juice and used half of the glass with avocado, one third of the remaining half with mangoes and the rest is filled by banana of bananas to avocadoes in the glass?",
+    "options": [
+      "A) 1:2",
+      "B) 1:6",
+      "C) 2:3",
+      "D) 1:3"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Two pipes A and B are used to fill a water tank. Pipe A can fill the tank in 3 hours, and pipe B can fill the same tank in 6 hours. How long will it take in hours to fill the tank if both pipes are opened at the same time?",
+    "options": [
+      "A) 4",
+      "B) 5",
+      "C) 2",
+      "D) 9"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A milk factory has only two pipe machines used to fill bottles for market. The old and new machines can fill 35 and 50 bottles per hour, respectively, and a total of 590 bottles are filled every day. One day the old machine was broken after working for 4 hours. How long will it take in hours for the new machine to fill the remaining bottles on that day?",
+    "options": [
+      "A) 5",
+      "B) 8",
+      "C) 7",
+      "D) 13"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "How many triangles are there in the diagram? [DIAGRAM: image]",
+    "options": [
+      "A) 14",
+      "B) 18",
+      "C) 12",
+      "D) 16"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If a spherical soccer ball has a volume of36πcm336\\pi \\text{ cm}^336πcm3, then which one of the following is the surface area of the ball in square centimeter?",
+    "options": [
+      "A) π",
+      "B) ",
+      "C) ",
+      "D) π"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Points A, B and C are located on a circle with center O and radius 2 units long. If A, B and C are joined to form an equilateral triangle, then what is the area of triangle ABC in square units?",
+    "options": [
+      "A) ",
+      "B) 3",
+      "C) ",
+      "D) 1"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "How many days did the student study less than 8 hours?",
+    "options": [
+      "A) 6",
+      "B) 18",
+      "C) 12",
+      "D) 24"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which time in hours is the median amount of the study?",
+    "options": [
+      "A) 2",
+      "B) 6",
+      "C) 4",
+      "D) 8"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "How many days did the student study more than the average amount of the study?",
+    "options": [
+      "A) 8",
+      "B) 5",
+      "C) 15",
+      "D) 17"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

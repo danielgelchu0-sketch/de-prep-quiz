@@ -1,0 +1,552 @@
+[
+  {
+    "text": "Which one of the following units is NOT a possible unit of electric field strength?",
+    "options": [
+      "A) Newton/Coulomb",
+      "B) Joule/Coulomb",
+      "C) Volt/meter",
+      "D) Joule/(Coulomb×meter)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements does NOT describe magnetic nature of a material?",
+    "options": [
+      "A) There is no a single magnetic North or magnetic South Pole.",
+      "B) Magnetic dipoles of a material aligned parallel when the magnetic material is placed in external magnetic field.",
+      "C) Magnetic molecules in a magnet will align when they are heated or hammered.",
+      "D) Magnetic molecules (dipoles) are oriented randomly when a material lose its magnetism."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about conduction in semiconductors?",
+    "options": [
+      "A) N-type semiconductor is made from half-filled shell atoms doped with accepter atoms.",
+      "B) P-type semiconductors have holes as minority charge carriers in the crystal lattice of the material.",
+      "C) The majority charge carriers in N-type semiconductors are electrons due to doping.",
+      "D) When atoms with half-filled electrons are doped with atoms of five valance electrons, the majority charge carriers are holes."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the acceleration due to gravity at an altitude twice the radius of the Earth? (gEg_EgE​is the gravitational acceleration on the surface of the Earth).",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Four capacitors are connected in a capacitor network as shown in the figure below.The equivalent capacitance between terminals a and b in μF is [DIAGRAM: image]",
+    "options": [
+      "A) ",
+      "B) 12",
+      "C) 4",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A 64 V battery is connected to a series combination of 3 kΩ bulb and 4 kΩ electric iron. If the total current in the circuit is 8 mA, what is the internal resistance of the battery?",
+    "options": [
+      "A) 1 kΩ",
+      "B) 7 kΩ",
+      "C) 8 kΩ",
+      "D) 15 kΩ"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A solenoid with 5000 turns and length 1m carries 15A of current. If no iron core is inserted in the solenoid, what is the magnetic field strength at the center of the solenoid?",
+    "options": [
+      "A) 2",
+      "B) 2",
+      "C) 2",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A small source emits sound waves which are spherical. The intensity of the sound wave measures at a distance r = 3.0 m from the source is 1.5 W/m². At what distance from the source would the intensity be one-fourth as much as it is at r = 3.0 m?",
+    "options": [
+      "A) 12.0",
+      "B) 9.0",
+      "C) 4.5",
+      "D) 6.0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider a system of two point masses M1 and M2 with M1 = 0.5 M2. The two masses are located on the x-y plane as shown in the figure below.Which one of the following alternatives indicates the position of center of mass of the system? [DIAGRAM: image]",
+    "options": [
+      "A) m",
+      "B) m",
+      "C) m",
+      "D) m"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Light ray is allowed to enter from air medium(nair=1)(n_{air}=1)(nair​=1)into water medium (index of refractionnw=43)n_w=\\frac{4}{3})nw​=34​)at an angle of30∘30^\\circ30∘with the normal to air-water interface (boundary). Which one of the following is correct about the ray of light?",
+    "options": [
+      "A) The sine of the angle of refraction of the light ray in water is equal to 0.5.",
+      "B) The sine of the angle of refraction of the light ray in water is equal to 0.38.",
+      "C) 1.33",
+      "D) 0.9"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A fluid travelling over an object's surface exerts less pressure than if the fluid was static. This is a statement of",
+    "options": [
+      "A) Bernoulli's principle.",
+      "B) principle of continuity.",
+      "C) Pascal's principle.",
+      "D) Archimedes' principle."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following activities of experiment is NOT necessary to determine the specific latent heat of vaporization of water?",
+    "options": [
+      "A) Measuring temperature",
+      "B) Measuring volume",
+      "C) Measuring time",
+      "D) Measuring mass"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about critical and boiling points of a substance?",
+    "options": [
+      "A) The critical point and the boiling point of a substance occur at the same specific temperature and pressure.",
+      "B) Both critical temperature and boiling point of a substance can be increased or decreased based on the pressure of the surrounding.",
+      "C) The boiling point of a substance can be different based on the pressure of the surrounding whereas critical point occurs at one specific pressure and temperature.",
+      "D) The critical temperature of a substance can be increased or decreased based on the pressure of the surrounding whereas boiling point does not vary with the pressure of the surrounding."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A 30 kg rigid object has a moment of inertia 45 kg⋅m2about its center of mass. What is the object's moment of inertia when it rotates through an axis 2 m away and parallel to the axis through its center of mass?",
+    "options": [
+      "A) 90 kg⋅m2",
+      "B) 165 kg⋅m2",
+      "C) 180 kg⋅m2",
+      "D) 105 kg⋅m2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Two coplanar forces acts on a uniform beam as shown in the figure below.The moment of force on the beam is [DIAGRAM: image]",
+    "options": [
+      "A) 48.0 Nm.",
+      "B) 12.0 Nm.",
+      "C) 30.0 Nm.",
+      "D) 24.0 Nm."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Water flows at the rate of 500.0 cm³/s at small cross-section 5 cm². The larger cross-section is 25 cm². What is the ratio of the speed of the water at A₁ to A₂. [DIAGRAM: image]",
+    "options": [
+      "A) 5",
+      "B) 100",
+      "C) 0.2",
+      "D) 20"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An ideal monoatomic gas expands adiabatically from an initial volume of 2 liters at a temperature of 300 K to 16 liters of volume. What is the final temperature of the gas? (Use the ratio of specific heat capacity at constant pressure to that at constant volume to be 5/3.)",
+    "options": [
+      "A) 37.5 K",
+      "B) 75 K",
+      "C) 2400 K",
+      "D) 1200 K"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider a particle performing a circular motion around a circle of radiusrwith an angular velocityω\\omegaωand the particle's projection on the horizontal diameter of the circle (between points Q and R) as shown in the figure below?Which one of the following statements is correct about the motion of the particle and its projection onQR‾\\overline{QR}QR​ [DIAGRAM: image]",
+    "options": [
+      "A) ",
+      "B) The circular motion of the particle can be taken as a simple harmonic motion.",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Air molecules vibrate in a pipe of length L closed at one end but open at the other. If the speed of sound through the pipe isVVV, which one of the following statements is correct about the resonance effects of vibration of air molecules in the pipe?",
+    "options": [
+      "A) ",
+      "B) L",
+      "C) ",
+      "D) L"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A monochromatic light of wave lengthλ\\lambdaλpasses through double slits separated by a distanced. If the path difference between the lights is a and being an integer (0, 1, 2, 3, ...). Which one of the following would be observed on screen behind the slits?",
+    "options": [
+      "A) λ",
+      "B) nλ",
+      "C) nλ",
+      "D) 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose you are standing on a horizontal floor, in a room, with one of your feet and leaning the wall of the room with the other foot. The number of action reaction pair of forces you experience is",
+    "options": [
+      "A) 1.",
+      "B) 3.",
+      "C) 2.",
+      "D) 4."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The amount of heat energy required to change a substance from a liquid to a gaseous state is known as",
+    "options": [
+      "A) specific heat capacity.",
+      "B) quantity of heat.",
+      "C) latent heat of fusion.",
+      "D) latent heat of vaporization."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is correct about mechanical waves?",
+    "options": [
+      "A) The maximum height in a transverse wave is known as the trough of the wave.",
+      "B) The time taken for one complete wave to pass a given point is called the frequency of the wave.",
+      "C) The distance between two identical points on adjacent waves is known as the wavelength of the wave.",
+      "D) The number of complete waves that passes a given point per time is called the period of the wave."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A car of mass 1.50 × 10³ kg collides with a wall and rebounds. The initial and final velocities of the car arev1=−15.0v_1 = -15.0v1​=−15.0m/sandv2=2.60v_2 = 2.60v2​=2.60m/srespectively. If the collision lasts for 0.15 s, what is the magnitude of the average force exerted on the car?",
+    "options": [
+      "A) 2.60 × 10⁴ N",
+      "B) 3.96 × 10³ N",
+      "C) 2.64 × 10⁴ N",
+      "D) 1.76 × 10⁵ N"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Starting from rest, a block of mass 5.0 kg slides 2.5 m down a rough 37° incline. The coefficient of kinetic friction between the block and the incline isµk=0.44µ_k = 0.44µk​=0.44. What is the work done by the friction force on the block?",
+    "options": [
+      "A) -75.00 J",
+      "B) -18.92 J",
+      "C) -44.00 J",
+      "D) -59.00 J"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An inclined plane is 20 m long and is inclined at an angle of 15° to the horizontal. If the effort required to push a block of weight 3,000 N up the slope is 900 N, what is the efficiency of the inclined plane?",
+    "options": [
+      "A) 100 %",
+      "B) 86.7 %",
+      "C) 25.9 %",
+      "D) 30.0 %"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A wooden block of volume 5.00 × 10⁻⁴ m³ floats partially submerged in water, and a small steel object of massmis placed on top of the block. Whenm= 0.25 kg, the system is in equilibrium and the top of the wooden block is at the level of the water. What is the density of the wood?",
+    "options": [
+      "A) 1000 kg.m⁻³",
+      "B) 1500 kg.m⁻³",
+      "C) 500 kg.m⁻³",
+      "D) 800 kg.m⁻³"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A boy in a journey covers his route by travelling 3.0 km east and 4.0 km north. What is the magnitude of his resultant displacement?",
+    "options": [
+      "A) 5.0 km",
+      "B) 1.0 km",
+      "C) 7.0 km",
+      "D) 2.7 km"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The graph given below shows the velocity of a man travelling on a motorcycle as a function of time.Which one of the following statements is correct about the velocity-time graph? [DIAGRAM: image]",
+    "options": [
+      "A) The displacement during the time interval from t = 6 s to t = 14 s is equal to the area of region II minus the area of region III.",
+      "B) The displacement during the time intervals t = 0 to t = 6 s is equal to the area under the velocity-time graph in the given interval.",
+      "C) The acceleration during the time interval from t = 6 s to t = 10 s is equal to the gradient of the curve in the given interval and it is negative.",
+      "D) The acceleration in the first 6 s is equal to the gradient of the curve in the given interval and it is positive."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A bimetallic strip made up of iron and brass bonded together is used in a thermostat. The coefficient of linear expansions for iron and brass are 1.1 × 10⁻⁵/K and 1.9 × 10⁻⁵/K, respectively. Which of one the following phenomena occurs when the temperature changes?",
+    "options": [
+      "A) When the temperature decreases, the brass section of the bimetallic strip contracts slowly than the iron and the strip bends towards the brass section.",
+      "B) When the temperature increases, the iron section of the bimetallic strip expands faster than the brass and the strip bends towards the brass section.",
+      "C) When the temperature increases, the brass section of the bimetallic strip expands faster than the iron and the strip bends towards the iron section.",
+      "D) When the temperature decreases, the iron section of the bimetallic strip contracts faster than the brass and the strip bends towards the iron section."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements does NOT describe coherent light or interference of coherent light?",
+    "options": [
+      "A) Two waves which maintain constant phase relationship can produce sustained interference.",
+      "B) Sustainable interference pattern can be formed by two waves with variable phase difference.",
+      "C) In order for two waves to be coherent, they must be the same type of wave.",
+      "D) Coherent light waves have the same frequency and wavelength."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Kirchhoff's junction rule is a consequence of conservation of",
+    "options": [
+      "A) momentum.",
+      "B) mass.",
+      "C) charge.",
+      "D) electrical energy."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements describes the photoelectric effect interaction of radiation with matter?",
+    "options": [
+      "A) When radiation of certain frequency f, interact with atoms of a material, electrons will be emitted with energies proportional to the radiation energy.",
+      "B) Any value of photons (radiations) is capable of producing photoelectrons from a metal.",
+      "C) In photoelectric effect, the photoelectron energy is directly proportional to the wavelength of incident radiation.",
+      "D) The intensity of radiation incident on a material can affect the energy of photoelectrons emitted from the metal surface."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A positive point charge of 2 μC is placed on the x-axis at the origin and a positive charge of 6 μC and a negative point charge of -4 μC are placed, respectively at x=-3cm and x=+3cm on the x-axis. What is the net electric force on the 2 μC charge?",
+    "options": [
+      "A) 200 N toward the negative x-axis",
+      "B) 200 N toward the positive x-axis",
+      "C) 40 N toward the positive x-axis",
+      "D) 40 N toward the negative x-axis"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider a point charge Q in an electrostatic field and a point mass m in a gravitational field. Which one of the following statements is correct about the potential energy of the objects?",
+    "options": [
+      "A) The electric potential decreases as a positive charge moves opposite to the electric field while the gravitational potential of the mass increases when it moves along the gravitational field.",
+      "B) The potential energy of the point charge and that of the point mass changes as they move over equipotential surfaces in their respective fields.",
+      "C) The potential energies at distance r, from the field sources for both Q and m vary inversely with r².",
+      "D) The gravitational force on mass m is in the same direction of the gravitational field while the electric force on Q in the same or opposite directions depending the sign of the charge."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Four resistors are connected to a voltage source as shown in the circuit diagram shown below.What are the current through the 3 Ω resistor and the voltage drop across the 4 Ω resistor, respectively? [DIAGRAM: image]",
+    "options": [
+      "A) ",
+      "B) 2 A and ¾ V",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An electron moving with a speed of 2.2×10⁷m/s east enters the region of a magnetic field strength of 5×10⁻⁴ T directed north. What is the magnetic force experienced by the electron?",
+    "options": [
+      "A) 1.76×10⁻¹⁵ N, perpendicular to north and east directions",
+      "B) 8×10⁻¹⁵ N, perpendicular to north and east directions",
+      "C) 3.64×10⁻³⁰ N, towards east direction",
+      "D) 1.76×10⁻¹⁵ N towards north direction"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A magnetic field intensity of 4x10⁻⁴ T crosses a coil having face area 100 cm² and 5x10⁴ turns perpendicular to the face of the coil. If the magnetic flux in the coil set to zero within 2 ms. What is the magnitude of the induced emf in the coil?",
+    "options": [
+      "A) 4x10⁻³ V",
+      "B) 100 V",
+      "C) 10 V",
+      "D) 2x10⁻⁵ V"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In a simple a.c circuit, an inductor of 4μH and a capacitor of 9 pf are connected in series to each other and the combination is connected to an a.c source. What is the angular frequency at resonance of the circuit?",
+    "options": [
+      "A) 3.8x10⁸ rad/s",
+      "B) 2.7x10⁵ rad/s",
+      "C) 3.6x10⁷ rad/s",
+      "D) 1.67x10⁸ rad/s"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Electrons in a Sodium atom emit radiation when they move from a higher energy level of -0.81eV to a lower energy level of -2.21eV. What is the frequency of radiation emitted in the process?",
+    "options": [
+      "A) 3.38x1014Hz",
+      "B) 1.40x1015Hz",
+      "C) 8.10x1015Hz",
+      "D) 2.21x1014Hz"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is NOT correct about power of a lens?",
+    "options": [
+      "A) The power of a lens decreases as the focal length of the lens increases.",
+      "B) The larger the focal length of the lens, the greater is the power of the lens.",
+      "C) The power of a lens is the measure of the strength of the lens.",
+      "D) Optician gives the name diopters for the unit of power of a lens."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following groups of physical quantities contains only vectors?",
+    "options": [
+      "A) Work, Electric field, Displacement and Force",
+      "B) Acceleration, Speed, Force and Electric field",
+      "C) Momentum, Energy, Magnetic field and Force",
+      "D) Displacement, Velocity, Magnetic field and Momentum"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which rule about the number of significant figures is correct? Zeros in the number",
+    "options": [
+      "A) 450.0 are significant figures.",
+      "B) 0.0023 are significant figures.",
+      "C) 1.1000 are not significant figures.",
+      "D) 2.70018 are not significant figures."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Given two vectors v₁ = 10 units along the positive y-axis and v₂ = 6 units at an angle of 37° above the positive x-axis. What is the scalar product of the vectors in square of units?",
+    "options": [
+      "A) 45",
+      "B) 36",
+      "C) 48",
+      "D) 60"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An airplane takes-off at airport A and travels 500 km due east within one hour and then turning to south it flies for 20 minutes to land on airport B which is 100 km away from the turning point. The magnitude average velocity of the plane during its flight between the two airports is",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) 450 km/h",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A bullet is fired with an initial speed v at an angle θ with the horizontal. It takes a time T to reach its maximum vertical displacement hmax. It hits the target point a distance R away and exactly in the horizontal level to the point where it was fired. Which one of the following statement is NOT correct about the motion of the bullet?",
+    "options": [
+      "A) The bullet hits the target at a time 2T after it was fired.",
+      "B) hmax is directly proportional to the initial speed v.",
+      "C) /2",
+      "D) θ should be different from 90° to hit the target at a distance R."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A man pushes a 25.0 kg object by 250 N force along an inclined plane inclined at an angle of 37° to the horizontal. If the object moves with constant speed, the friction force exerts on the block is",
+    "options": [
+      "A) 250.0 N, up the inclined plane.",
+      "B) 100.0 N, up the inclined plane.",
+      "C) 100.0 N, down the inclined plane.",
+      "D) 250.0 N, down the inclined plane."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The following three collisions occur in different systems.I. A billiard ball A collides with an identical ball B and comes to rest after collision, while ball B moves with the same velocity as ball A was moving before.II. A bullet moving with speed v hits a suspended mass and is embedded in it and the combination moves with common velocity.III. Two cars moving in opposite direction become at rest after collision.Which of the following statements is correct about these collisions?",
+    "options": [
+      "A) If and III are inelastic collisions.",
+      "B) I and II are elastic collisions.",
+      "C) I, II and III are inelastic collisions.",
+      "D) I and III are elastic collisions."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An object of mass M is attached to a spring of spring constant K, as shown in the figure below.If the mass is pulled to a point P, which is at distance A from equilibrium position O, and released, Which one of the following statements is correct about energy of the system? (assume the surface is frictionless) [DIAGRAM: image]",
+    "options": [
+      "A) At point O, the system has both kinetic and potential energy.",
+      "B) At point P, the system has both kinetic energy and potential energy.",
+      "C) At point P, the mass attain its maximum velocity.",
+      "D) At point Q the system has both kinetic energy and potential energy."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A forceF⃗=(i‾−3j‾)N\\vec{F} = (\\overline{i} - 3\\overline{j}) \\, NF=(i−3j​)Nacts on a wooden bar and drags the bar through a displacement ofr⃗=4i‾m\\vec{r} = 4\\overline{i}mr=4im. What is the torque due to the force in N.m?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

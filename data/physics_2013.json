@@ -1,0 +1,563 @@
+[
+  {
+    "text": "Kirchhoff's junction rule state that",
+    "options": [
+      "A) current traversing any closed loop at particular time is zero.",
+      "B) the potential drop at a given junction equals the electromotive force at that particular point",
+      "C) charge entering the junction equals the charge leaving that junction at a particular time.",
+      "D) the sum of the voltage drop across any closed loop equals the sum of electromotive force."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statement is NOT correct about the magnetic properties of matter?",
+    "options": [
+      "A) There is a tendency to oppose the applied magnetic field in a diamagnetic substance.",
+      "B) The unpaired electrons in diamagnetic materials will align with the applied magnetic field and parallel to each other.",
+      "C) The unpaired electrons in ferromagnetic materials will align with the applied magnetic field and parallel to each other.",
+      "D) The unpaired electrons in paramagnetic substance which will tend to align themselves in the same direction as the applied magnetic field."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose a conductor of length l carrying a current I placed in a uniform magnetic field of magnitude B. When the conductor is making an angle θ with that of the magnetic field then the force experienced by the conductor due to the magnetic field is given by",
+    "options": [
+      "A) )",
+      "B) = B I l cos θ",
+      "C) = B I / tan θ",
+      "D) B"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statement is correct about tangent galvanometer?",
+    "options": [
+      "A) The current through a coil of the wire generates a magnetic field at the center of the coil",
+      "B) It consists of a coil of insulated copper wire on a circular magnetic frame.",
+      "C) The current is inversely proportional to the tangent of the angle of the needle's deflection.",
+      "D) It is a device used to measure the electric current in terms of the electric field it produces."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A long conductor shown in the figure carries a current I in the direction indicated by the arrow. Which statement is NOT correct about the magnetic field produced by this current carrying conductor? [DIAGRAM: image]",
+    "options": [
+      "A) Doubling the current through the conductor doubles the field strength.",
+      "B) Reversing the current direction will reverse the direction of the magnetic field.",
+      "C) The magnetic field encircles the conductor.",
+      "D) The field strength is directly proportional to the distance from the conductor."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A coiled copper has 50 turns and coil cross-sectional area of 9 x10^-4m²? This coil is initially placed in a uniform magnetic field 0.02 T and pulled out of a field completely (where the field is zero) in 0.5 seconds. What is the magnitude of the induced electromotive force?",
+    "options": [
+      "A) 3.2 mV",
+      "B) 9.0 mV",
+      "C) 18 mV",
+      "D) 1.8 mV"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A 15.0 mH inductor is used to induce an electromotive force of 5.0 mV. What is the rate change of the induced current?",
+    "options": [
+      "A) 3.0 A/s",
+      "B) 0.30 A/s",
+      "C) 0.33 A/s",
+      "D) 3.3 A/s"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A coil and a permanent magnet are set in relative motion. Which one of the following statement is NOT correct about induced electromotive force?",
+    "options": [
+      "A) Coil with larger number of turns produce greater induced electromotive forces.",
+      "B) Moving a magnet relative to the coil and the coil relative to the magnet with equal speed will produce the same electromotive force.",
+      "C) The magnitude of the induced electromotive force is directly proportional to the relative velocity between the two.",
+      "D) The direction in which the coil moves relative to the magnetic field does not have any effect on the induced electromotive force."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the advantage of using alternating current in transmission of electric energy?",
+    "options": [
+      "A) It enables to reach the consumers at very high voltage.",
+      "B) It enables a transformer to increase or decrease the voltage as required.",
+      "C) It completely avoids energy loss due to heating.",
+      "D) It uses very high current in the transmission line."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Capacitive reactance is defined as",
+    "options": [
+      "A) the equivalent quantity to resistance when we are talking about capacitors.",
+      "B) the equivalent quantity to impedance of in RLC circuit.",
+      "C) the equivalent quantity to resistance when we are talking about inductors.",
+      "D) the equivalent quantity to resistance when we are talking about resistors."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The second law of thermodynamics states that",
+    "options": [
+      "A) the increase in the internal energy of a system is equal to the sum of the energy entering the system through heating, and work done on the system.",
+      "B) two bodies that are separately in thermal equilibrium with a third body must be in thermal equilibrium with each other.",
+      "C) no process is possible in which there is an overall decrease in the entropy of the universe.",
+      "D) no process is possible in which there is an overall increase in the entropy of the universe."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A mass-spring system set to oscillate in a simple harmonic motion over friction less horizontal surface. The amplitude of this oscillation is 20 cm. A second mass-spring system with the same spring constant is set to oscillate in the same way but with amplitude of 10 cm. The energy of the",
+    "options": [
+      "A) first mass-spring system has four times the second one.",
+      "B) second mass-spring system has the square of the first one.",
+      "C) first mass-spring system has twice the second one.",
+      "D) second mass-spring system has half of the first one."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose you are given the following traveling waves that have the same frequency and the same amplitude. AWhich graph represents the super position of the two waves? [DIAGRAM: image]",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A string vibrates with speed of 110 m/s in its fourth harmonic has a frequency of 880 Hz. What is the length of the string?",
+    "options": [
+      "A) 25.0 cm",
+      "B) 12.5 cm",
+      "C) C.50.0 cm",
+      "D) 31.3 cm"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A string vibrates with speed of 110 m/s in its fourth harmonic has a frequency of 880 Hz. What is the length of the string?",
+    "options": [
+      "A) 25.0 cm",
+      "B) 12.5 cm",
+      "C) 50.0 cm",
+      "D) 31.3 cm"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An interference patterns observed after a monochromatic beam of light passes through a single slit and a double slit. Which one of the following is correct about the width of the central maxima and the first order maxima in single slit and double slit?",
+    "options": [
+      "A) The width of the central maxima has equal with the width of the first order maxima in a single slit interference while it has twice the width of the first order maxima in double slit interference.",
+      "B) The width of the central maxima has twice the width of the first order maxima in both cases.",
+      "C) The width of the central maxima and first order maxima has equal width in both cases.",
+      "D) The width of the central maxima has twice the width of the first order maxima in a single slit interference while it has equal width in double slit interference."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A light wave of wavelength 590 nm pass through a narrow double slit of 0.2 mm slit separation. An interference pattern is formed on a screen at a distance of 1.5 m. What is the distance between the consecutive bright fringes on the screen?",
+    "options": [
+      "A) 1.97 mm",
+      "B) 4.43 mm",
+      "C) 0.43 mm",
+      "D) 44.3 mm"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "According to Gauss's law the net electric flux through any hypothetical closed surface is proportional to the enclosed;",
+    "options": [
+      "A) Electric field.",
+      "B) Potential difference.",
+      "C) Electric current.",
+      "D) Electric charge."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "When a dielectric material placed between two parallel metal plates in the presence of electric fields they enable the plates to store",
+    "options": [
+      "A) much less charge at different potential difference.",
+      "B) the same charge at the same potential difference.",
+      "C) much more charge at the same potential difference.",
+      "D) much more charge at different potential difference."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A parallel plate capacitor with plate areaAand plates separationdstores a chargeQwhen a potential differenceVis kept between the plates. Then the region between the plates is completely filled with a dielectric material of dielectric constantεr. IfEdenotes the electric field between the plates, the energy density stored by the capacitor is",
+    "options": [
+      "A) u =1⁄2ε0εrE2",
+      "B) u = ε0εrV2⁄2d",
+      "C) u =1⁄2εrE2V",
+      "D) u = ε0εrV2⁄2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A uniform conductor of lengthLand cross-sectional areaAcarries a currentIwhen a potential differenceVis applied across its ends. If the number of free electrons per unit volume of the conductor isn, and the electron charge ise, then the drift velocity of the electrons in the conductor is",
+    "options": [
+      "A) Vd= I/eLA",
+      "B) Vd= I/neA",
+      "C) Vd= I/neLA",
+      "D) Vd= I/neL"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A student wants to measure the length and height of the school laboratory. There are Vernier calipers, meter stick, micrometer screw gauge and meter tape measuring instruments in the laboratory. Which one of the following measuring instrument and unit is appropriate for the measurement?",
+    "options": [
+      "A) Meter tape and meter",
+      "B) Vernier calipers and millimeter",
+      "C) Micrometer screw gauge and millimeter",
+      "D) Meter stick and centimeter"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In reporting an experimental result the collected data has to be clearly tabulated with appropriate units. Which of the following table correctly represents a data collected during an experiment?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A 10 N force is applied in the direction of North-East, which of the following graphical representation of the force is correct? (Assume the lengths of all arrows are equal and the paper head points towards North)",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Two vectors of magnitude 8 units in the direction of East and the second vector of magnitude 6 units in the direction of North are given. If you add the two vectors using graphical method, which graph represents the resultant of the two vectors?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following pair of vectors are collinear?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Instantaneous velocity is different from average velocity in that, instantaneous velocity is",
+    "options": [
+      "A) the velocity at a particular instant of time.",
+      "B) in opposite direction to the displacement of the moving object.",
+      "C) the total displacement to the time taken.",
+      "D) the average velocity during the time of acceleration."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A car travelling at 20 m/s starts to speedup. After 5 minutes its speed is 144 m/s. What is the acceleration of the car?",
+    "options": [
+      "A) 28.8 m/s",
+      "B) 0.41 m/s",
+      "C) 24.8 m/s",
+      "D) 0.55 m/s"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A bullet of 200 g mass fired from a 30.0 m high building, horizontally. At the same time a bullet of the same mass fired vertically down from the same height. What can be concluded about the motion of the two bullets?",
+    "options": [
+      "A) A bullet fired vertically takes more time to strike the ground.",
+      "B) Both bullets move with the same horizontal velocity",
+      "C) Both bullets strike the ground at the same time.",
+      "D) A bullet fired horizontally takes more time to strike the ground."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A bird flies at speed of 10m/s to south relative to the Earth. A wind blows at speed of 4m/s to East relative to the Earth. What is the speed of the relative to the wind?",
+    "options": [
+      "A) 6m/s in the direction of North-East",
+      "B) 10.8m/s in the direction of North-West",
+      "C) 6m/s in the direction of South-East",
+      "D) 10.8m/s in the direction of South-West"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Dynamics is a branch of mechanics concerned with the motion or an object",
+    "options": [
+      "A) under the action of forces.",
+      "B) under the action of balanced forces.",
+      "C) without its causes.",
+      "D) whose velocity is constant."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statement is correct about, a bar on which a force acts at one end and pivoted at the other?",
+    "options": [
+      "A) The force is parallel to the angular acceleration produced.",
+      "B) The force, angular velocity and the torque are coplanar.",
+      "C) The force is coplanar with the torque it produces.",
+      "D) The force is collinear with the angular velocity"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The necessary condition for an object to be in rotational equilibrium is",
+    "options": [
+      "A) the net moment of all forces should be non-zero.",
+      "B) the net torque acting on the object is different from zero.",
+      "C) the net force exerting on the object must be zero.",
+      "D) the sum of clockwise torques equals to the sum of counter clockwise torques."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An aluminum wire of initial length 2.0 m where increased by 2.0 cm in its length being on application of a force of 9.0 N. What is the strain energy of the material?",
+    "options": [
+      "A) 0.18 J",
+      "B) 0.9 J",
+      "C) 9.0 ×10-2 J",
+      "D) 4.5 × 10-2J"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Ethanol has a surface tension of 22x 10-3 N/m and its density is of 0.789 g/cm3. The radius of the capillary tube is 15 mm, and the contact angle is 30o. Determine the height rise in the column of the capillary tube.",
+    "options": [
+      "A) 0.32 mm",
+      "B) 0.16 mm",
+      "C) 3.2 mm",
+      "D) 1.6 mm"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose a stream of fluid flows past a solid object, which one of the following does NOT affect the laminar flow of the fluid?",
+    "options": [
+      "A) Viscosity of the fluid",
+      "B) The density of the solid object",
+      "C) The shape of the solid object",
+      "D) The speed of the solid object"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Water enters a tube of non-uniform diameter. The speed of the force at the entry of area A1is 12 m/s and the speed becomes 4 m/s at the exit opening of area A2. Which one is correct about the ratio of A1/A2?",
+    "options": [
+      "A) 1/4",
+      "B) 4",
+      "C) 3",
+      "D) 1/3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The particular temperature and pressure at which the solid, liquid, and gaseous phases of a given substance are all at equilibrium with another is known as:",
+    "options": [
+      "A) Heat capacity",
+      "B) Triple point",
+      "C) Critical point",
+      "D) Phase change"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Most solids expand upon heating, which one of the following statements correctly describe the phenomena?",
+    "options": [
+      "A) Increase in temperature decreases the vibrational kinetic energy and increases the amplitude of the atoms constituting the solid.",
+      "B) Increase in temperature increases the vibrational kinetic energy and decreases the amplitude of the atoms constituting the solid.",
+      "C) Increase in temperature increases the vibrational kinetic energy and amplitude of the atoms constituting the solid.",
+      "D) Increase in temperature decreases the vibrational kinetic energy and amplitude of the atoms constituting the solid."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If 25 J is taken away by heat from a system, and the system does 20 J of work, what is the change in internal energy of the system?",
+    "options": [
+      "A) 45.0 J",
+      "B) -45.0 J",
+      "C) 5.0 J",
+      "D) -5.0 J"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A sample mixture of gas contains 72% of hydrogen and 28% of Helium. What is the partial pressure of helium at an atmospheric pressure of 76 cm of mercury (Hg)?",
+    "options": [
+      "A) 33.44 cm of Hg",
+      "B) 76.0 cm of Hg",
+      "C) 54.72 cm of Hg",
+      "D) 21.28 cm of Hg"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is NOT correct about the concept and units of coefficient of friction?",
+    "options": [
+      "A) Coefficient of friction is the ratio of frictional force to normal force.",
+      "B) Coefficient of static friction is less than its value of kinetic friction.",
+      "C) Coefficient of static friction has no unit.",
+      "D) The coefficient of friction is always less or equal to unity (1)."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A car is traveling at constant velocity along a straight line. Which statement is correct?",
+    "options": [
+      "A) The displacement of the car increase linearly with time.",
+      "B) The displacement of the car is in opposite direction.",
+      "C) The net force on the car is different from zero.",
+      "D) The acceleration of the car is in opposite direction."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about the impulse on an object?",
+    "options": [
+      "A) The impulse on an object is changed when the net force acting on the object is zero.",
+      "B) The area under the curve of momentum versus time graph is the impulse on an object.",
+      "C) Impulse is the change in momentum when a force is exerted on an object for a very short period of time.",
+      "D) Impulse is the rate of change in momentum due to external force exerted on an object for a very short period of time."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider two collisions that occurred between two trollies having the same mass, moving with the same speed, and in opposite directions. Collision 1: after collision the two trollies bounce back with the same speed. Collision 2: after collision the two trollies stick together due to magnetic coupler. Which of the following statement is correct about the two collisions?",
+    "options": [
+      "A) Both collisions are elastic.",
+      "B) Collision 1 is elastic and collision 2 is inelastic.",
+      "C) Both collisions are inelastic.",
+      "D) Collision 1 is inelastic and collision 2 is elastic."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose that you are given a mass attached to a spring and oscillates up and down. This mass-spring system has maximum gravitational potential energy (GPE), elastic potential energy (EPE) and kinetic energy (KE) at:",
+    "options": [
+      "A) middle, top and bottom respectively.",
+      "B) middle, bottom and top respectively.",
+      "C) bottom, middle and top respectively.",
+      "D) top, bottom and middle respectively."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A pendulum shown in the figure below has 2.5 m length and mass m. When it pass point A, its mass has a speed of 2.0 m/s. (neglect the air resistance) The height of the pendulum at displacement positions B and C is",
+    "options": [
+      "A) 0.1 m",
+      "B) 2.5 m",
+      "C) 0.2 m",
+      "D) 0.4 m"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A 5.0 kg stone is dropped from a top of 30.0 m building. At a height of 10.0 m above the ground, 60% of its initial potential energy is converted to kinetic energy. Which of the following statements is correct about the transformation of energy for the stone?",
+    "options": [
+      "A) The sum of its potential energy and kinetic energy is the same at every point during its fall.",
+      "B) 6.7 % of its gravitational potential energy is dissipated due to air resistance.",
+      "C) 60% of its original potential energy is converted to heat energy due to air resistance.",
+      "D) The remaining 40% of the energy is still available as gravitational potential energy."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A force of34Nacts at a displacement of43m.The magnitude and the direction of the torque produced is",
+    "options": [
+      "A) -7.0 N.m ̂k",
+      "B) 24.0 N.m ̂k",
+      "C) 24.0 N.m ̂",
+      "D) 7.0 N.m ̂"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A wheel starts rotating at 1.2 Hz and reaches 1.8 Hz in 5 seconds. Calculate the angular displacement it covers within 5 seconds?",
+    "options": [
+      "A) 10π rad",
+      "B) 3π rad",
+      "C) 30π rad",
+      "D) 15π rad"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If you are given the following physical quantities in angular motion: torque (?), Linear momentum (?), moment of inertia (I), angular speed (?), and angular acceleration (?). The angular momentum (L) is the",
+    "options": [
+      "A) product of moment of inertia and angular speed.",
+      "B) ratio of moment of inertia to angular acceleration.",
+      "C) product of moment of inertia and torque.",
+      "D) ratio of linear momentum to moment of inertia."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

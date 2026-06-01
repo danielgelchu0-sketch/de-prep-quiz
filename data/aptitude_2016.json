@@ -1,0 +1,629 @@
+[
+  {
+    "text": "WONDERFUL: SATISFACTORY: Gigantic:_____",
+    "options": [
+      "A) Spacious",
+      "B) Comprehensive",
+      "C) Large",
+      "D) Broad"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "BOTANY: PLANTS: _____ : Soil",
+    "options": [
+      "A) Biology",
+      "B) Pedology",
+      "C) Pedagogy",
+      "D) Sociology"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "TEAM: PLAYER: _____ : Member",
+    "options": [
+      "A) Trainer",
+      "B) Vocalist",
+      "C) Musician",
+      "D) Crew"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "JUSTICE: FAIRNESS: _____ : Bias",
+    "options": [
+      "A) Just",
+      "B) Compassion",
+      "C) Prejudice",
+      "D) Rational"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "IMMACULATE:",
+    "options": [
+      "A) Tidy",
+      "B) Spotless",
+      "C) Lucid",
+      "D) Filthy"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "RAVAGE:",
+    "options": [
+      "A) Renovate",
+      "B) Damage",
+      "C) Ruin",
+      "D) Devastate"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "DAUNTING:",
+    "options": [
+      "A) Entertaining",
+      "B) Frightening",
+      "C) Intimidating",
+      "D) Discouraging"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Unethical work habitsjeopardizeindividuals' development efforts and a country's overall growth potential.",
+    "options": [
+      "A) accelerate",
+      "B) speed-up",
+      "C) facilitate",
+      "D) detriment"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Lowland areas usually getintermittentrain; as a result, they have low animal and crop productions.",
+    "options": [
+      "A) sporadic",
+      "B) regular",
+      "C) frequent",
+      "D) substantial"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Risk factors such as smoking, overweight, lack of physical exercise and stressexacerbateblood pressure, heart disease, and gastro-intestinal problems.",
+    "options": [
+      "A) improve",
+      "B) aggravate",
+      "C) mitigate",
+      "D) moderate"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The ______ forests in western Ethiopia, accompanied by the shrimps and singing of birds and the fresh breeze are really inspirational.",
+    "options": [
+      "A) tranquil",
+      "B) empty",
+      "C) deserted",
+      "D) abandoned"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "To fight some of the incurable diseases, the world is facing currently, scientists are _______ biotechnology to develop effective drugs.",
+    "options": [
+      "A) overlooking",
+      "B) discounting",
+      "C) utilizing",
+      "D) setting aside"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "As it contains students from diverse cultural backgrounds, the class is a highly _______ one.",
+    "options": [
+      "A) heterogeneous",
+      "B) homogenous",
+      "C) consistent",
+      "D) invariable"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Many health professionals believe that laughter has _______ effects on the human body as it enhances both physical and emotional health.",
+    "options": [
+      "A) adverse",
+      "B) therapeutic",
+      "C) harmful",
+      "D) detrimental"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "",
+    "options": [
+      "A) The dog barked at me while I was riding a bicycle.",
+      "B) While riding a bicycle the dog barked at me.",
+      "C) The dog, while it was riding a bicycle, barked at me.",
+      "D) The dog that was riding a bicycle barked at me."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "",
+    "options": [
+      "A) In my opinion, we can visited our friend when we return from school.",
+      "B) In my opinion, we can visit our friend when we return back from school.",
+      "C) In my opinion, I think we can visit our friend when we back from school.",
+      "D) In my opinion, we can visit our friend when we are back from school."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "",
+    "options": [
+      "A) What are the things you enjoy doing in your spare time?",
+      "B) What things are you enjoy doing in your spare time?",
+      "C) What things you enjoy doing in your spare time?",
+      "D) What things you enjoy doing in your spare time?"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "",
+    "options": [
+      "A) The population of China is more great than India.",
+      "B) The population of china is greater than in India.",
+      "C) The population of China is greater than that of India.",
+      "D) The population of China is greater than India."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What does the term\"make informed decision\"mean in the above passage?",
+    "options": [
+      "A) based on facts and information, guide for the sake of satisfying oneself",
+      "B) guide for the sake of satisfying others",
+      "C) made for the sake of personal opinion",
+      "D) based on mere personal opinion"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the theme of the passage?",
+    "options": [
+      "A) Population control and its disadvantages",
+      "B) The need to balance birth rate and death rate",
+      "C) Population growth always poses challenges",
+      "D) Decline in population size has problems"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Based on the information given in the passage, which one of the following statements is correct?",
+    "options": [
+      "A) Having the requisite understanding about population is what matters most",
+      "B) Both the government and the community are responsible for controlling population",
+      "C) The role of the community is highly constrained",
+      "D) It is the sole responsibility of the government to control population growth"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What does the word\"far-reaching\"mean according to the context of the passage?",
+    "options": [
+      "A) facilitating resource allocation",
+      "B) impacting economic development",
+      "C) affecting certain areas",
+      "D) going to faraway places"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In the phrase,\"the planet's well-being\", what does \"the planet\" refer to?",
+    "options": [
+      "A) The earth",
+      "B) The sun",
+      "C) The moon",
+      "D) The nine planets"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "How can an air pollution-free environment be created for the new generation?",
+    "options": [
+      "A) By planting trees every year",
+      "B) By restricting private use of car",
+      "C) By devising rules and regulations",
+      "D) Tackling the causes of air pollution from the source"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "As used in the passage, what is the meaning of the word\"imperative\"?",
+    "options": [
+      "A) compulsory",
+      "B) tentative",
+      "C) conditional",
+      "D) optional"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is NOT an air pollutant?",
+    "options": [
+      "A) smog",
+      "B) carpooling",
+      "C) ground-level ozone",
+      "D) particulate matter"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "It is apparent that most of the well-paid jobs in today's thriving economy require a higher level learning, usually a university degree. Conversely, many of the new jobs being created and flourishing, ranging from medium level businesses to huge manufacturing industries mainly require knowledge other than just having a degree. For workers in these new jobs, basic skills in communication, interpersonal skills and team work play a crucial role in getting a job and attaining career development.Based on this information, it is valid to conclude that:",
+    "options": [
+      "A) Career development in most jobs is impossible without producing a degree",
+      "B) The new jobs that are being created rather require knowledge of soft skills",
+      "C) A university degree is irrelevant for the newly created and flourishing jobs",
+      "D) Holding a university degree is crucial for career development"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Statement:Thomas Edison failed so many times before he invented the light bulb, but however, Edison tried again and again until he finally achieved success. His achievement was applauded as an extraordinary determination.Conclusion I:A problem can be a chance to do one's best.Conclusion II:It is advisable to have perseverance in the face of challenges.Conclusion III:One has to always indulge in a problem whatever the consequences may be.A more valid conclusion for the above statement is:",
+    "options": [
+      "A) Conclusion I",
+      "B) Conclusion II",
+      "C) Conclusions II and III",
+      "D) Conclusions I and II"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Statement I:For quite some years now, several sub-cities in Addis Ababa get one or two days' of water supply per week.Statement II:There has been significant imbalance between demand for and supply of water in the city.Statement III:There has been a booming water trading market in the city in the last few years.Which one of the following ideas is TRUE about the above statements?",
+    "options": [
+      "A) Statement I is the cause and Statements II and III are its effects",
+      "B) Statement II is the cause and Statements I and III are its effects",
+      "C) Statement III is the cause and Statements I and II are its effects",
+      "D) Each of the three is an independent cause for three different effects"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Assumption:Most traffic accidents in Ethiopia are caused mainly because of what many drivers commit while driving: such as talking on the phone, exchanging text messages, violation of traffic regulations, and recklessness among other causes.Conclusion I:Most traffic accidents are caused because drivers do not have the requisite driving skills.Conclusion II:Most traffic accidents are caused due to the decisions such drivers make while they are driving.Conclusion III:Most traffic accidents are the consequences of the ill-behaviors of such drivers.Which one of the following conclusions is more logical for the above assumption?",
+    "options": [
+      "A) Conclusion I",
+      "B) Conclusion II",
+      "C) Both conclusions I and II",
+      "D) Both conclusion II and III"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Statement:XYZ company workers who have their own cars are constantly complaining as they do not get parking spaces either in the company compound or by the side of the street facing the company. The company administration couldn't give any solutions to the complaints of the workers.Conclusion I:The workers should start using public transportation.Conclusion II:The workers should leave their cars at home.Conclusion III:The workers should rather sell their carsWhich one of the following conclusions would follow from the above statement?",
+    "options": [
+      "A) Conclusion I",
+      "B) Conclusion II",
+      "C) Both conclusions I and II",
+      "D) Both conclusions I and III"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Five students (namelyHa, Ga, Ta, Za and Ya), all from the same grade level set for four exams on four different subjects: English, History, Geography and Mathematics. For Ha, History was the easiest while Mathematics was the most difficult; on the other hand, Ga found them to be the reverse of what Ha found them to be. Ta found both History and Mathematics the hardest and Geography the easiest. Za rather found them to be the opposite of what Ta found them to be. For Ya, what Ha found the easiest was the most difficult.According to the text, which subject was the most difficult one for most of the students?",
+    "options": [
+      "A) Geography",
+      "B) History",
+      "C) English",
+      "D) Mathematics"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "How many numbers in the set {-8,-5,-4,-1,0,2,5,7,8} satisfy the condition |5-3x| < 11?",
+    "options": [
+      "A) 4",
+      "B) 3",
+      "C) 5",
+      "D) 6"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the rationalizing factor of the denominator of334\\frac{3}{^3\\sqrt{4}}34​3​?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The greatest common factor and least common multiple of two numbers are 12 and 336, respectively. If one of the numbers is 84, then which one of the following is the other number?",
+    "options": [
+      "A) 36",
+      "B) 48",
+      "C) 72",
+      "D) 96"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If3x−2=3−5x3x-2=3-5x3x−2=3−5x, then which one of the following is equal to 7-4x?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A father is 32 years old and his son is 8 years old now. In how many years will the father be three times as old as his son?",
+    "options": [
+      "A) 6",
+      "B) 3",
+      "C) 4",
+      "D) 5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "For what value(s) of k, does the system of linear equations{2x+3y=1kx+6y=−3\\left\\{\\begin{aligned}2x + 3y &= 1\\\\kx + 6y &= -3\\end{aligned}\\right.{2x+3ykx+6y​=1=−3​have a unique solution?",
+    "options": [
+      "A) k = 4",
+      "B) k = -4",
+      "C) k ≠ -4",
+      "D) k ≠ 4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The difference of two numbers is 10, and the sum of three times the larger number and twice the smaller number is 55. Then which one of the following is the value of the larger number?",
+    "options": [
+      "A) 6",
+      "B) 14",
+      "C) 5",
+      "D) 15"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "One root of the equation2x2+1=h−5x2x^2 + 1 = h - 5x2x2+1=h−5x(where h is a constant) is four times the other root. What are the roots of the given equation?",
+    "options": [
+      "A) ",
+      "B) 2",
+      "C) ",
+      "D) 2 and 8"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What percent of 16 is 12?",
+    "options": [
+      "A) 25%",
+      "B) 70%",
+      "C) 75%",
+      "D) 50%"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If3x2+13x+6=x2x+2−3\\text{If }  \\frac{3x^2 + 1}{3x + 6} = \\frac{x^2}{x + 2} - 3If3x+63x2+1​=x+2x2​−3, then what is the value of19x+1\\frac{1}{9x + 1}9x+11​?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Iff(x)=102x+1f(x) = 10^{2x+1}f(x)=102x+1, then which one of the following is equal tof−1(x)f^{-1}(x)f−1(x)?",
+    "options": [
+      "A) log(2x - 1)",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is NOT true about the graph of the functionf(x)=(75)xf(x) = \\left(\\frac{7}{5}\\right)^{x}f(x)=(57​)x? [DIAGRAM: image]",
+    "options": [
+      "A) It is an increasing function.",
+      "B) Its y-intercept is 1.",
+      "C) Its domain is the set of all real numbers.",
+      "D) Its range is the set of all real numbers."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the value of x in the sequence 23,34,56,89,x,188,...?",
+    "options": [
+      "A) 111",
+      "B) 100",
+      "C) 133",
+      "D) 144"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What are the values of y and z, respectively, in the sequence:1,−13,17,−115,131,−163,y,z,…1, -\\frac{1}{3}, \\frac{1}{7}, -\\frac{1}{15}, \\frac{1}{31}, -\\frac{1}{63}, y,z,\\dots1,−31​,71​,−151​,311​,−631​,y,z,…?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A data of numbers: c, a, b, e, f, c, & d is given, where 0 < a < b < c < d < e < f. Which one of the following is NOT true about the given data?Quantity PQuantity QMode of the dataMedian of the data",
+    "options": [
+      "A) Quantity P is greater than Quantity Q.",
+      "B) Quantity P is less than Quantity Q.",
+      "C) Quantity P and Quantity Q are equal.",
+      "D) The relationship cannot be determined."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let x, y, z be the lengths of the sides of a triangle. And consider the following quantities.Quantity PQuantity Qx + y + 3z + 3Which one of the following is NOT true?",
+    "options": [
+      "A) Quantity P is greater than Quantity Q.",
+      "B) Quantity P is less than Quantity Q.",
+      "C) Quantity P and Quantity Q are equal.",
+      "D) The relationship cannot be determined."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "How many different four letter words which start with the vowel can be formed from the wordMATHif the letters cannot be used more than once?",
+    "options": [
+      "A) 8",
+      "B) 24",
+      "C) 6",
+      "D) 18"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A bag contains 15 balls, numbered 1 through 15. What is the probability of selecting a number that is odd or a multiple of 4?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following can NOT be the degree measure of each interior angle of a regular polygon?",
+    "options": [
+      "A) 120°",
+      "B) 140°",
+      "C) 135°",
+      "D) 105°"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let ΔABC is an isosceles triangle with∠C=90°\\angle C = 90°∠C=90°. If the length of sideAC‾\\overline{AC}ACis 4 cm, then what is the length of side AB in centimeters?",
+    "options": [
+      "A) 4",
+      "B) ",
+      "C) ",
+      "D) 8"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which school has the lowest income from donations and term fees?",
+    "options": [
+      "A) Q",
+      "B) S",
+      "C) T",
+      "D) R"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which school has the lowest percentage of income from term fees out of its total income?",
+    "options": [
+      "A) R",
+      "B) S",
+      "C) Q",
+      "D) P"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the average of the income from tuition fees of the five schools?",
+    "options": [
+      "A) 100",
+      "B) 90",
+      "C) 210",
+      "D) 120"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which school has the highest percentage of income from grants out of its total income?",
+    "options": [
+      "A) Q",
+      "B) P",
+      "C) T",
+      "D) S"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which school has the lowest ratio of miscellaneous to term fees?",
+    "options": [
+      "A) Q",
+      "B) S",
+      "C) R",
+      "D) T"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

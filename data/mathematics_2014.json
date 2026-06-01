@@ -1,0 +1,706 @@
+[
+  {
+    "text": "Let A = {10, 2, 4, 6, 8, 10} and B = {1, 3, 5, 7, 9} Which one of the following is true?",
+    "options": [
+      "A) B - A = B",
+      "B) A - B = A",
+      "C) B - A = {1, 3, 5, 7}",
+      "D) A - B = {0, 2, 4, 6, 8, 10}"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the polynomial function f(x) = ax4- b, where a and b are real numbers. Which one of the following is true about f?",
+    "options": [
+      "A) The graph of f opens upward for any b > 0",
+      "B) The graph of f opens upward for any a ≥ 0",
+      "C) The graph of f opens downward for any b ≤ 0",
+      "D) The graph of f opens downward for any a ≤ 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The solution set of the inequality 3x² + 35x - 12 ≤ 0 is",
+    "options": [
+      "A) (-12, 1/3)",
+      "B) (-∞, 1/3)",
+      "C) (-12, 1)",
+      "D) (-∞, -12)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A closed right circular cone has a base radius 2 cm and slant height 3√2 cm. What is the total surface area of the cone?",
+    "options": [
+      "A) 2π(1+3√2) cm²",
+      "B) 2π(2+3√2) cm²",
+      "C) 6π/√4 cm²",
+      "D) 2π/√4 cm²"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The lower and upper bases of the frustum of a regular pyramid are equilateral triangles of side 3 cm long and 2 cm long respectively. If its slant height is 4 cm, then what is the lateral surface area of the frustum?",
+    "options": [
+      "A) 30 cm²",
+      "B) 48 cm²",
+      "C) 72 cm²",
+      "D) 96 cm²"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the signum function, f(x) = sgn x?",
+    "options": [
+      "A) Its domain is the set of real numbers",
+      "B) Its range is the set of real numbers",
+      "C) Its domain is {-1, 0, 1}",
+      "D) Its range is [0, ∞)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the equation of a circle with center (2, -1) and radius 3 units?",
+    "options": [
+      "A) x² + y² + 2x + 2y - 4 = 0",
+      "B) x² + y² - 4x + 2y - 4 = 0",
+      "C) x² + y² + 4x - 2y - 5 = 0",
+      "D) x² + y² - 4x + 2y - 5 = 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the ellipse given by the equation 4(x + 1)² + (y - 1)² = 16. Which one of the following is the standard form of the equation of the ellipse?",
+    "options": [
+      "A) 1",
+      "B) 1",
+      "C) 1",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true? A hyperbola is a locus of points in the plane so that:",
+    "options": [
+      "A) the sum of the distances from two fixed points is constant",
+      "B) the difference between the distances from two fixed points is constant",
+      "C) the points have the same distance from a given point and a given line",
+      "D) the points have the same distance from any given two points"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is the converse of: \"If wages increase, then inflation decreases.\"?",
+    "options": [
+      "A) If inflation decreases, then wages increase",
+      "B) If inflation decreases, then wages decrease",
+      "C) If inflation increases, then wages decrease",
+      "D) If inflation increases, then wages increase"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let A =A=(0−151)A=\\begin{pmatrix}0&-1\\\\5&1\\end{pmatrix}A=(05​−11​)Which one of the following is equal to A+AT?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider a line with equation y = mx + b. Which of the following is true?",
+    "options": [
+      "A) The line intersects the y axis, if m ≠ 0 and b > 0",
+      "B) The line intersects the x axis, if m = 0 and b > 0",
+      "C) The line has no slope",
+      "D) The line passes through the origin"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is NOT true about the graph of the given linear inequality?",
+    "options": [
+      "A) The graph of the linear inequality y > 2x - 1 contains all points of the line y = 2x - 1",
+      "B) The graph of the linear inequality y ≤ 2x + 1 is below the line y = x on the interval (-∞, -1)",
+      "C) The graph of the linear inequality y > 2x + 1 y > 2x + 1 contains no points of the line y = 2x - 3",
+      "D) The graph of the linear inequality y ≤ x - 1 is above the line y = 2x on the interval (-∞, -1)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Voter turnout in the local school board elections declined 40% from last year. This year only 3600 eligible voters went to the polls. How many people voted in last year's school board elections?",
+    "options": [
+      "A) 6,000",
+      "B) 5,500",
+      "C) 5,000",
+      "D) 4,500"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "You happened to notice that the 8% sales tax that your father paid on the new Television Set came to Birr 3,800. How much did the Television Set cost him?",
+    "options": [
+      "A) Birr 47,500",
+      "B) Birr 45,800",
+      "C) Birr 35,400",
+      "D) Birr 30,600"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the simplified form of323162\\frac{\\sqrt[3]{32}}{16^2}162332​​?",
+    "options": [
+      "A) 2",
+      "B) 1/2",
+      "C) 8",
+      "D) 1/8"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following numbers is equal to3+23−2\\frac{\\sqrt{3}+\\sqrt{2}}{\\sqrt{3}-\\sqrt{2}}3​−2​3​+2​​?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the solution set of the equation 6 - 4x - 2x2= 0?",
+    "options": [
+      "A) {-6, 2}",
+      "B) {-3, 1}",
+      "C) {-1, 3}",
+      "D) {1, 3}"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let f(x) = x3- x and g(x) = x + 1. Which one of the following statements is true?",
+    "options": [
+      "A) 3",
+      "B) 5",
+      "C) 5",
+      "D) 6"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the area of an equilateral triangle inscribed in a circle of radius 4 units?",
+    "options": [
+      "A) 6√3 sq. units",
+      "B) 12√3 sq. units",
+      "C) 12 sq. units",
+      "D) 36 sq. units"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider△\\triangle△ABC with right angle at C andm(∠ABC)=5∘.m(\\angle ABC) = 5^\\circ.m(∠ABC)=5∘.If the length ofAC‾\\overline{AC}ACis 10 units, then what is the area of the triangle?Giventan⁡35∘≈\\tan 35^\\circ\\ \\approxtan35∘≈0.7 andtan⁡5∘≈\\tan 5^\\circ \\approxtan5∘≈1.43",
+    "options": [
+      "A) 35 sq. units",
+      "B) 70 sq. units",
+      "C) 5/149 sq. units",
+      "D) 10/149 sq. units"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The base of a right prism is a rectangle with sides 3 cm and 4 cm and the altitude of the prism is 5 cm. What is the total surface area of the prism?",
+    "options": [
+      "A) 70 cm²",
+      "B) 82 cm²",
+      "C) 94 cm²",
+      "D) 102 cm²"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letu⃗\\vec{u}ube a vector of length 3.5, cm directed to the East andv⃗\\vec{v}vbe a vector of length 3cm directed to the north.Thenu⃗+v⃗\\vec{u} + \\vec{v}u+vis equals to a vector of length:",
+    "options": [
+      "A) 3 cm in the direction East 60° North",
+      "B) 3 cm in the direction East 30° North",
+      "C) 6 cm in the direction East 60° North",
+      "D) 6 cm in the direction East 30° North"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Below is a histogram showing the time taken to complete a test.Based on the above histogram, which of the following is true? [DIAGRAM: image]",
+    "options": [
+      "A) 30% of the students completed the test with less than 40 minutes.",
+      "B) 25% of the students completed the test with less than 40 minutes.",
+      "C) 50% of the students completed the test with less than 50 minutes.",
+      "D) 40% students completed the test with more than 40 minutes."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the graphs of the functions y = axand y = logax for a > 0 and a ≠ 1. Which of the following is true about the functions?",
+    "options": [
+      "A) The graph of y = axis a reflection of the graph of y = logax about the origin.",
+      "B) The graph of y = axis a reflection of the graph of y = logax along y = -x.",
+      "C) For a > 1, the graphs of both y = axand y = logax are increasing on (0, ∞).",
+      "D) For 0 < a < 1, the y-axis is an asymptote of to the graphs of y = axand y = logax."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the solution set of the equation3(x−x2)=19?3^{(x - x^2)} = \\frac{1}{9} ?3(x−x2)=91​?",
+    "options": [
+      "A) {0, 1}",
+      "B) {-1, 0}",
+      "C) {1, -2}",
+      "D) {-1, 2}"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true about the trigonometric values of 855°?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) tan 855° = 1",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the function y = sin x?",
+    "options": [
+      "A) Its domain is [-1, 1]",
+      "B) Its period is π",
+      "C) Its range is [-1, 1]",
+      "D) Its domain is (0, ∞)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letf(x)=3x+1x+2f(x) = \\frac{3x + 1}{x + 2}f(x)=x+23x+1​. Which one of the following is the inverse of f?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose that the linesAB‾\\overline{AB}ABand \\overline{BC} intersect at B outside the circle as shown in the figure below.If m(∠ABC) = 30° and m(∠BCD) = 45°, then what ism(AC△)m(\\overset{\\triangle}{AC})m(AC△) [DIAGRAM: image]",
+    "options": [
+      "A) 90°",
+      "B) 105°",
+      "C) 120°",
+      "D) 150°"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the rational functionf(x)=x3−1x2+1f(x) = \\frac{x^3 - 1}{x^2 + 1}f(x)=x2+1x3−1​. Which one of the following is true about the graph of f?",
+    "options": [
+      "A) Its y-intercept is -1",
+      "B) It has no x-intercept",
+      "C) It is symmetrical about the y-axis",
+      "D) It is symmetrical about the origin"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If two cards are drawn one after the other from a well shuffled pack of cards, then which one of the following is an independent event?",
+    "options": [
+      "A) Drawing a king in the first draw and a queen in the second draw without replacing the first.",
+      "B) Drawing a king in the first draw and a queen in the second draw by replacing the first.",
+      "C) Drawing kings in both draws without replacing the first.",
+      "D) Draw queens in both draws without replacing the first."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A bag contains 2 red, 3 white and 1 black balls. We draw two balls one after the other without replacement. What is the probability that the first ball is red and the second ball is black?",
+    "options": [
+      "A) 1/10",
+      "B) 1/12",
+      "C) 1/15",
+      "D) 1/18"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the grouped frequency table for students' weight in a certain school.Weight (kg)Frequency31 – 35336 – 40541 – 45646 – 50751 – 554What is the mean weight of the student?",
+    "options": [
+      "A) 41.5kg",
+      "B) 43kg",
+      "C) 43.8kg",
+      "D) 45.5kg"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "LetA=(a1b1c1a2b2c2a3b3c3)A=\\begin{pmatrix}a_1&b_1&c_1\\\\a_2&b_2&c_2\\\\a_3&b_3&c_3\\end{pmatrix}A=​a1​a2​a3​​b1​b2​b3​​c1​c2​c3​​​and det(A)=3. Which one of the following is NOT true?",
+    "options": [
+      "A) 3",
+      "B) 6",
+      "C) 3",
+      "D) 3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let Z1=2-3i and Z2=5+7i. Which one of the following is equal to Z1/Z2?",
+    "options": [
+      "A) i",
+      "B) i",
+      "C) i",
+      "D) i"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is NOT true?",
+    "options": [
+      "A) There is no single rule for determining the size of a sample.",
+      "B) Random sampling requires time to plan and implement.",
+      "C) Random sampling is free from personal bias of the investigator.",
+      "D) Any person can implement random sampling from a given population."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the following data: 6, 6, 7, 7, 7, 8, 8. Then which of the following is true?",
+    "options": [
+      "A) The mean deviation from the mode is 4/7",
+      "B) The mean deviation from the median is 4/7",
+      "C) The mean deviation from the mean is 4/7",
+      "D) The mean deviation from the mean is 3/2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "One special perfume costs a cosmetic shop Birr 2,100. If the shop desires a 25% markup rate based on the selling price, then which one of the following should be set as a selling price for this perfume?",
+    "options": [
+      "A) Birr 2,800",
+      "B) Birr 2,600",
+      "C) Birr 2,400",
+      "D) Birr 2,300"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A couple own a house that values Birr 2,000,000. The house added Birr 10,000 in the first year, Birr 10,800 in the second year, and so on. What is the value of the house at the end of 6 years?",
+    "options": [
+      "A) Birr 2,012,000",
+      "B) Birr 2,054,000",
+      "C) Birr 2,060,000",
+      "D) Birr 2,064,000"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let f be a function defined on an open interval about a real number a, except possibly at a itself. Which one of the following is necessary for lim f(x) to exist?",
+    "options": [
+      "A) x→a-",
+      "B) x→a+",
+      "C) x→a+",
+      "D) x→a-"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider two firms with the given mean income and standard deviations.FirmMean income (in Bir)Standard deviation (in Bir)Firm I1,500,000300Firm II1,500,000350which one of the following is True",
+    "options": [
+      "A) The data set in Firm I have greater variability than Firm II.",
+      "B) The data set in Firm I have less variability than Firm II.",
+      "C) The two data sets have the same consistency.",
+      "D) We cannot compare the two data sets."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let f be a function that is continuous at xo. Which of the following is true about f?",
+    "options": [
+      "A) xodoes not belong to the domain of f.",
+      "B) x→xo",
+      "C) x→xo-",
+      "D) x→xo"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letf(x)=2x+1.f(x) = 2\\sqrt{x+1}.f(x)=2x+1​.Which one of the following indicates the interval and its derivative of f respectively?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letf(x)=x2+xf(x) = x^2 + \\sqrt{x}f(x)=x2+x​andg(x)=e2xg(x) = e^{2x}g(x)=e2x. Which of the following is true?",
+    "options": [
+      "A) x",
+      "B) x",
+      "C) x",
+      "D) x"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the equation of the tangent line to the graph of the functionf(x)=exat(1,e)?f(x) = e^x \\quad \\text{at } (1, e)?f(x)=exat(1,e)?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) y = ex + e",
+      "D) y = ex"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Water is flowing in this a cylindrical water tank of radius 2 m and height 10 m at a rate of 5 cm²/min. What is the rate of the change of the height when the water level is 6 m?",
+    "options": [
+      "A) 5/4π m/min",
+      "B) 5π/2 m/min",
+      "C) 2 m/min",
+      "D) 2π m/min"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is equal to∫(e2x+cos⁡x)dx?\\int (e^{2x} + \\cos x) \\, dx ?∫(e2x+cosx)dx?",
+    "options": [
+      "A) C",
+      "B) C",
+      "C) C",
+      "D) C"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let f be continuous on [a, b] andF′(x)=f(x)for allx∈[a,b].F'(x) = f(x) \\quad \\text{for all } x \\in [a, b].F′(x)=f(x)for allx∈[a,b].which is true?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is equal to∫132xx2+1dx?\\int_{1}^{3} 2x \\sqrt{x^2 + 1} \\, dx?∫13​2xx2+1​dx?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A line makes an angle of 145° with the positive x-axis. What is the slope of the line? (Given tan 35° = 0.7)",
+    "options": [
+      "A) 10/7",
+      "B) -10/7",
+      "C) 0.7",
+      "D) -0.7"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the solution set of2x−1+4x=6x−2\\frac{2}{x-1} + \\frac{4}{x} = \\frac{6}{x-2}x−12​+x4​=x−26​?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letl1:y=13x+1andl2:y=2x−1l_1: \\; y = \\frac{1}{3}x + 1 \\quad \\text{and} \\quad l_2: \\; y = 2x - 1l1​:y=31​x+1andl2​:y=2x−1be two lines. What is the angle between l1and l2measured from l1 to l2 counterclockwise?",
+    "options": [
+      "A) π/4",
+      "B) π/2",
+      "C) 3π/4",
+      "D) 3π/2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let p: 2 is a prime number and q: 3 is an odd number. Then the contrapositive and its truth value of the statement p ⇒ q are respectively:",
+    "options": [
+      "A) ┐q ⇒ -p and True",
+      "B) ┐q ⇒ -p and False",
+      "C) ┐p ⇒ q and True",
+      "D) q ⇒ -p and False"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The following table shows the test scores of 20 students in a class.Test ScoresFrequency0 - 233 - 556 - 859 - 11312 - 144What is the variance of the given data?",
+    "options": [
+      "A) 16.2",
+      "B) 17.2",
+      "C) 18.45",
+      "D) 19.45"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the solution of the system of linear equations{2x+7y=−55x+11y=2\\left\\{ \\begin{array}{rcl} 2x + 7y &=& -5 \\\\ 5x + 11y &=& 2 \\end{array} \\right.{2x+7y5x+11y​==​−52​",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the simplified form of(2+i)(3−4i)(2−2i)(1+i)?\\frac{(2+i)(3-4i)}{(2-2i)(1+i)} ?(2−2i)(1+i)(2+i)(3−4i)​??",
+    "options": [
+      "A) i",
+      "B) i",
+      "C) i",
+      "D) i"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the sequence(1+1n)n−1∞\\left( 1 + \\frac{1}{n} \\right)^{\\infty}_{n-1}(1+n1​)n−1∞​Which one of the following is true about the sequence?",
+    "options": [
+      "A) 2 is its lower bound",
+      "B) 3/2 is its lower bound",
+      "C) 4 is its upper bound",
+      "D) 6/5 is its upper bound"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is equal tolim⁡x→0x1−x+1\\lim_{x \\to 0} \\frac{x}{1 - \\sqrt{x + 1}}x→0lim​1−x+1​x​",
+    "options": [
+      "A) 0",
+      "B) -2",
+      "C) -1",
+      "D) -1/2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let f(x) = e-2x. Which one of the following is true about f?",
+    "options": [
+      "A) n",
+      "B) n",
+      "C) x",
+      "D) x"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the function f(x) = x2- 3x on [-1, 2]. What is the value x that satisfies the Mean Value Theorem?",
+    "options": [
+      "A) 0",
+      "B) 1",
+      "C) 1/2",
+      "D) 3/2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A carpenter wants to design a closed box that has a square base and total surface area of 54 cm2. What is the maximum volume that can be constructed with the given total surface area?",
+    "options": [
+      "A) 12 cm3",
+      "B) 13.5 cm3",
+      "C) 18 cm3",
+      "D) 27 cm3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the area of the region bounded by the line y = x and the parabola y = x2- 2x on the interval [0, 3]?",
+    "options": [
+      "A) 9 square units",
+      "B) 9/2 square units",
+      "C) 3 square units",
+      "D) 2 square units"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A painter buys 5 liters of paint for Birr 36 and 6 liters of the same brand paint for Birr 43. Which of the following is true?",
+    "options": [
+      "A) Buying 5 liters is more economical than buying 6 liters.",
+      "B) Buying 6 liters is more economical than buying 5 liters.",
+      "C) Both have the same economical purchase.",
+      "D) We cannot compare."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

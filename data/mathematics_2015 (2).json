@@ -1,0 +1,717 @@
+[
+  {
+    "text": "A student took 5 Model Exams and scored 85, 88, 90 and 92 in four subjects namely English, Geography, Economics and History exams respectively. She did not know her score in Mathematics exam but she knew that her mean score in all five exams is 90. What is her score in Mathematics?",
+    "options": [
+      "A) 95",
+      "B) 89",
+      "C) 90",
+      "D) 93"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "For a parallelogram ABCD the length of sideAB‾\\overline{AB}ABis equal to the length of the side of a square with area 64 cm². If the length of sideBC‾\\overline{BC}BCof parallelogram ABCD is 3 cm and m(∠ABC) = 120°, what is the area of ABCD?",
+    "options": [
+      "A) ",
+      "B) 64 cm²",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If a regular polygon circumscribes a circle and the sides of the polygon touches the circle at exactly seven points, what is the maximum number of lines of symmetry of the polygon?",
+    "options": [
+      "A) Eight",
+      "B) Seven",
+      "C) Six",
+      "D) Five"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about a functionfffdefined byf(x)=15x−7f(x) = \\sqrt{\\frac{1}{5x-7}}f(x)=5x−71​​?",
+    "options": [
+      "A) 7",
+      "B) 1",
+      "C) 0",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "LetM={∅,{12}}M = \\left\\{\\emptyset, \\left\\{\\frac{1}{2}\\right\\}\\right\\}M={∅,{21​}}. Which one of the following is the power set ofMMM?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the solution set of the equation(343)3x−24=(149)x−1?\\sqrt[4]{\\left(343\\right)^{3x-2}} = \\left( \\frac{1}{49} \\right)^{x-1}?4(343)3x−2​=(491​)x−1?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the solution set of the equation∣9x−(1−x)∣+4x=1|9x - (1 - x)|+ 4x = 1∣9x−(1−x)∣+4x=1?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is true?",
+    "options": [
+      "A) For every real number there is exactly one point corresponding to it on the number line.",
+      "B) It is not possible to find a point on a number line corresponding to an irrational number.",
+      "C) If a point on a number line is represented by a rational number, then we can use the same point to represent an irrational number.",
+      "D) The set of integers has a one-to-one correspondence with the set of all points on a number line"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following defines a prime number?",
+    "options": [
+      "A) 3",
+      "B) It is a natural number that has exactly two distinct factors.",
+      "C) It is an odd natural number that has only two factors.",
+      "D) It is a natural number that has an odd number of factors."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is a vector quantity?",
+    "options": [
+      "A) Temperature of a room.",
+      "B) Floor area of a classroom.",
+      "C) Speed of a motorbike.",
+      "D) Force to push a car."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the slope of a line passing through the pointsP(35−2)P\\left(\\frac{\\sqrt{3}}{5} - 2\\right)P(53​​−2)andQ(−233)Q\\left(-\\frac{2}{3}\\sqrt{3}\\right)Q(−32​3​)?",
+    "options": [
+      "A) 5",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letxxxandyyybe real numbers andx>0x > 0x>0. Ify=log⁡1010y=\\log_{\\sqrt{10}}10y=log10​​10, which one of the following equations is true?",
+    "options": [
+      "A) y",
+      "B) y",
+      "C) y",
+      "D) y"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true for the values of the trigonometric functions for the indicated angles?",
+    "options": [
+      "A) 1",
+      "B) 1",
+      "C) 0",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the functionf(x)=cos⁡xf(x) = \\cos xf(x)=cosx?",
+    "options": [
+      "A) ]",
+      "B) π",
+      "C) }",
+      "D) π"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If the polynomialf(x)=x4−9x2+22f(x) = x^4 - 9x^2 + 22f(x)=x4−9x2+22is divided byx−2x - 2x−2, which one of the following are the quotient and remainder respectively?",
+    "options": [
+      "A) 2",
+      "B) 2",
+      "C) 2",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the graph off(x)=log⁡5(x+3)f(x) = \\log_5(x + 3)f(x)=log5​(x+3)which is shown below.Which one of the following is NOT true about the functionfff? [DIAGRAM: image]",
+    "options": [
+      "A) 3",
+      "B) 2",
+      "C) f",
+      "D) x"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In△ABC\\triangle ABC△ABCshown below, the mediansBD‾\\overline{BD}BDandAE‾\\overline{AE}AEof△ABC\\triangle ABC△ABCare concurrent at pointOOO. IfBD=15BD = 15BD=15cm,OD=5OD = 5OD=5cm andAO=BOAO = BOAO=BO, then which one of the following is NOT true? [DIAGRAM: image]",
+    "options": [
+      "A) BO = 10 cm",
+      "B) OE = 5 cm",
+      "C) AO = 5 cm",
+      "D) AE = 15 cm"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following interval(s) is the solution set of the quadratic inequality10x2−4x−6<8x2+4x−1210x^2 - 4x - 6 < 8x^2 + 4x - 1210x2−4x−6<8x2+4x−12?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is the possible standard form of equation of an ellipse whose center is at(−1,0)(−1, 0)(−1,0), length of the major axis is 3 and that of the minor axis is 2?",
+    "options": [
+      "A) 1",
+      "B) 1",
+      "C) 1",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is the solution set of the equation3x+1−1x−1=2x\\frac{3}{x + 1} - \\frac{1}{x - 1} = \\frac{2}{x}x+13​−x−11​=x2​?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following expressions is equal tox−3x+1÷x+1x−1\\frac{x - 3}{x + 1} ÷ \\frac{x + 1}{x - 1}x+1x−3​÷x−1x+1​?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A frustum of a cone is formed from a right circular cone of height 15cm. If the base radii of the frustum are 2cm and 3cm, where the height from the smaller base to the vertex is 4cm, what is the volume of the frustum of the cone?",
+    "options": [
+      "A) 3",
+      "B) 3",
+      "C) 3",
+      "D) 3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements defines frustum of a pyramid?",
+    "options": [
+      "A) It is part of the pyramid included between the vertex and a cross-section made by a plane parallel to one of its lateral surfaces.",
+      "B) It is part of the pyramid included between the vertex and the cross-section made by a plane parallel to the base.",
+      "C) It is part of the pyramid included between the base and the cross-section made by a plane parallel to the base.",
+      "D) It is part of the pyramid included between the base and a cross-section made by a plane parallel to one of its lateral surfaces."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the functionsfff,ggg,hhhandmmmdefined byf(x)=x−7f(x) = \\sqrt{x - 7}f(x)=x−7​,g(x)=log⁡5xg(x) = \\log_5 xg(x)=log5​x,h(x)=2x+1h(x) = 2^{x+1}h(x)=2x+1, andm(x)=(x+1)2m(x) = (x + 1)^2m(x)=(x+1)2. Which one of the following is true?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If the foci of a hyperbola are(−2,4)(-2, 4)(−2,4)and(8,4)(8, 4)(8,4)and the transverse axis is 8 cm long, which one of the following is the standard form of equation of the hyperbola?",
+    "options": [
+      "A) 1",
+      "B) 1",
+      "C) 1",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following pairs of functions,fffandggg, are inverses of each other?",
+    "options": [
+      "A) x",
+      "B) 2",
+      "C) 11",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the equation of the tangent line to the circle(x−2)2+y2=10(x - 2)^2 + y^2 = 10(x−2)2+y2=10at the point(5,1)(5, 1)(5,1)?",
+    "options": [
+      "A) 0",
+      "B) 0",
+      "C) 0",
+      "D) 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the system of equationsWhich one of the following is the correct augmented matrix of the given system? [DIAGRAM: image]",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the determinant of a matrix?",
+    "options": [
+      "A) The determinant of any two-by-two matrix is non-negative.",
+      "B) ∣",
+      "C) R",
+      "D) t"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "LetM=(−121212−12)M = \\begin{pmatrix}  -\\frac{1}{2} & \\frac{1}{2} \\\\ \\frac{1}{2} & -\\frac{1}{2}  \\end{pmatrix}M=(−21​21​​21​−21​​)andQ=(1−1−11)Q = \\begin{pmatrix} 1 & -1 \\\\ -1 & 1 \\end{pmatrix}Q=(1−1​−11​)be given matrices. Which one of the following is true?",
+    "options": [
+      "A) M",
+      "B) Q",
+      "C) Q",
+      "D) M"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If we toss a coin three times, what is the number of possible events of getting at least two heads?",
+    "options": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A committee of five members was formed from 6 females and 4 males. How many different committees can be formed that consists of 3 females and 2 males?",
+    "options": [
+      "A) 20",
+      "B) 40",
+      "C) 120",
+      "D) 240"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The following table shows the frequency distribution of scores of students in Mathematics Mid-Exam which was marked out of 50.which one of the following is TRUE about distribution score? [DIAGRAM: image]",
+    "options": [
+      "A) The third decile of the distribution lies in the first class.",
+      "B) The fourth decile of the distribution is in the third class.",
+      "C) The fifth decile of the distribution lies in the third class.",
+      "D) The eighth decile of the distribution lies in the fourth class."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The following table shows the age distribution of Grade 12 students in one section of a certain schoolwhich one of the following is the mean age in years?. [DIAGRAM: image]",
+    "options": [
+      "A) 20.2",
+      "B) 22.2",
+      "C) 23.2",
+      "D) 21.2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letppp,qqqandrrrbe propositions. If the truth value of the proposition[(p⟹q)∧r]⟹q[(p \\implies q) \\land r] \\implies q[(p⟹q)∧r]⟹qis False. Then the converse of which proposition has truth value True?",
+    "options": [
+      "A) q",
+      "B) r",
+      "C) q",
+      "D) p"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the converse of the conditional statement \"If life in Ethiopia was simpler, then people in Ethiopia would not go to other nations.\"",
+    "options": [
+      "A) If life in Ethiopia was simpler, then people in Ethiopia would go to other nations.",
+      "B) If life in Ethiopia was not simpler, then people in Ethiopia would go to other nations.",
+      "C) If people of Ethiopia would go to other nations, then life in the Ethiopia was not simpler.",
+      "D) If people of Ethiopia would not go to other nations, then life in Ethiopia was simpler."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about addition of complex numbers?",
+    "options": [
+      "A) i",
+      "B) i",
+      "C) i",
+      "D) i"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about product of two complex numbers?",
+    "options": [
+      "A) i",
+      "B) i",
+      "C) i",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the system of linear equations{3x+y−z=12x−y+2z=2−x+y+z=−1\\left\\{ \\begin{aligned} 3x + y - z &= 1 \\\\ 2x - y + 2z &= 2 \\\\ -x + y + z &= -1 \\end{aligned} \\right.⎩⎨⎧​3x+y−z2x−y+2z−x+y+z​=1=2=−1​",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A man deposited Birr 5000 in a bank with annual interest rate of 14% compounded semi-annually. What is the total interest earned at the end of the second year approximately?",
+    "options": [
+      "A) Birr 6554",
+      "B) Birr 1554",
+      "C) Birr 5554",
+      "D) Birr 1654"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "On the coordinate plane a graph is given as shown belowWhich one of the following system of linear inequalities has the above shaded region as its solution? [DIAGRAM: image]",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is true?",
+    "options": [
+      "A) N",
+      "B) N",
+      "C) N",
+      "D) 4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the minimum value of the objective functionZ=2x−5yZ = 2x - 5yZ=2x−5ysubject to the constraints:{3x+2y≤62x+5y≤10x≥0y≥0\\begin{cases}3x + 2y \\leq 6 \\\\ 2x + 5y \\leq 10 \\\\ x \\geq 0 \\\\ y \\geq 0 \\end{cases}⎩⎨⎧​3x+2y≤62x+5y≤10x≥0y≥0​",
+    "options": [
+      "A) ",
+      "B) 4",
+      "C) 10",
+      "D) 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following geometric series is convergent?",
+    "options": [
+      "A) n",
+      "B) n",
+      "C) n",
+      "D) n"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A woman wants to buy a new car that costs Birr 1,100,000. She paid Birr 870,000 and agreed with the seller to pay Birr 10,000 per month to cover the remaining amount at 0% interest rate. How many months will it take the woman to pay all the remaining money?",
+    "options": [
+      "A) Twenty Three months.",
+      "B) Seventeen months.",
+      "C) Thirteen months.",
+      "D) Seven months."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Iffff,ggg, andhhhare functions defined byf(x)=1−x2f(x)=\\sqrt{1-x^2}f(x)=1−x2​,g(x)=xx−1g(x)=\\frac{x}{x-1}g(x)=x−1x​, andh(x)=sin⁡xh(x)=\\sin xh(x)=sinxrespectively, which one of the following is true?",
+    "options": [
+      "A) ]",
+      "B) ]",
+      "C) g",
+      "D) ]"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following limit values is correct for the limit of the given function?",
+    "options": [
+      "A) 12",
+      "B) 2",
+      "C) 100",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Iffff,ggg,hhh, andmmmare functions defined byf(x)=x+7x2+9x+14f(x)=\\frac{x+7}{x^2+9x+14}f(x)=x2+9x+14x+7​,g(x)=cos⁡xxg(x)=\\frac{\\cos x}{\\sqrt{x}}g(x)=x​cosx​,h(x)=5x−1x−3h(x)=\\sqrt{\\frac{5x-1}{x-3}}h(x)=x−35x−1​​, andm(x)=sin⁡xcos⁡xxm(x)=\\frac{\\sin x \\cos x}{x}m(x)=xsinxcosx​, which one of the following is the correct result?",
+    "options": [
+      "A) 0",
+      "B) ",
+      "C) ",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the correct definition of continuity of a function on the given interval?",
+    "options": [
+      "A) ]",
+      "B) b",
+      "C) a",
+      "D) ]"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is NOT true about the derivative of a function?",
+    "options": [
+      "A) The derivative of a function at a point is equal to the area of the region enclosed by the graph of the function and the coordinate axes.",
+      "B) ))",
+      "C) t",
+      "D) ))"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The following table is the distance traveled by a car in the given times. Which of the following time intervals has the maximum average rate of change of the distance with respect to time? [DIAGRAM: image]",
+    "options": [
+      "A) t = 1 hour and t = 2 hours",
+      "B) t = 2 hours and t = 3 hours",
+      "C) t = 3 hours and t = 4 hours",
+      "D) t = 4 hours and t = 5 hours"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Iffffandgggare functions defined byf(x)=x7−10x5+x3f(x)=x^7-10x^5+x^3f(x)=x7−10x5+x3andg(x)=e−2xg(x)=e^{-2x}g(x)=e−2xrespectively, then which one of the following is true?",
+    "options": [
+      "A) 6",
+      "B) N",
+      "C) 6",
+      "D) N"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If a rectangular region of lengthxxxand widthyyyhas an area of646464m2m^2m2, what are the values ofxxxandyyysuch that its perimeter is minimum?",
+    "options": [
+      "A) 4",
+      "B) 8",
+      "C) 1",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the zeros of a function?",
+    "options": [
+      "A) f",
+      "B) h",
+      "C) ",
+      "D) 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the derivative of the given functions?",
+    "options": [
+      "A) x",
+      "B) 0",
+      "C) 0",
+      "D) 27"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is an equation of the line tangent to the graph of the functionf(x)=x3−3x2+x+1f(x)=x^3-3x^2+x+1f(x)=x3−3x2+x+1at(1,0)(1, 0)(1,0)?",
+    "options": [
+      "A) 2",
+      "B) 2",
+      "C) 2",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A man purchased a house from a Real estate for Birr 3,550,000 and made a down payment of 20% of the purchase price. The Real estate from which he purchased the house charges an annual interest rate of 8% on his 15 years mortgage. Then what is the monthly mortgage payment?",
+    "options": [
+      "A) Birr 8,414.92",
+      "B) Birr 5,134.72",
+      "C) Birr 10,383.04",
+      "D) Birr 7,094.32"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about integration and differentiation?",
+    "options": [
+      "A) Integral of a function is an anti-derivative of its derivative.",
+      "B) x",
+      "C) Integration is the reverse process of differentiation.",
+      "D) Any continuous function has only one anti-derivative."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is true?",
+    "options": [
+      "A) If the price of an egg reduced from Birr 13.00 to Birr 11.25, then the percent decrease is 0.142%.",
+      "B) If a woman buys 20 kg of sugar by Birr 2000.00, and she sells one kilogram of it by Birr 85.00, then she sells by 30% price decrease.",
+      "C) If a shop owner offered 75 T-shirts by a price of Birr 325.00 for each and he bought all by Birr 25,000.00, then the percent decrease he had made for one T-shirt is 2.5%.",
+      "D) A person earns Birr 175.00 commission per service he provides. If he provided 13 services and got Birr 2000.00, then the percent decrease of his income is approximately 10%."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following integrals of trigonometric functions is the true?",
+    "options": [
+      "A) C",
+      "B) C",
+      "C) C",
+      "D) C"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The following table shows the mean score and the standard deviation of scores of the students in each class P, Q, R and S who took a similar test which is marked out of 20. Which of the following statements is true about these data?ClassMeanStandard deviationP163.05Q162.62R163.05S163.02",
+    "options": [
+      "A) The most consistent test result is class P students' result.",
+      "B) Test result of class Q students is highly variable.",
+      "C) Test result of class P students is more consistent than class R students.",
+      "D) Test result of class S students is more consistent than class R students."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the area (in square units) of the regions bounded by the graph of the equationf(x)=2x+1,y=0,x=−1andx=4f(x) = 2x + 1, y = 0, x = -1 and x = 4f(x)=2x+1,y=0,x=−1andx=4?",
+    "options": [
+      "A) 41",
+      "B) 20.5",
+      "C) 40",
+      "D) 21.5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the area (in square units) of the region enclosed by the curvef(x)=x2−4x+3f(x) = x^2 - 4x + 3f(x)=x2−4x+3, the x-axis, the vertical linesx=−1x = -1x=−1andx=3x = 3x=3?",
+    "options": [
+      "A) 8",
+      "B) 12",
+      "C) 5",
+      "D) 17"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The following table shows the first quartileQ1Q_1Q1​and the third quartileQ3Q_3Q3​of two data sets X and Y. Which of the following is true about the given data?XYQ1Q_1Q1​53Q3Q_3Q3​96",
+    "options": [
+      "A) Data X possesses higher variability than data Y.",
+      "B) Data Y possesses higher variability than data X.",
+      "C) The inter quartile range of data X is 7.",
+      "D) The inter quartile range of data Y is 4.5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose the following data represents the weight in kg of 10 students in a classroom: 61, 49, 52, 68, 61, 55, 64, 63, 67, 60Which one of the following statements is NOT true about the data?",
+    "options": [
+      "A) Mean deviation about the mean of the data is 4.8",
+      "B) Mean deviation about the median of the data is 4.6",
+      "C) Mean deviation about the mode of the data is 4.6",
+      "D) Mean deviation about the mean of the data is 4.7"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

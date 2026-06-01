@@ -1,0 +1,651 @@
+[
+  {
+    "text": "A force that is exerted on a simple machine in order to produce input work is called",
+    "options": [
+      "A) friction.",
+      "B) load.",
+      "C) effort.",
+      "D) normal."
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about transverse and longitudinal waves?",
+    "options": [
+      "A) The directions of wave motion and vibration of the particles are parallel for transverse waves and perpendicular for longitudinal waves.",
+      "B) Waves on a string are longitudinal whereas sound waves are transverse.",
+      "C) The directions of wave motion and vibration of particles are parallel for longitudinal waves but perpendicular for transverse waves.",
+      "D) A longitudinal wave comprises a series of crests and troughs, whereas a transverse wave comprises a series of compressions and rarefactions."
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An object that is partially or fully submerged in a fluid experiences an upward force from the fluid. The apparent weight of the object is the weight of the",
+    "options": [
+      "A) fluid it displaces.",
+      "B) object in air minus the buoyant force.",
+      "C) object in air.",
+      "D) fluid it displaces minus the buoyant force."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A wheel and axle of radii 40 cm and 8 cm, respectively, is used to lift a bucket of 6 kg of water from a well by applying an effort of 20 N on the wheel. The percentage efficiency of this simple machine is",
+    "options": [
+      "A) 60%",
+      "B) 66.7%",
+      "C) 30%",
+      "D) 80%"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Block A of mass m1_11​= 8.0 kg travelling initially at u1_11​= 6 m/s in the positive x-direction collides with block B of mass m2_22​= 12 kg moving in the same direction at u2_22​= 3 m/s. If the velocity of block A, immediately after the collision, is v1_11​= 4 m/s to the positive x-axis, what is the velocity of block B, immediately after the collision?",
+    "options": [
+      "A) 4.33 m/s to the negative x-axis",
+      "B) 3.71 m/s to the negative x-axis",
+      "C) 3.71 m/s to the positive x-axis",
+      "D) 4.33 m/s to the positive x-axis"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The magnetic field created by a long straight current-carrying wire",
+    "options": [
+      "A) is directed in the same direction as the current.",
+      "B) forms a circular pattern around the wire.",
+      "C) is directly proportional to the distance from the wire.",
+      "D) is inversely proportional to the current in the wire."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What will happen to a pure semiconductor when it is doped by a group III element?",
+    "options": [
+      "A) It becomes P-type semiconductor.",
+      "B) It gets extra free electrons.",
+      "C) It becomes intrinsic semiconductor.",
+      "D) It becomes N-type semiconductor."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "We usually use plastic materials to cover metallic wires that carry electricity to protect living things from danger. Which of the following statements correctly describes the nature of the plastic to use for this purpose?",
+    "options": [
+      "A) Since every electron in plastic is slightly bound to the parent atom, it becomes a poor conductor.",
+      "B) Since every electron in plastic is tightly bound to the parent atom, it becomes a poor conductor.",
+      "C) Since it has free electrons, it facilitates the easy flow of electric current in the metallic wires.",
+      "D) Since it has no free electrons, it directs the electrons in the wire to flow in the same direction."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about the current-voltage (I-V) characteristics of a typical semiconductor diode?",
+    "options": [
+      "A) The region of the I-V curve that rises very rapidly after the voltage exceeds the cut-in voltage is the forward bias region.",
+      "B) The region of the I-V curve that increases very rapidly after the bias voltage exceeds the breakdown voltage is in the forward bias region.",
+      "C) The current due to the minority charge carriers is represented in the forward bias region of the I-V curve.",
+      "D) The current due to the majority charge carriers is represented in the reverse bias region of the I-V curve."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider a circuit containing a diode and load resistor (RL) connected to an AC voltage source. If initially, polarity of 'a' is positive while 'b' is negative, [DIAGRAM: image]",
+    "options": [
+      "A) During the second half-cycle, the diode is forward biased and current flows in the load resistor.",
+      "B) During the first half-cycle, the diode is reverse biased and voltage is developed across the load resistor.",
+      "C) During the first half-cycle, the diode is forward biased and voltage is developed across the load resistor.",
+      "D) During the second half-cycle, the diode is reverse biased and no current flows in the load resistor."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A force is used to push a box of mass, m along the slope of an inclined plane with constant velocity. If the coefficient of friction between the box and the inclined plane be μ, the actual mechanical advantage (AMA) of the inclined plane is [DIAGRAM: image]",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A circular coil is located in a uniform magnetic field of magnitude 0.50 T directed perpendicular to the plane of the coil. If the area of the coil changes at a uniform rate, in such a way that it increases by 4.0 × 10-3m2in 2 s, what is the magnitude of the induced electromotive force (emf) in the coil?",
+    "options": [
+      "A) 1.0 × 103V",
+      "B) 2.5 × 102V",
+      "C) 1.0 × 10-3V",
+      "D) 4.0 × 10-3V"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Vector quantities are represented by",
+    "options": [
+      "A) direction only.",
+      "B) magnitude and direction.",
+      "C) dimensionless values.",
+      "D) magnitude only."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "According to Newton's first law, an object that is in motion continues its state of motion with",
+    "options": [
+      "A) constant velocity if the resultant force exerted on it is not zero.",
+      "B) a decreasing speed if the resultant force exerted on it is zero.",
+      "C) constant velocity if the resultant force exerted on it is zero.",
+      "D) an increasing speed if the resultant force exerted on it is not zero."
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following correctly describes the difference between distance and displacement?",
+    "options": [
+      "A) Distance depends on the initial and final points, while displacement depends on the path followed by a moving body.",
+      "B) Distance can be described both in magnitude and direction, while displacement is described only by magnitude.",
+      "C) Distance has either positive or negative values, while displacement has only positive value.",
+      "D) Distance is always greater than or equal to the magnitude of displacement, while the magnitude of the displacement is always less than or equal to distance."
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following statements is correct about uniformly accelerated motion?",
+    "options": [
+      "A) The acceleration is constant.",
+      "B) The velocity is constant.",
+      "C) The displacement increases at a uniform rate.",
+      "D) The speed is constant but the direction is changing."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Two displacement vectors have magnitudes 4 m and 3 m. Which one of the following is NOT the possible value of the magnitude of their resultant vector?",
+    "options": [
+      "A) 7 m",
+      "B) 1 m",
+      "C) 12 m",
+      "D) 5 m"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A train is moving along a straight line with a constant acceleration of 5 m/s2when it passes by a traffic light point. From there on, if the time taken by the train to reach a velocity of 30 m/s is 4 seconds, then what is the distance of the train from the traffic point after 8 seconds?",
+    "options": [
+      "A) 160 m",
+      "B) 80 m",
+      "C) 320 m",
+      "D) 240 m"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is a necessary condition for an object to be in linear equilibrium?",
+    "options": [
+      "A) The linear acceleration of the object is non-zero constant.",
+      "B) The linear speed of the object is constant.",
+      "C) The linear acceleration of the object is zero.",
+      "D) The net force acting on the object is non-zero constant."
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "When an object tends to slide over the surface of another object, tiny bumps at the surface of the two objects knocking and locking together. This causes",
+    "options": [
+      "A) frictional force.",
+      "B) normal force.",
+      "C) electrostatic force.",
+      "D) gravitational force."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose a ball is thrown vertically upward and after reaching a maximum height, it returns back to its initial position. Which of the following statement is correct about energy changes and work done on the ball?",
+    "options": [
+      "A) On its way down, change in its potential energy is positive.",
+      "B) On its way down, work done by gravity is positive.",
+      "C) On its way up, change in its kinetic energy is positive.",
+      "D) On its way up, work done by gravity is positive."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The mechanical energy of an oscillating object at any point through its path is equal to",
+    "options": [
+      "A) the difference between its kinetic and potential energies.",
+      "B) the sum of its potential and internal energies.",
+      "C) the sum of its kinetic and internal energies.",
+      "D) the sum of its kinetic and potential energies."
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A tennis ball of mass 0.10 kg traveling horizontally at 40.0 m/s is struck back by a racket. If the ball returns back with a speed of 30.0 m/s in the opposite direction, what is the magnitude of the impulse delivered to the ball by the racket?",
+    "options": [
+      "A) 1.0 kg m/s",
+      "B) 7.0 kg m/s",
+      "C) 4.0 kg m/s",
+      "D) 3.0 kg m/s"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The flow rate of a fluid is defined as",
+    "options": [
+      "A) the volume of the fluid crossing an area per unit time taken.",
+      "B) the speed with which the fluid is flowing through a pipe.",
+      "C) the mass of the fluid crossing an area per unit time taken.",
+      "D) the rate of change of the speed with which fluid is flowing through a pipe."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "At normal condition, solids are almost incompressible compared to liquids and gases. The reason is that",
+    "options": [
+      "A) their atoms are free to slide about and interact with neighbors.",
+      "B) their atoms are relatively fixed distance apart and held together.",
+      "C) their atoms vibrate and are free to move.",
+      "D) there is much space and little force between atoms."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following statements is correct about magnets?",
+    "options": [
+      "A) The north pole of one magnet repels the south pole of another magnet.",
+      "B) Like electric charges, magnetic poles exist in a single isolated form.",
+      "C) Unlike permanent magnets, electromagnets are magnets without poles.",
+      "D) If you cut a bar magnet into two, each piece has both north and south poles."
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A wheel of radius r = 50 cm rotates about a fixed perpendicular axis that passes through its center. If the angular speed is ω = 200 rad/s, how much is the tangential speed of a point on the rim of the wheel?",
+    "options": [
+      "A) 10,000 m/s",
+      "B) 800 m/s",
+      "C) 80,000 m/s",
+      "D) 100 m/s"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose your mass is measured to be 50 kg. If your friend having a mass of 55 kg is at a distance of 2 m apart from you, what is the magnitude of gravitational force between you and your friend?",
+    "options": [
+      "A) 9.2 × 10⁻⁸ N",
+      "B) 9.2 × 10⁻¹¹ N",
+      "C) 4.6 × 10⁻⁸ N",
+      "D) 4.6 × 10⁻¹¹ N"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A 10 N force is applied to the smaller circular piston of a hydraulic lift of radius 0.1 m to lift a 2500 N load placed on the larger piston. What is the area of the larger piston?",
+    "options": [
+      "A) 2.50 m²",
+      "B) 0.25 m²",
+      "C) 3.14 m²",
+      "D) 7.85 m²"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An electric field is defined as a region where",
+    "options": [
+      "A) a charged particle loses its charge when it is placed in that region.",
+      "B) a charged particle experiences no electric force when it is placed in that region.",
+      "C) a neutral particle experiences electric force when it is placed in that region.",
+      "D) a charged particle experiences an electric force if it is placed in that region."
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about the speed of sound in different mediums? The speed of sound",
+    "options": [
+      "A) in a colder and less dense medium is faster than in hotter and denser material.",
+      "B) in solid is less than its speed in liquid.",
+      "C) increases as the temperature and density of a material increases.",
+      "D) in liquid is less than its speed in gas."
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the magnitude of electric field strength at a distance of 2.0 m from a point charge, Q = 4.0 C?",
+    "options": [
+      "A) N/C",
+      "B) N/C",
+      "C) N/C",
+      "D) N/C"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A wire that has a resistance of 6 Ω is drawn out to make it into a new wire two times as long as the original and half the cross-sectional area of the original. What will be the resistance of the new wire?",
+    "options": [
+      "A) 12 Ω",
+      "B) 6 Ω",
+      "C) 3 Ω",
+      "D) 24 Ω"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A long straight wire carries a current of 5.0 A. What is the magnetic field strength produced by the current at a distance of 2.0 cm from the wire?",
+    "options": [
+      "A) T",
+      "B) T",
+      "C) T",
+      "D) T"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If two vectorsa\\mathbf{a}aandb\\mathbf{b}b, with respective magnitudes of a and b, form an angle α between them when they are connected tail to tail, then the expression ab cos α defines the value of",
+    "options": [
+      "A) b",
+      "B) b",
+      "C) b",
+      "D) b"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about real and virtual images?",
+    "options": [
+      "A) Real images can be displayed on a screen unlike the virtual ones.",
+      "B) Virtual images can be displayed on a screen unlike the real ones.",
+      "C) Virtual images can be magnified but real images cannot.",
+      "D) Real images can be magnified but virtual images cannot."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An object moving in one dimension with constant acceleration a travels through a displacement s in a time interval t. If its velocity at the initial time t = 0 is vᵢ and its velocity at a later time t is vₓ, which of the following is a correct relation between the given quantities?",
+    "options": [
+      "A) 2",
+      "B) ",
+      "C) 2",
+      "D) t"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If the critical angle for an optically denser medium to air boundary is 53°, what will be the refractive index of the medium?",
+    "options": [
+      "A) 1.67",
+      "B) 1.33",
+      "C) 1.00",
+      "D) 1.25"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Given the displacement vectorA=(3i−4j)m\\mathbf{A} = (3\\mathbf{i} - 4\\mathbf{j}) \\, \\mathrm{m}A=(3i−4j)m, what is the unit vector in the direction ofA\\mathbf{A}A?",
+    "options": [
+      "A) j",
+      "B) j",
+      "C) j",
+      "D) j"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose that you are given two forces withF1=75NF_1 = 75\\, \\mathrm{N}F1​=75Nin the direction of53∘53^\\circ53∘west of north andF2=100NF_2 = 100\\, \\mathrm{N}F2​=100Nin the direction of37∘37^\\circ37∘east of north. If you add the two forces using analytical and graphical methods and represent using graphical scale of 1 cm for 10 N force, what are the possible length and direction of the arrow line for the resultant vector?",
+    "options": [
+      "A) 12.5 cm to the North",
+      "B) ∘",
+      "C) 1.25 cm to the North",
+      "D) ∘"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following concepts of physics are the primary focus points in mechanical engineering?",
+    "options": [
+      "A) Geometric optics, Electrostatics, Thermodynamics, and Stress",
+      "B) Dynamics, Thermodynamics, Force, and Stress",
+      "C) Nuclear physics, Geometric optics, Dynamics, and Force",
+      "D) Molecular physics, Dynamics, Nuclear physics, and Force"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following defense technologies is correctly matched with its working principle?",
+    "options": [
+      "A) Missiles radiate electromagnetic signals and examine the echo received to identify the location of the target.",
+      "B) A radar is a rocket-propelled weapon designed to deliver an explosive weapon with great accuracy at high speed.",
+      "C) Infrared devices use heat emission to identify objects that cannot be detected using available light sources.",
+      "D) Drones radiate electromagnetic signals and examine the echo received to identify the location of the target."
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following phenomena occurs during the change of phases of matter? During a phase change from",
+    "options": [
+      "A) gas to liquid, heat energy is absorbed by a substance while its temperature remains constant.",
+      "B) solid to liquid, heat energy is released from a substance while its temperature remains constant.",
+      "C) liquid to solid, heat energy is released from a substance while its temperature changes uniformly.",
+      "D) liquid to gas, heat energy is absorbed by a substance while its temperature remains constant."
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Assume that a ball is thrown horizontally from a building of heighthhhabove the ground with initial speedv0v_0v0​. Which one of the following statements is correct about the motion of the object?",
+    "options": [
+      "A) Its horizontal component acceleration is zero.",
+      "B) Its vertical component velocity remains constant.",
+      "C) Its vertical component acceleration is zero.",
+      "D) Its horizontal component velocity uniformly increases."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A projectile is thrown from level ground with an initial velocityv0v_0v0​making an angle ofθ\\thetaθabove the horizontal. If the maximum height covered by the projectile isHHH, what is the horizontal range of the projectile in terms ofHHHandθ\\thetaθ?",
+    "options": [
+      "A) θ",
+      "B) /4",
+      "C) θ",
+      "D) θ"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The amount of heat energy required to raise the temperature of a given substance by1∘C1^\\circ\\mathrm{C}1∘Cis",
+    "options": [
+      "A) quantity of heat.",
+      "B) specific heat capacity.",
+      "C) latent heat.",
+      "D) heat capacity."
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about the properties of waves?",
+    "options": [
+      "A) When two waves interfere destructively, the amplitude of the resultant wave is greater than the amplitude of each wave.",
+      "B) Diffraction of a wave through a narrow gap is more observable than through a wider gap.",
+      "C) When a wave is reflected, its speed and wavelength are changed.",
+      "D) When a wave is refracted, its speed and wavelength remain the same."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A square metal plate of coefficient of linear expansionα\\alphaαhas a surface areaA0A_0A0​at a temperatureT0T_0T0​. If the temperature is raised by an amountΔT\\Delta TΔT, then the plate surface area is changed toAAAwhich is expressed as",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An object dropped into a sea sinks to a depth of 100 m. Which of the following is correct about the pressure the object experiences?",
+    "options": [
+      "A) Pa",
+      "B) Pa",
+      "C) Pa",
+      "D) Pa"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "How much heat energy is required to change 5 kg of ice at−20∘C-20^\\circ\\mathrm{C}−20∘Cto water at10∘C10^\\circ\\mathrm{C}10∘C? (Specific heat capacities of water in liquid and solid phases are4.2kJ/kg⋅∘C4.2\\, \\mathrm{kJ/kg\\cdot^\\circ C}4.2kJ/kg⋅∘Cand2.1kJ/kg⋅∘C2.1\\, \\mathrm{kJ/kg\\cdot^\\circ C}2.1kJ/kg⋅∘C, respectively, and latent heat of fusion of water,Lf=336000J/kgL_f=336000\\, \\mathrm{J/kg}Lf​=336000J/kg)",
+    "options": [
+      "A) J",
+      "B) J",
+      "C) J",
+      "D) J"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about the fundamental forces in nature and their applications?",
+    "options": [
+      "A) The force that keeps the nucleus of an atom from flying apart due to the repulsive force between protons is the weak nuclear force.",
+      "B) The gravitational force makes planets revolve around the Sun and follow their orbital path.",
+      "C) The force that arises in most radioactive processes and in nuclear reactions that generate the Sun's energy is the strong nuclear force.",
+      "D) The electromagnetic force is the force that keeps protons and neutrons bound together in the nucleus of an atom."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A spring stores 120 J of elastic potential energy when it is stretched by 0.5 m. What is the potential energy stored by the spring when it is stretched by 1.5 m?",
+    "options": [
+      "A) 480 J",
+      "B) 960 J",
+      "C) 1080 J",
+      "D) 540 J"
+    ],
+    "correct": 2,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A crane at port is used to lift a 10,000 kg object to a height of 20 m. If the power developed by the crane is 50,000 W, how long does it take to lift the object?",
+    "options": [
+      "A) 400 s",
+      "B) 40 s",
+      "C) 4 s",
+      "D) 2 s"
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A system of four masses m₁ = 4 kg, m₂ = 4 kg, m₃ = 5 kg, and m₄ = 3 kg are located in the xy-plane at the coordinates of (0, 0), (30 cm, 0), (-40 cm, 0), and (0, 20 cm), respectively. What is the coordinate of the center of mass of the system?",
+    "options": [
+      "A) (20 cm, 3.75 cm)",
+      "B) (-6.7 cm, 5 cm)",
+      "C) (-5 cm, 10 cm)",
+      "D) (-5 cm, 3.75 cm)"
+    ],
+    "correct": 3,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The velocity-time graph of an object moving in a straight line is shown.What is the magnitude of the total displacement covered by the object in the time interval of seconds? [DIAGRAM: image]",
+    "options": [
+      "A) 102 m",
+      "B) 90 m",
+      "C) 54 m",
+      "D) 42 m"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose a particle of mass m is tied to a string and then whirled around in a horizontal circle of radius r about the center O. If the string makes an angleθ\\thetaθto the vertical while rotating, the component of the force responsible for the circular motion of the mass providing the centripetal force is [DIAGRAM: image]",
+    "options": [
+      "A) θ",
+      "B) θ",
+      "C) θ",
+      "D) θ"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Four point masses m₁ = 4 kg, m₂ = 1 kg, m₅ = 3 kg, and m₄ = 5 kg are attached to a massless rod which lays on the x-axis. How much is the moment of inertia of the system about the y-axis? [DIAGRAM: image]",
+    "options": [
+      "A) 187 kg m²",
+      "B) 184 kg m²",
+      "C) 190 kg m²",
+      "D) 84 kg m²"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Four resistors are connected to a voltage source. Which one of the following is correct about the circuit? [DIAGRAM: image]",
+    "options": [
+      "A) R₃ is connected in parallel with R₄.",
+      "B) R₁ is connected in parallel with R₂.",
+      "C) R₁ is connected in series with the effective combination of R₃ and R₄.",
+      "D) R₂ is connected in parallel with the effective combination of R₃ and R₄."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A 2 kg object accelerates with 1.5 m/s² to the right on a horizontal frictionless surface under the action of two horizontal forces, F₁ and F₂. What should be the magnitude of F₁? [DIAGRAM: image]",
+    "options": [
+      "A) 4 N",
+      "B) 3 N",
+      "C) 1 N",
+      "D) 2 N"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

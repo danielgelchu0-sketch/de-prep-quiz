@@ -1,0 +1,706 @@
+[
+  {
+    "text": "Consider the figure shown below.Ifm(∠BAE)=50∘m(\\angle BAE) = 50^\\circm(∠BAE)=50∘andm(∠CBD)=80∘m(\\angle CBD) = 80^\\circm(∠CBD)=80∘, thenm(BXE^)m(\\widehat{BXE})m(BXE)is equal to: [DIAGRAM: image]",
+    "options": [
+      "A) ∘",
+      "B) ∘",
+      "C) ∘",
+      "D) ∘"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letf(x)f(x)f(x)be a polynomial of degree at least 1,g(x)g(x)g(x)be a non-zero polynomial andc∈Rc \\in \\mathbb{R}c∈R. Which of the following states the Factor Theorem?",
+    "options": [
+      "A) )",
+      "B) b",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "LetA={1,2}A = \\{1,2\\}A={1,2}andB={1,3}B = \\{1,3\\}B={1,3}be sets. Then which one of the following Cartesian products is correct?",
+    "options": [
+      "A) )}",
+      "B) )}",
+      "C) )}",
+      "D) )}"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the matrix(2−310−1π314)\\begin{pmatrix} 2 & -3 & 1 \\\\ 0 & -1 & \\pi \\\\ 3 & 1 & 4 \\end{pmatrix}​203​−3−11​1π4​​. What is the cofactor of entryπ\\piπ?",
+    "options": [
+      "A) 7",
+      "B) 11",
+      "C) π",
+      "D) π"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "When converting the recurring decimal0.25‾0.\\overline{25}0.25into a fraction using convergent geometric series, then what are the first term and the common ratio respectively?",
+    "options": [
+      "A) 0.01",
+      "B) 0.01",
+      "C) 0.1",
+      "D) 0.1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What are the maximum and minimum values respectively ofz=3x+yz = 3x + yz=3x+ysubject to constraints{3x+2y≤202x−y≥4x≥0,y≥0\\begin{cases} 3x + 2y \\leq 20 \\\\ 2x - y \\geq 4 \\\\ x \\geq 0, y \\geq 0 \\end{cases}⎩⎨⎧​3x+2y≤202x−y≥4x≥0,y≥0​?",
+    "options": [
+      "A) 6",
+      "B) 6",
+      "C) 6",
+      "D) 8"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the domain of the functionf(x)=3−x2f(x) = \\sqrt{3 - x^2}f(x)=3−x2​?",
+    "options": [
+      "A) )",
+      "B) ]",
+      "C) ]",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Ifx=0.00471x = 0.00471x=0.00471, then which of the following gives the mantissa oflog⁡x\\log xlogx?",
+    "options": [
+      "A) 3",
+      "B) 3",
+      "C) 4.71",
+      "D) 0.471"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Dibabe was hired in an elementary school with a monthly salary of Birr 30,000. The agreement was to raise her salary every year by Birr 3,000. What is the total amount of money that Dibabe will earn at the end of the 8th year in Birr?",
+    "options": [
+      "A) 2,964,000",
+      "B) 3,888,000",
+      "C) 2,976,000",
+      "D) 324,000"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "For what value ofxxxis the matrix(1012x+1301−1x)\\begin{pmatrix} 1 & 0 & 1 \\\\ 2x+1 & 3 & 0 \\\\ 1 & -1 & x \\end{pmatrix}​12x+11​03−1​10x​​invertible?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the surface area (in cm2^22) of leather material required to make a spherical shape ball of radius 25cm?",
+    "options": [
+      "A) π",
+      "B) π",
+      "C) π",
+      "D) ere"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Mr. Bekele finances two investments,I1I_1I1​andI2I_2I2​. The profits ofI1I_1I1​andI2I_2I2​are 8% and 10%, respectively. The total investment is Birr one million with at least Birr 50,000 inI1I_1I1​and at most Birr 300,000 inI2I_2I2​. Which of the following is the Mathematical representation of the problem if Mr. Bekele wishes to maximize his profit? (Letxxxandyyybe the amount of money invested onI1I_1I1​andI2I_2I2​in Birr, respectively)",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the result when32−763\\sqrt{2} - 7\\sqrt{6}32​−76​is subtracted from22+432\\sqrt{2} + 4\\sqrt{3}22​+43​?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is qualitative data?",
+    "options": [
+      "A) The time Derartu took to win Atlanta Olympic.",
+      "B) Age of President Trump.",
+      "C) The volume of oil in a container.",
+      "D) The type of Coffee produced in Keffa."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the functionsf(x)=5xf(x)=5^xf(x)=5xandg(x)=log⁡5xg(x)=\\log_5 xg(x)=log5​x. Which of the following is correct about the relations of domains and ranges offffandggg?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In the figure shown below,AC‾=DE‾\\overline{AC} = \\overline{DE}AC=DE,∠BAC=∠DEF\\angle BAC = \\angle DEF∠BAC=∠DEF,∠ACB=∠FDE\\angle ACB = \\angle FDE∠ACB=∠FDEandAC‾≡DE‾\\overline{AC}\\equiv \\overline{DE}AC≡DEThen which one of the following is true? [DIAGRAM: image]",
+    "options": [
+      "A) D",
+      "B) D",
+      "C) EF",
+      "D) FE"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letfffbe a function and letcccbe an element of domain offffat which the gradient offffis zero. Which one of the following statements is true aboutf′(c)f'(c)f′(c)?",
+    "options": [
+      "A) 0",
+      "B) 0",
+      "C) 0",
+      "D) 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the solution set of the equation∣2x−3∣−1=0|2x - 3| - 1 = 0∣2x−3∣−1=0?",
+    "options": [
+      "A) )",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An equilateral triangle is inscribed in a circle with radius3\\sqrt{3}3​cm. Then what is the perimeter (in cm) of the triangle?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) 9",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following statements defines frustum of a pyramid?",
+    "options": [
+      "A) It is part of a pyramid excluded the base of the pyramid and horizontal cross-section made by the plane slant to the base.",
+      "B) It is part of a pyramid included between the base of the pyramid and a horizontal cross-section made by the plane parallel to the base.",
+      "C) It is part of a cone included between the base of the cone and a plane parallel to the base.",
+      "D) It is a surface in space all points of which are equidistant from a point."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Ifu=(1,−1)\\mathbf{u} = (1, -1)u=(1,−1)andv=(2,−4)\\mathbf{v} = (2, -4)v=(2,−4)are vectors, thenu−v\\mathbf{u} - \\mathbf{v}u−vis equal to:",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The gradient of a functionf(x)=1x2f(x) = \\frac{1}{x^2}f(x)=x21​atx=ax = ax=a,a≠0a \\neq 0a=0is equal to:",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following isNOTa valid reason for a person to save money?",
+    "options": [
+      "A) To buy shares from private banks",
+      "B) To give loan to other people and collect profit",
+      "C) For down payment of a house",
+      "D) To support life after retirement"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the following data.12, 21, 16, 15, 10, 11, 12, 18, 9, 10, 13, 14, 15, 13, 19Which one of the following is true?",
+    "options": [
+      "A) 16",
+      "B) 13.5",
+      "C) 4",
+      "D) 12"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A lineℓ1\\ell_1ℓ1​in thex,yx, yx,y-plane has equationx−y+3=0x - y + 3 = 0x−y+3=0. A second lineℓ2\\ell_2ℓ2​which is perpendicular toℓ1\\ell_1ℓ1​contains the point(2,3)(2, 3)(2,3). Which one of the following gives equation ofℓ2\\ell_2ℓ2​?",
+    "options": [
+      "A) 0",
+      "B) 0",
+      "C) 0",
+      "D) 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "When the Division Algorithm is applied to the fraction28320\\frac{283}{20}20283​, then which one of the following is the corresponding representation?",
+    "options": [
+      "A) 83",
+      "B) 0",
+      "C) 143",
+      "D) 3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the data 7, 12, 21, x, 14. What is the value ofxxxif its range is 23?",
+    "options": [
+      "A) 30",
+      "B) 33.5",
+      "C) 2",
+      "D) 23"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The following is raw data of 15 students in a test:9, 6, 6, 10, 6, 10, 9, 7, 7, 5, 9, 7, 10, 7, 7Which one of the following is frequency distribution of the given data?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "LetR1(x)=x3−9xx2−2,x≠±2R_1(x) = \\frac{x^3 - 9x}{x^2 - 2}, x \\neq \\pm \\sqrt{2}R1​(x)=x2−2x3−9x​,x=±2​, andR2(x)=x2+3xx−2,x≠2R_2(x) = \\frac{x^2 + 3x}{x - \\sqrt{2}}, x \\neq \\sqrt{2}R2​(x)=x−2​x2+3x​,x=2​be rational functions. Then what is the simplified form ofR1(x)R2(x)\\frac{R_1(x)}{R_2(x)}R2​(x)R1​(x)​?",
+    "options": [
+      "A) 1",
+      "B) 3",
+      "C) 0",
+      "D) 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is a scalar quantity?",
+    "options": [
+      "A) Displacement of an object to change its position.",
+      "B) The average velocity of airplane to travel.",
+      "C) Force applied on an object to change its place.",
+      "D) The total time taken to complete surgery."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Leta>0a > 0a>0anda≠1a \\neq 1a=1. Then which one of the following isNOTtrue about the graphs of exponential functionsf(x)=axf(x) = a^xf(x)=axandg(x)=(1a)xg(x) = \\left(\\frac{1}{a}\\right)^xg(x)=(a1​)x?",
+    "options": [
+      "A) )",
+      "B) They are increasing function.",
+      "C) They have the same domain.",
+      "D) They have the same range."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A spherical fuel container with radius 3m is filled with fuel. What is the amount (in m3^33) of fuel in the container?",
+    "options": [
+      "A) π",
+      "B) π",
+      "C) π",
+      "D) π"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A circle with radius 3 cm increases its radius at a rate of 0.2 cm/sec. What is the area of the circle at the 5th^{\\text{th}}thsecond?",
+    "options": [
+      "A) 2",
+      "B) 2",
+      "C) 2",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A school has 6,000 students. The ratio of female students to the total number of students is 2:3. Which one of the following is true about the students in the school?",
+    "options": [
+      "A) The number of female students is twice the number of male students.",
+      "B) The ratio of male students to female students is 1:3.",
+      "C) The number of male students is greater than that of female students.",
+      "D) About 33% of the students in the school are female."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "LetSSSbe a set given by{x∈N:1<x≤100}\\{x \\in \\mathbb{N}: 1 < x \\leq 100\\}{x∈N:1<x≤100}. Then which one of the following statement is true?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the inverse of the matrix(−2103)\\begin{pmatrix} -2 & 1 \\\\ 0 & 3 \\end{pmatrix}(−20​13​)?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is equal to∑k=14(2k−1)\\sum_{k=1}^{4} (2k - 1)∑k=14​(2k−1)?",
+    "options": [
+      "A) 20",
+      "B) 30",
+      "C) 16",
+      "D) 32"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Given the polynomial functionp(x)=5x2−x3−2p(x) = 5x^2 - x^3 - \\sqrt{2}p(x)=5x2−x3−2​. Then what are the degree, leading coefficient and constant term of the polynomial functionp(x)p(x)p(x)respectively?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "LetSSSbe a set given by{x∈N:1<x≤100}\\{x \\in \\mathbb{N}: 1 < x \\leq 100\\}{x∈N:1<x≤100}. Then which one of the following statement is true?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the inverse of the matrix(−2103)\\begin{pmatrix} -2 & 1 \\\\ 0 & 3 \\end{pmatrix}(−20​13​)?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is equal to∑k=14(2k−1)\\sum_{k=1}^{4} (2k - 1)∑k=14​(2k−1)?",
+    "options": [
+      "A) 20",
+      "B) 30",
+      "C) 16",
+      "D) 32"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Given the polynomial functionp(x)=5x2−x3−2p(x) = 5x^2 - x^3 - \\sqrt{2}p(x)=5x2−x3−2​. Then what are the degree, leading coefficient and constant term of the polynomial functionp(x)p(x)p(x)respectively?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A person, whose height is 2 m, is standing away from a 16 m tall building. The angle of depression from the top of the building to the head of the person is30∘30^\\circ30∘. How far is the person from the building in meters?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If a sampling interval is calculated by dividing the size of the population by the size of the sample, then which probability sampling technique is used?",
+    "options": [
+      "A) Stratified Sampling",
+      "B) Systematic Sampling",
+      "C) Simple Random Sampling",
+      "D) Cluster Sampling"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following systems of equations possesses no solution?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "LetA(−1,2)A(-1, 2)A(−1,2)andB(0,5)B(0, 5)B(0,5)be initial and terminal points of vectorAB→\\overrightarrow{AB}AB. What is the position vector ofAB→\\overrightarrow{AB}AB?",
+    "options": [
+      "A) j",
+      "B) j",
+      "C) j",
+      "D) j"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The system of linear equations{x+z=02x+y=1x+2y+z=0\\begin{cases} x + z = 0 \\\\ 2x + y = 1 \\\\ x + 2y + z = 0 \\end{cases}⎩⎨⎧​x+z=02x+y=1x+2y+z=0​in matrix form is equal to:",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following isNOTtrue about the coefficient of variation?",
+    "options": [
+      "A) It is used to evaluate the variation of a data.",
+      "B) It is the ratio of standard deviation to the mean.",
+      "C) It is a measure of relative dispersion that is based on standard deviation.",
+      "D) It is a relative measure used to measure the degree of consistency."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following describe combination of objects?",
+    "options": [
+      "A) The number of ways of arrangement of n objects in a specific order using r objects at a time.",
+      "B) The number of ways of arranging the seat of n people in a circle.",
+      "C) The number of ways of choosing r objects from n objects disregarding the order of selection.",
+      "D) The number of ways of arranging n objects taking n at a time considering the order of the objects."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about measures of dispersion?",
+    "options": [
+      "A) It gives representative of the whole data.",
+      "B) It locates the central value of the data.",
+      "C) It measures the scatter of the data.",
+      "D) It gives the middle value of the data."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The solution set of64x−13=(116)2x+3\\sqrt[3]{64^{x-1}} = \\left(\\frac{1}{16}\\right)^{2x+3}364x−1​=(161​)2x+3is equal to:",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In how many ways can the name for vertices of a triangle be given in different order by using letters A, B, C, D, E?",
+    "options": [
+      "A) 20",
+      "B) 120",
+      "C) 10",
+      "D) 60"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Ifsin⁡(−53∘)=β\\sin(-53^\\circ) = \\betasin(−53∘)=β, then which one of the following is correct?",
+    "options": [
+      "A) β",
+      "B) β",
+      "C) β",
+      "D) β"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the solution set of the inequality1−3x≤4x21 - \\frac{3}{x} \\le \\frac{4}{x^2}1−x3​≤x24​?",
+    "options": [
+      "A) ]",
+      "B) ]",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The slope of a line passing throughP(1,−1)P(1, -1)P(1,−1)andQ(0,1)Q(0, 1)Q(0,1)is equal to:",
+    "options": [
+      "A) 2",
+      "B) -1",
+      "C) 3",
+      "D) -2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Given the functionf(x)=2sgn⁡x+1f(x) = 2\\operatorname{sgn} x + 1f(x)=2sgnx+1. Then what are the domain and the range off(x)f(x)f(x)respectively?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the rationalizing factor of the number533−2\\frac{5\\sqrt{3}}{\\sqrt{3} - \\sqrt{2}}3​−2​53​​?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An entrance examination for a certain job was given to 35 applicants and their results are summarized in the table below.ResultsNumber of applicants41-50351-601461-701071-80581-90291-1001Then which one of the following isNOTtrue?",
+    "options": [
+      "A) The upper class limit of the second class is 60.",
+      "B) The class midpoint of the second class is 55.",
+      "C) 61-70 is the class interval of the third class.",
+      "D) The lower class limit of the fifth class is 81."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the equation of the tangent line to the graph off(x)=2x3−3x2+1f(x) = 2x^3 - 3x^2 + 1f(x)=2x3−3x2+1atx=2x = 2x=2?",
+    "options": [
+      "A) 235",
+      "B) 7",
+      "C) 5",
+      "D) 19"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "An entrance examination for a certain job was given to 35 applicants and their results are summarized in the table below.ResultsNumber of applicants41-50351-601461-701071-80581-90291-1001Then which one of the following isNOTtrue?",
+    "options": [
+      "A) The upper class limit of the second class is 60.",
+      "B) The class midpoint of the second class is 55.",
+      "C) 61-70 is the class interval of the third class.",
+      "D) The lower class limit of the fifth class is 81."
+    ],
+    "correct": 1,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following graphs representsf(x)=log⁡4xf(x) = \\log_4 xf(x)=log4​x?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following graphs represents the functionf(x)=(x−1)2−1f(x) = (x-1)^2 - 1f(x)=(x−1)2−1?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following graphs represent the graph off(x)=cos⁡xf(x) = \\cos xf(x)=cosxon the interval[−π,π][-\\pi, \\pi][−π,π]?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the diagram below:ABCD is a parallelogram with length of base 7 cm and△APB\\triangle APB△APBis an isosceles right angled triangle with right angle at P and hypotenuse 4 cm. What is the area of ABCD in cm2^22? [DIAGRAM: image]",
+    "options": [
+      "A) ",
+      "B) 8",
+      "C) 28",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

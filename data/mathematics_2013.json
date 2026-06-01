@@ -1,0 +1,706 @@
+[
+  {
+    "text": "Given two vectorsu=(1,3)u = (1, 3)u=(1,3)andv=(−3,5)v = (-3, 5)v=(−3,5)in the plane. Then6u+2v6u + 2v6u+2vis equal to",
+    "options": [
+      "A) (0, 18)",
+      "B) (3, 3)",
+      "C) (2, 28)",
+      "D) (0, 28)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the standard form of the equation of the circle centered at(2,−3)(2, -3)(2,−3)and radius 5?",
+    "options": [
+      "A) 25",
+      "B) 25",
+      "C) 5",
+      "D) 25"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Iffffis a continuous function on[a,b][a, b][a,b]andFFFis its anti-derivative, then which of the following is true?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following defines the equation of a sphere whose center is at(0,−1,2)(0, -1, 2)(0,−1,2)and radius 6 units?",
+    "options": [
+      "A) 36",
+      "B) 36",
+      "C) 12",
+      "D) 36"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following represents the vector(3,−5,7)(3, -5, 7)(3,−5,7)in the space using the standard unit vectorsi\\mathbf{i}i,j\\mathbf{j}jandk\\mathbf{k}k?",
+    "options": [
+      "A) k",
+      "B) k",
+      "C) k",
+      "D) k"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the scalar (dot) product of the vectors(2,−4,6)(2, -4, 6)(2,−4,6)and(−2,−1,0)(-2, -1, 0)(−2,−1,0)?",
+    "options": [
+      "A) 0",
+      "B) -8",
+      "C) 8",
+      "D) -4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What are the domain and range of the functionf(x)=2x34f(x) = 2x^{\\frac{3}{4}}f(x)=2x43​respectively?",
+    "options": [
+      "A) )",
+      "B) R",
+      "C) R",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following defines a one-to-one function?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The equation of a circle is given by(x−3)2+(y+2)2=9(x-3)^2+(y+2)^2=9(x−3)2+(y+2)2=9. What are the center and the radius of the circle respectively?",
+    "options": [
+      "A) (3, -2) and 3",
+      "B) (3, 2) and 3",
+      "C) (3, -2) and 9",
+      "D) (3, 2) and 9"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following sentences has a truth value?",
+    "options": [
+      "A) Man is selfish.",
+      "B) We shall win!",
+      "C) Man is mortal!",
+      "D) Tomorrow is a beautiful day."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the determinant of the matrix[1−765]\\begin{bmatrix} 1 & -7 \\\\ 6 & 5\\end{bmatrix}[16​−75​]?",
+    "options": [
+      "A) -37",
+      "B) -47",
+      "C) 47",
+      "D) 37"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The additive inverse of the complex number3−4i3 - 4i3−4iis",
+    "options": [
+      "A) i",
+      "B) i",
+      "C) i",
+      "D) i"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the modulus of the complex number−6+8i-6 + 8i−6+8i?",
+    "options": [
+      "A) 5",
+      "B) 2",
+      "C) 10",
+      "D) 8"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the following frequency distribution graphValue53768Frequency34535What is the sixth decile?",
+    "options": [
+      "A) 6.5",
+      "B) 5",
+      "C) 7.5",
+      "D) 7"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In a certain health center there are 3 doctors, 8 nurses and 2 physicians. In how many ways one can form a group of 5 members consisting of 1 doctor, 3 nurses and 1 physician?",
+    "options": [
+      "A) 168",
+      "B) 112",
+      "C) 336",
+      "D) 330"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following forms represents an exhaustive set of events if a die is thrown once?",
+    "options": [
+      "A) {1, 2}, {4}, {4, 5, 6}",
+      "B) {1, 2, 3}, {4, 5}, {6}",
+      "C) {1, 2}, {2}, {4, 5}, {5, 6}",
+      "D) {1, 2, 3}, {3, 4}, {6}"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A bag contains 2 red, 3 yellow and 5 green balls. One ball is drawn at random. What is the probability that the drawn ball is NOT yellow?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is the productABABABof the two matricesA=[−2314]A=\\begin{bmatrix}-2 & 3\\\\ 1 & 4\\end{bmatrix}A=[−21​34​]andB=[−1530]B=\\begin{bmatrix}-1 & 5\\\\ 3 & 0\\end{bmatrix}B=[−13​50​]?",
+    "options": [
+      "A) ]",
+      "B) ]",
+      "C) ]",
+      "D) ]"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is NOT true about the determinant of a given square matrix A?",
+    "options": [
+      "A) If A contains a row of zeros, then its determinant is zero.",
+      "B) If A has identical rows, then its determinant is zero.",
+      "C) The determinant of A is equal to the determinant of its transpose.",
+      "D) Interchanging two rows of A gives the same determinant."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is the inverse of the matrix[2334]\\begin{bmatrix}2 & 3\\\\ 3 & 4\\end{bmatrix}[23​34​]?",
+    "options": [
+      "A) ]",
+      "B) ]",
+      "C) ]",
+      "D) ]"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the system of linear equation{3x−ay=16x+4y=5\\left\\{ \\begin{array}{r l} 3x - ay & = 1 \\\\ 6x + 4y & = 5 \\end{array} \\right.{3x−ay6x+4y​=1=5​Then which of the following is true?",
+    "options": [
+      "A) 2",
+      "B) 2",
+      "C) 2",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the magnitude of the vector whose initial point is at (1, -3) and terminal point is at (4, 1)?",
+    "options": [
+      "A) 5",
+      "B) 6",
+      "C) 1",
+      "D) 4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Let T be a translation that takes the origin into (2, 3). Then which of the following is true about the translation T?",
+    "options": [
+      "A) 9",
+      "B) 9",
+      "C) 12",
+      "D) 12"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) ",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following functions represents the graph shown in Figure 2? [DIAGRAM: image]",
+    "options": [
+      "A) f(x) = tan x",
+      "B) f(x) = sec x",
+      "C) f(x) = csc x",
+      "D) f(x) = cot x"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the fourth term of the sequence{cos⁡(nπ2)}\\left\\{\\ \\cos(\\frac{n\\pi}{2}) \\right\\}{cos(2nπ​)}?",
+    "options": [
+      "A) 0",
+      "B) -1",
+      "C) 1",
+      "D) 0.5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is a geometric sequence?",
+    "options": [
+      "A) 1, 1.5, 2.5, 3.5, ...",
+      "B) 0.1, 0.01, 0.0011, 0.000111, ...",
+      "C) 8, 4, 2, -1, ...",
+      "D) 0.1, 0.11, 0.12, 0.13, ..."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A factory that produces electric cable had sales Birr 1,000,000 the first day. During each successive days the sales increased by Birr 10,000 every day. What is the total sales of the factory in the first 10 days?",
+    "options": [
+      "A) Birr 10,000,000",
+      "B) Birr 1,090,000",
+      "C) Birr 20,900,000",
+      "D) Birr 10,450,000"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the least upper bound of the sequence{2+nn+1}n=1∞\\left\\{2 + \\frac{n}{n+1}\\right\\}_{n=1}^\\infty{2+n+1n​}n=1∞​?",
+    "options": [
+      "A) 1",
+      "B) 0",
+      "C) 3",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following sequences is a null sequence?",
+    "options": [
+      "A) }",
+      "B) }",
+      "C) }",
+      "D) }"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Supposean{a_n}an​andbn{b_n}bn​are sequences withliman=Landlimbn=Mlim a_n = L and lim b_n = Mliman​=Landlimbn​=M. Then which of the following is NOT necessarily true?",
+    "options": [
+      "A) M",
+      "B) M",
+      "C) ",
+      "D) M"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "lim⁡x→∞3x2+2x5x−6\\lim_{x \\to \\infty} \\frac{3x^{2} + 2x}{5x - 6}limx→∞​5x−63x2+2x​is equal to",
+    "options": [
+      "A) -1",
+      "B) -3",
+      "C) 1",
+      "D) 0"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is the same as the derivative of a function f' at a point P, where P is on the graph of f?",
+    "options": [
+      "A) The continuity of the function at P.",
+      "B) The slope of a secant line through P.",
+      "C) The slope of the tangent line through P.",
+      "D) The graph of f has no jump at P."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the derivative of the functionf(x)=3x2+2x−4xf(x) = 3x^2 + 2\\sqrt{x} - 4xf(x)=3x2+2x​−4xatx=1x = 1x=1?",
+    "options": [
+      "A) -1",
+      "B) -3",
+      "C) 3",
+      "D) 1"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What are the 2nd and the nth derivative off(x)=exf(x) = e^xf(x)=exrespectively?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true about the zero of a function?",
+    "options": [
+      "A) It is the y-intercept of the function.",
+      "B) It is the x-intercept of the function.",
+      "C) It is the concavity point of the function.",
+      "D) It is the critical point of the function."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true about the function defined byf(x)=x3−3x2f(x) = x^3 - 3x^2f(x)=x3−3x2on [-1, 3]?",
+    "options": [
+      "A) Its critical numbers are 0 and 2 and its maximum value is 15.",
+      "B) Its critical numbers are 0, 2, 3 and its maximum value is 0.",
+      "C) It has critical numbers at 0 and 2 and its maximum value is 0.",
+      "D) Its critical numbers are 0 and 2 and its maximum value is -4."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the number that satisfies Rolle's Theorem forf(x)=x3−3x+1f(x) = x^3 - 3x + 1f(x)=x3−3x+1on[0,3][0, 3][0,3]?",
+    "options": [
+      "A) 1",
+      "B) ",
+      "C) 2",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What are the length L and width W of a rectangle with perimeter 10,000m that maximizes the area?",
+    "options": [
+      "A) L = 2,500 m and W = 2,000 m",
+      "B) L = 2,500 m and W = 2,500 m",
+      "C) L = 5,000 m and W = 5,000 m.",
+      "D) L = 3,000 m and W = 2,500 m."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "If the radius r of a sphere is increasing at the rate of 2 cm/min, then the rate of change of the volume when r = 1 cm is",
+    "options": [
+      "A) 3",
+      "B) 3",
+      "C) 3",
+      "D) 3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose∫13f(x)dx=6\\int_{1}^{3} f(x) \\, dx = 6∫13​f(x)dx=6and∫12f(x)dx=10\\int_{1}^{2} f(x) \\, dx = 10∫12​f(x)dx=10, what is the value of∫23f(x)dx\\int_{2}^{3} f(x) \\, dx∫23​f(x)dx?",
+    "options": [
+      "A) 2",
+      "B) -4",
+      "C) 16",
+      "D) 4"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following statements has a truth value T?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is equal to∫(cos⁡x−2x)dx\\int(\\cos x-2x)dx∫(cosx−2x)dxwhere c is a constant?",
+    "options": [
+      "A) sinx + x^2 + c",
+      "B) -sinx - x^2 + c",
+      "C) sinx - x^2 + c",
+      "D) -sinx + x^2 + c"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the area of the region bounded by y = 0 and the graph off(x)=4−x2f(x)=4-x^2f(x)=4−x2on the interval[−1,1][-1, 1][−1,1]?",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) 8"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The inverse of the functiony=3x−5y = 3x - 5y=3x−5is equal to",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) ",
+      "D) 3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is the universal set of the expression1x2÷x+1x2+x\\frac{1}{x^2} ÷  \\frac{x + 1}{x^2+x}x21​÷x2+xx+1​?",
+    "options": [
+      "A) 1",
+      "B) }",
+      "C) R",
+      "D) R"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The graph of rational function is give as belowWhich of the following is NOT true about the graph? [DIAGRAM: image]",
+    "options": [
+      "A) x = 1 is its vertical asymptote",
+      "B) y = 0 is its horizontal asymptote",
+      "C) It is decreasing on (1, ∞)",
+      "D) It is increasing on (-∞, 1)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The equation of a line is given by3x−2y+6=03x - 2y + 6 = 03x−2y+6=0. Then which of the following is true about the line?",
+    "options": [
+      "A) 3",
+      "B) ",
+      "C) (2, 5) lies on the line",
+      "D) 2"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the standard form of the equation of the parabola with vertex(4,6)(4, 6)(4,6)and focus(−8,6)(-8, 6)(−8,6)?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) )"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true about the hyperbola given byx24−y2=1\\frac{x^2}{4} - y^2 = 14x2​−y2=1?",
+    "options": [
+      "A) )",
+      "B) )",
+      "C) )",
+      "D) x"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Two statementspppandqqqare given by:p:227p: \\frac{22}{7}p:722​is an irrational number.q:q:q:The sum of two odd integers is odd.Then which of the following has a truth valueTTT?",
+    "options": [
+      "A) q",
+      "B) q",
+      "C) q",
+      "D) q"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the contrapositive of the statement: If 21 is a prime number, then 4 is an odd number?",
+    "options": [
+      "A) If 4 is an odd number, then 21 is not a prime number",
+      "B) If 4 is an odd number, then 21 is a prime number",
+      "C) If 4 is not an odd number, then 21 is not a prime number",
+      "D) If 21 is not a prime number, then 4 is an even number"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true where c is a constant?",
+    "options": [
+      "A) c",
+      "B) c",
+      "C) c",
+      "D) c"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The acceleration of a body at any time t is given bya(t)=4−2t+3t2a(t)=4-2t+3t^2a(t)=4−2t+3t2with initial velocity v(0) = 5. Then what is the velocity v of the body as a function of time?",
+    "options": [
+      "A) 3",
+      "B) 3",
+      "C) t",
+      "D) 3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following argument is valid?",
+    "options": [
+      "A) q",
+      "B) q",
+      "C) q",
+      "D) q"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following proof is more suitable to prove the assertion:1+23+33+...+n3=(1+2+3+...+n)21+2^3 + 3^3 + ... + n^3 = (1+2+3+...+n)^21+23+33+...+n3=(1+2+3+...+n)2",
+    "options": [
+      "A) Proof by counter example",
+      "B) Proof by the principle of mathematical induction",
+      "C) Proof by contradiction",
+      "D) Proof by indirect proof"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the coefficient ofx2x^2x2in the binomial expansion of(2x+3x3)8\\left(2x + \\frac{3}{x^3}\\right)^8(2x+x33​)8?",
+    "options": [
+      "A) 6",
+      "B) 0",
+      "C) 576",
+      "D) 500"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following is true about the graph ofy=−4cos⁡(2x3)y = -4\\cos\\left(\\frac{2x}{3}\\right)y=−4cos(32x​)?",
+    "options": [
+      "A) π",
+      "B) 4",
+      "C) ]",
+      "D) ]"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Math test scores distribution of 20 students is given as in Table 2 below?Scores1 - 56 - 1011 - 1516 - 20Frequency4682What is the standard deviation of the scores?",
+    "options": [
+      "A) 5",
+      "B) 4",
+      "C) ",
+      "D) "
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The angle of elevation of the top of a tree is found to be 60° as measured from a point on a level ground. What is the height of the tree if the angle of elevation of a point on the tree that is 8m below the top is 30° as measured from the same point on the ground?",
+    "options": [
+      "A) 8m",
+      "B) 4m",
+      "C) 14m",
+      "D) 12m"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following series is convergent?",
+    "options": [
+      "A) n",
+      "B) n",
+      "C) n",
+      "D) 5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Letfffbe a function defined on a closed bounded interval[a,b][a, b][a,b]. Which of the following describes thatfffis continuous on[a,b][a, b][a,b]?",
+    "options": [
+      "A) b",
+      "B) b",
+      "C) b",
+      "D) b"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "A position of a particle is given by the equationS(t)=4t3−4t+1S(t) = 4t^3 - 4t + 1S(t)=4t3−4t+1wheretttis measured in seconds andSSSin meters. Which of the following is NOT true about the motion of the particle?",
+    "options": [
+      "A) The velocity at 2 seconds is given by 124 m/sec",
+      "B) 4",
+      "C) The acceleration of the particle at 1 sec is 48 m/sec²",
+      "D) 0.5"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Iff′(1)=4f'(1) = 4f′(1)=4,f(1)=3f(1) = 3f(1)=3andg(3)=5g(3) = 5g(3)=5, then(gof)′(1)(gof)'(1)(gof)′(1)is equal to",
+    "options": [
+      "A) 5",
+      "B) 3",
+      "C) 20",
+      "D) 15"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]

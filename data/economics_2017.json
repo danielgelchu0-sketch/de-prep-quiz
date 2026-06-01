@@ -1,0 +1,871 @@
+[
+  {
+    "text": "Which one of the following is a determinant of aggregate demand?",
+    "options": [
+      "A) Availability of credit",
+      "B) Cost of inputs",
+      "C) State of technology",
+      "D) Change in productivity"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the effect of an exogenous increase in government spending?",
+    "options": [
+      "A) Aggregate demand shifts to the right increasing both output and price level.",
+      "B) Aggregate demand shifts to the left increasing both output and price level",
+      "C) Aggregate demand shifts to the left decreasing output and increasing price level.",
+      "D) Aggregate demand shifts to the right increasing output but decreasing price level."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is correct about factors affecting aggregate supply?",
+    "options": [
+      "A) Higher price of imported raw materials leads to firms to produce more.",
+      "B) Lower demand for commodities in the market initiates firms to produce more.",
+      "C) Subsidizing domestic industry in technology leads to decrease production.",
+      "D) Qualified high managerial ability leads to firms to produce more production."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Among the following statements, which one is correct about the short-run aggregate supply curve?",
+    "options": [
+      "A) It shows the quantity demanded at different price levels, ceteris paribus.",
+      "B) It reveals that as price level rises, firms decrease the quantity supplied of goods.",
+      "C) It shows the quantity supplied of output at various price levels, ceteris paribus.",
+      "D) It reveals that as price level drops, firms increase the quantity supplied of goods."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about short-run equilibrium in the economy?",
+    "options": [
+      "A) The occurrence of a shortage of goods leads to firms decrease output and consumption decrease consumption.",
+      "B) It is the intersection of aggregate demand and aggregate supply.",
+      "C) The occurrence of a surplus of goods leads to firms decrease output and consumption increase consumption.",
+      "D) It is the intersection of long-run and short-run aggregate supply curves."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose the price level changed from the equilibrium of aggregate demand and short run aggregate supply in an economy. Which of the following is true about the result?",
+    "options": [
+      "A) At a lower price level, there will be surplus, and the price level decreases.",
+      "B) At a higher price level there will be shortage, and the price level increases.",
+      "C) At a lower price level, there will be shortage and the price level rises.",
+      "D) At a higher price level there will be surplus, and the price level increases"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is a solution for the market failure caused by a firm that pollutes a river?",
+    "options": [
+      "A) Taxing the polluting firm",
+      "B) Subsidizing the polluting firm",
+      "C) Encouraging the polluting firm",
+      "D) Renting the polluted river"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following explains the free rider problem in an economy?",
+    "options": [
+      "A) Free ridership is a problem that arises due to the excludable nature of public goods.",
+      "B) Individuals get the benefits of public goods without contributing anything to the cost.",
+      "C) All individuals have the incentive to pay for the public good.",
+      "D) The free rider problem enables the markets operate efficiently for public goods."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Among the following alternatives, which one represents a positive externality?",
+    "options": [
+      "A) Playing loud music in the neighborhood",
+      "B) Smoking in public places",
+      "C) Vaccination program in the neighborhood",
+      "D) Overgrazing cows in the common pasture lands"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Asymmetric information is a situation when;",
+    "options": [
+      "A) buyers and sellers have different types of information.",
+      "B) buyers and sellers have the same type of information.",
+      "C) buyers and sellers want to be free riders.",
+      "D) buyers and sellers lack agreement on the price."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "When an individual builds on their skills by acquiring more education/training, the individual is trying to",
+    "options": [
+      "A) free ride the employer.",
+      "B) screen the employer.",
+      "C) create externality for the employer.",
+      "D) signal to the employer."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Why is it necessary the need for consumer protection?",
+    "options": [
+      "A) Consumers often do not exercise their rights.",
+      "B) Sellers compete with each other aggressively.",
+      "C) Consumers' interest and business survival are unrelated.",
+      "D) Consumers have the same information as sellers."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is among the general objectives of macroeconomic policy?",
+    "options": [
+      "A) Cost minimization",
+      "B) Income inequality",
+      "C) Healthy balance of payment",
+      "D) Profit maximization"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Among the following alternatives, which one is a monetary policy tool?",
+    "options": [
+      "A) Taxation",
+      "B) Discount rate",
+      "C) Transfer payments",
+      "D) Grants in aid"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is NOT a financial sector reform component of the macroeconomic reforms of the Home Grown Economic Reforms?",
+    "options": [
+      "A) Reduce the supply of credit to the private sector",
+      "B) Promote market based interest rate",
+      "C) Strengthen the capacity of the National Bank of Ethiopia",
+      "D) Establish and expand capital markets"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is an advantage of fiscal decentralization?",
+    "options": [
+      "A) Local externalities",
+      "B) Inefficient tax system",
+      "C) Ineffectiveness of redistributing program",
+      "D) Fostering intergovernmental competition"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true regarding the link between population growth and the environment?",
+    "options": [
+      "A) Rapid population growth reduces disguised unemployment and increases per capita productivity.",
+      "B) Rapid population growth accompanied by heavy rural-urban migration could lead to urban pollution.",
+      "C) Rapid population growth leads to capital formation and accelerated rural development due to high propensity to save and invest",
+      "D) Rapid population growth enables improvement in land to man ratio due to the elastic supply of land."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Rural development is a strategy focused on",
+    "options": [
+      "A) capital intensive resources",
+      "B) technology intensive resources",
+      "C) increasing rural-urban migration",
+      "D) the utilization of natural resources"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following best describe climate change?",
+    "options": [
+      "A) Persistent variation in the mean state of climate",
+      "B) A short lived change in the weather from day to day",
+      "C) A decline in forest coverage through deforestation",
+      "D) Release of greenhouse gases in to the atmosphere"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about income policy?",
+    "options": [
+      "A) It stabilizes wages and prices.",
+      "B) It facilitates money supply.",
+      "C) It stabilizes the interest rate.",
+      "D) It encourages reduction of taxes."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Consider the market for teff, what will be the impact of a government imposition of a price floor?",
+    "options": [
+      "A) The price floor is below the equilibrium price of teff resulting in shortage of teff.",
+      "B) The price floor is above the equilibrium price of teff resulting in shortage of teff.",
+      "C) The price floor is below the equilibrium price of teff resulting in surplus of teff.",
+      "D) The price floor is above the equilibrium price of teff resulting in surplus of teff."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In a free market for labor, the wage rate is determined such that",
+    "options": [
+      "A) the demand of labor is greater than the supply of labor.",
+      "B) perfect, costless information and labour mobility.",
+      "C) the government sets the minimum wage.",
+      "D) the supply of labor is greater than the demand for labor."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the disadvantage of the floating exchange rate regime?",
+    "options": [
+      "A) Correction of balance of payments deficits",
+      "B) Protection from external shocks",
+      "C) Governments are free to pursue other policies",
+      "D) Instability and uncertainty facing firms and consumers"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the correct name for a decrease in the exchange rate due to market forces?",
+    "options": [
+      "A) Depreciation",
+      "B) Devaluation",
+      "C) Appreciation",
+      "D) Revaluation"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Among the following statements, which one is correct about taxation?",
+    "options": [
+      "A) It is payment made to government to obtain direct benefit in return.",
+      "B) It is the compulsory, unrequited payments to general government.",
+      "C) It is payments that individuals make to government if they want.",
+      "D) It is the only source of revenue for the government for personal use."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the main objective of taxation?",
+    "options": [
+      "A) Stabilizing the economy",
+      "B) Minimizing income equalities",
+      "C) Encouraging import",
+      "D) Reducing regional balance"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In United Kingdom (UK), what is the main objective of a \"sin tax\" on products like tobacco?",
+    "options": [
+      "A) Encouraging administrative efficiency",
+      "B) Encouraging consumption",
+      "C) Reducing consumption",
+      "D) Stabilizing the economy"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following correctly states about tax incidence?",
+    "options": [
+      "A) It relates to the way the burden of tax is distributed among economic units.",
+      "B) It points out who is illegally responsible for paying the tax from the income.",
+      "C) It is imposing high taxes on high-income earners without any consideration.",
+      "D) It is the way of discouraging low-income earners from paying taxes."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the characteristic feature of a good tax system?",
+    "options": [
+      "A) It creates income inequalities.",
+      "B) It is complex and financially inelastic.",
+      "C) It enables optimum allocation of resources.",
+      "D) It is narrow based-tax and is levied only on income."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the focus area of macroeconomics?",
+    "options": [
+      "A) Profit maximization of a corporation",
+      "B) The growth of a firm in the economy",
+      "C) Cost minimization of a specific company",
+      "D) Inflation caused by different factors"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In which of the following macroeconomics is different from microeconomics?",
+    "options": [
+      "A) Studying about the performance of individual firm",
+      "B) Studying about the behavior of the aggregate economy",
+      "C) Analyzing about the actions of individual company",
+      "D) Focusing on the specific price of products"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is a key challenge of macroeconomics?",
+    "options": [
+      "A) Income and consumption pattern of a given household",
+      "B) The total amount of laborers hired by a given industry",
+      "C) The amount of profit earned by a given firm",
+      "D) The number of unemployed people in a given country"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Balance of trade of a country is the difference between",
+    "options": [
+      "A) gross domestic product and gross national product.",
+      "B) private and public businesses and transfers.",
+      "C) trade surplus and trade deficit.",
+      "D) export and import earning from goods and services."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following school of macroeconomic thought was predominant until the occurrence of the Great Depression?",
+    "options": [
+      "A) Monetarist",
+      "B) Classical",
+      "C) Keynesian",
+      "D) New Keynesian"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the view of Classical theory?",
+    "options": [
+      "A) Fiscal policy is useful to influence output.",
+      "B) Recession is a temporary phenomenon.",
+      "C) Monetary policy can influence output.",
+      "D) There is a need of cutting government spending."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following macroeconomic school stressed the existence of nominal rigidities arising from nominal wage contracts?",
+    "options": [
+      "A) The new Classical",
+      "B) Keynesian",
+      "C) The classical",
+      "D) The monetarist"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the differences between monetarist and Keynesian school of thought?",
+    "options": [
+      "A) Keynesians argued that aggregate demand is always automatically high.",
+      "B) Monetarists argued that fiscal policy addresses macroeconomic problems.",
+      "C) Keynesians argued that monetary policy stimulates aggregate demand.",
+      "D) Monetarist argued that monetary policy addresses macroeconomic problems."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following best describes about aggregate demand in a given country?",
+    "options": [
+      "A) It is the total expenditure of households and government on goods and services in a given period.",
+      "B) It is the total amount that households and firms willingly spend on the country's goods and services in a given period.",
+      "C) It is total demand by households, firms and government on the goods and services in a given period.",
+      "D) It is total spending by firms and government on the economy's goods and services in a given period."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is correct about factors affecting household consumption expenditure?",
+    "options": [
+      "A) Expectation of a lower future income increases consumption.",
+      "B) Decreases in wealth lead to increase in consumption.",
+      "C) Increases in interest rate increases consumption.",
+      "D) Increases in income taxes decreases consumption."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What type of policy that aims at changing government spending?",
+    "options": [
+      "A) Exchange rate policy",
+      "B) Monetary policy",
+      "C) Fiscal policy",
+      "D) Property rights policy"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In a situation when an economy is facing the problem of deficient demand, what will happen to the economy?",
+    "options": [
+      "A) Depression marked by a decline in unemployment",
+      "B) Depression marked by underproduction",
+      "C) Depression marked by fall in incomes",
+      "D) Enjoyment marked by a fall in prices"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is important role of fiscal policy in an economy?",
+    "options": [
+      "A) Increasing people's income by increasing taxes",
+      "B) Increasing government expenditure to solve recession",
+      "C) Solving trade deficit by increasing imports",
+      "D) Increasing government expenditure to control inflation"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true regarding the impact of monetary policy on aggregate demand?",
+    "options": [
+      "A) Lowering interest rate decreases aggregate demand.",
+      "B) Increasing the discount rote increases aggregate demand.",
+      "C) An increase in money supply decreases aggregate demand.",
+      "D) An increase in money supply increases aggregate demand."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the main issue of macroeconomic policy?",
+    "options": [
+      "A) Maximizing firm's profit",
+      "B) Controlling inflation",
+      "C) Encouraging firm's competition",
+      "D) Restructuring the market"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the objective of the national long-term plan after the reform of 2021 – 2030?",
+    "options": [
+      "A) Expanding access to education and health services and achieving MDGs",
+      "B) Launching strategy of Agricultural Development Led Industrialization",
+      "C) Maintaining macroeconomic stability, ensuring rapid sustainable economic growth and creating decent job",
+      "D) Speed up and catalyze transformation of the domestic private sector and render them a capable development force"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following was a crucial component of the second five year plan during the monarchy regime?",
+    "options": [
+      "A) Enhancement of technical and vocational education",
+      "B) Overvalued currency and implemented pricing policies",
+      "C) Transition from an agricultural economy to an agro-industry",
+      "D) Strengthened a political system that guaranteed administrative justice"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following was the challenges Ethiopia encountered with during its implementation of the Growth and Transformation Plans I and II?",
+    "options": [
+      "A) Sluggish structural transformation and weak sectorial linkages",
+      "B) Actual growth performance was higher than the annual target rate.",
+      "C) The contribution of the service sector to the overall GDP was the highest.",
+      "D) The contribution of each sector to the overall economy was uniformly low."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is correct about the key strategic pillars of the ten-year development plan after reform?",
+    "options": [
+      "A) Building regional monopoly power and economy",
+      "B) Quality economic growth and shared prosperity",
+      "C) Public sector-led economic growth",
+      "D) Gender and social exclusion"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Among the followings, which one is the objective of the Home Grown Economic Reform?",
+    "options": [
+      "A) Encouraging debt vulnerabilities.",
+      "B) Creating inadequate job opportunities",
+      "C) Transition from private to public sector-led growth",
+      "D) Maintaining macroeconomic stability"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "One of the following correctly describes weather. Which one is it?",
+    "options": [
+      "A) It is unpredictable atmospheric conditions.",
+      "B) It is short-term atmospheric conditions.",
+      "C) It is rainy season occurs for long period of time.",
+      "D) It is long-term atmospheric conditions."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true regarding the link between global warming and climate change?",
+    "options": [
+      "A) Greenhouse gases raise atmospheric temperatures and produce other changes in the climate system.",
+      "B) Global warming is unrelated to human activities emitting greenhouse gases",
+      "C) There is no link between economic activity and energy emission through the green house effect.",
+      "D) Burning of fossil fuels and reductions of forests that sink carbon dioxide decreases green house gases."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following shows the impact of environmental degradation and climate change on economic growth?",
+    "options": [
+      "A) Improvement of food security due to length of growing seasons in arid areas",
+      "B) Long-term changes influencing agriculture, water, health and other sectors",
+      "C) Use of biologically renewable resources and renewable physical stock",
+      "D) Improvement in the economic well-being of the rural people"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is an example of mitigation strategy to tackle climate change?",
+    "options": [
+      "A) Subsidizing the use of fossil fuels",
+      "B) Reducing the role of indigenous communities",
+      "C) Destabilizing greenhouse gases",
+      "D) Reducing the release of carbon dioxide (CO2)"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is responsible for an active economic activity and emission link resulting in global warming?",
+    "options": [
+      "A) Green growth strategies",
+      "B) Mitigation policies",
+      "C) Greenhouse gases",
+      "D) Carbon taxes"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Among the following statements, which one is correct about mitigation strategy to address climate change?",
+    "options": [
+      "A) It adjusts to the potential impacts of climate change.",
+      "B) It emits the same amount of pollution across all countries.",
+      "C) It involves long-term limits on the amount of greenhouse emissions.",
+      "D) It intensives use of non-renewable resources of energy."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following describes green economy?",
+    "options": [
+      "A) It is characterized by loss of biodiversity and ecosystem services.",
+      "B) It emits higher percentage of greenhouse gas than other economies.",
+      "C) It uses high carbon, is resource inefficient and socially exclusive.",
+      "D) It reduces environmental risk and ecological scarcity to improve well-being."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is NOT a sources of renewable energy?",
+    "options": [
+      "A) Solar energy",
+      "B) Fossil fuel energy",
+      "C) Wind energy",
+      "D) Thermal energy"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is correct about green growth?",
+    "options": [
+      "A) It relies on eroding the natural capital.",
+      "B) It is a carbon intensive growth strategy.",
+      "C) It employs renewable energy and low carbon.",
+      "D) It exacerbates environmental related risks."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is NOT a key cause of Ethiopia's vulnerability to climate change as indicated in the policy documents of the country?",
+    "options": [
+      "A) High population growth",
+      "B) Dependence on rain-fed agriculture",
+      "C) Carbon emission from rapid industrialization",
+      "D) Poor water resource development"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which of the following tax approach has the advantage of linking tax equity with the expenditure side of the public budget?",
+    "options": [
+      "A) The benefits approach",
+      "B) The ability to pay approach",
+      "C) The approach Bansed on vertical equity",
+      "D) The approach based on horizontal equity"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following statements is correct about the nature of tax system in Ethiopia?",
+    "options": [
+      "A) The regional governments are solely responsible for tax collection.",
+      "B) The federal government is solely responsible for tax collection.",
+      "C) The federal and regional governments share tax revenue and manage their budgets.",
+      "D) The federal government levies taxes on behalf of the regional governments."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In Ethiopia, which of the following is correct regarding to the turnover tax?",
+    "options": [
+      "A) A tax levied on persons unregistered for value added tax.",
+      "B) A tax imposed on goods that are hazardous to harmful products.",
+      "C) A tax levied on the values added at every stage.",
+      "D) A tax imposed on income from employment."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is the correct definition of tax evasion?",
+    "options": [
+      "A) Falsifying information on tax return to reduce one's tax liability",
+      "B) Taking full advantage of tax provisions to reduce one's tax obligations",
+      "C) Paying the same share of tax regardless of income",
+      "D) The degree of complexity in the tax administration system"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the reason for poverty to be considered as a multidimensional concept?",
+    "options": [
+      "A) It is based on a single dimension.",
+      "B) It is adequately measured with income.",
+      "C) It only measures quantitative related difference.",
+      "D) It depends on several related deprivations."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In the steps listed for measuring poverty, what does the first step says that 'defining an indicator of welfare' describe?",
+    "options": [
+      "A) Specifying a minimal socially acceptable level of income or consumption",
+      "B) Implementing a representative survey in which consumption is measured",
+      "C) Taking the first step of measurement to know which people are rich",
+      "D) Choosing and calculating a specific poverty measurement"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is in comparison to other people's standing in the economy?",
+    "options": [
+      "A) Poverty headcount index",
+      "B) Absolute poverty",
+      "C) Relative poverty",
+      "D) Multidimensional poverty"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Among the following statements, which one is correct regarding to absolute poverty?",
+    "options": [
+      "A) The comparison of an individual to other people's standing in the economy",
+      "B) The situation of someone being unable to meet the subsistence basic needs",
+      "C) The explanation of matter of failure of distributive justice",
+      "D) The description of an individual able to command sufficient resources"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following deals with households and the total incomes they receive regardless of the way in which they received that income?",
+    "options": [
+      "A) Social inequality of community",
+      "B) Size distribution of income",
+      "C) Functional distribution of income",
+      "D) Factor share distribution of income"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the status of women in relation to men in development?",
+    "options": [
+      "A) Women have stable sources of income.",
+      "B) Women's earning potential is higher.",
+      "C) Intra-household resource allocation favors women.",
+      "D) Women are much less likely to be in formal jobs."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following country made significant progress in reducing poverty over the past half century?",
+    "options": [
+      "A) China",
+      "B) Eritrea",
+      "C) India",
+      "D) Bangladesh"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following is true about the poverty in Sub-Saharan Africa?",
+    "options": [
+      "A) The majority of people on less than $1.90 a day live in the region.",
+      "B) The region experienced significant reduction in poverty in the past 50 years.",
+      "C) The region has managed to escape the problem of poverty.",
+      "D) The region has lifted millions of citizens out of poverty in the last decade."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is the main advantage of cottage industries in reducing poverty?",
+    "options": [
+      "A) It employs capital intensive techniques.",
+      "B) It has insignificant contribution to economies.",
+      "C) It offers self-development exclusively for women.",
+      "D) It employs labor intensive techniques."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What was the goal of sustainable development and poverty reduction program (SDPRP) assigned by Ethiopian Peoples' Revolutionary Democratic Front?",
+    "options": [
+      "A) Building all-inclusive implementation capacity",
+      "B) Capacity building in the public and private sector",
+      "C) A massive push to accelerate economic growth",
+      "D) Unleashing the potentials of Ethiopia's women"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Which one of the following was the objective of the third five year plan during the imperial period (1968 – 1973)?",
+    "options": [
+      "A) Establishment of cadre of skilled and semi-skilled personnel to work in processing industries.",
+      "B) Development of a strong infrastructure (transportation, construction, communication)",
+      "C) Expansion of educational opportunities and improvement in peasant agriculture.",
+      "D) Acceleration of agricultural development by promoting commercial agricultural venture."
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "The unemployment rate for an economy is 4 %. The labor force is estimated to be 55 million. What is the number of unemployed people in millions?",
+    "options": [
+      "A) 2.2 million",
+      "B) 220 million",
+      "C) 20 million",
+      "D) 22 million"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "What is an income tax of an employee works in the one of Ethiopian government development organization with salary of Birr 36,000?",
+    "options": [
+      "A) Birr 12,600",
+      "B) Birr 11,100",
+      "C) Birr 26,400",
+      "D) Birr 24,900"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose the area between the line of complete equality (45 degree) and the Lorenz curve is 60 units. Additionally the whole area below the line of equality (45 degree) is 150 units. What is the Gini-coefficient?",
+    "options": [
+      "A) 0.4",
+      "B) 0.6",
+      "C) 0.2",
+      "D) 0.3"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "Suppose the adult population in a given country is estimated at 105 million. The total number of employed and unemployed individuals is estimated at 55 million and 8 million respectively. What is the labor force participation rate?",
+    "options": [
+      "A) 66%",
+      "B) 7%",
+      "C) 11%",
+      "D) 60 %"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  },
+  {
+    "text": "In November 2010, the Consumer Price Index (CPI) for a country was 100. In November 2011 the Consumer Price Index CPI for the same country was 130. What was the inflation rate for 2011?",
+    "options": [
+      "A) 13%",
+      "B) 30%",
+      "C) 10%",
+      "D) 23%"
+    ],
+    "correct": 0,
+    "explanation": "No explanation provided."
+  }
+]
