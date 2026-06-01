@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>DE Prep – DGA Exam Trainer</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#2c3e66">
+    <link rel="icon" type="image/png" sizes="32x32" href="icons/icon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="icons/icon-16.png">
+</head>
+<body>
+    <div class="app-container" id="app">
+        <!-- SCREEN 1: Stream Selection + Psychology + Dashboard -->
+        <div id="streamScreen" class="screen active">
+            <div class="screen-content">
+                <h1>📚 DE Prep</h1>
+                <p>Ethiopian Entrance Exam Trainer</p>
+                <div class="options-grid">
+                    <button class="stream-btn" data-stream="natural">🔬 Natural Science</button>
+                    <button class="stream-btn" data-stream="social">🌍 Social Science</button>
+                    <button id="psychBtn" class="psych-btn">🧠 Psychological Preparation</button>
+                    <button id="dashboardBtn" class="dashboard-btn">📊 Performance Dashboard</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- SCREEN 2: Subject Selection -->
+        <div id="subjectScreen" class="screen">
+            <div class="screen-content">
+                <button class="back-btn" data-back="stream">← Back</button>
+                <h2>Select Subject</h2>
+                <div id="subjectList" class="options-grid"></div>
+            </div>
+        </div>
+
+        <!-- SCREEN 3: Year Selection -->
+        <div id="yearScreen" class="screen">
+            <div class="screen-content">
+                <button class="back-btn" data-back="subject">← Back</button>
+                <h2>Select Exam Year</h2>
+                <div id="yearList" class="options-grid"></div>
+            </div>
+        </div>
+
+        <!-- SCREEN 4: Quiz Interface -->
+        <div id="quizScreen" class="screen">
+            <div class="quiz-header">
+                <div class="quiz-info">
+                    <span id="quizSubjectDisplay"></span>
+                    <span id="quizYearDisplay"></span>
+                </div>
+                <div class="quiz-stats">
+                    <span>🏆 Score: <span id="quizScore">0</span></span>
+                    <span>⏱️ Time: <span id="quizTimer">00:00</span></span>
+                    <span>⭐ High: <span id="quizHighScore">0</span></span>
+                </div>
+            </div>
+            <div id="quizQuestionContainer">
+                <!-- Questions injected here -->
+            </div>
+            <div class="quiz-footer">
+                <div id="quizFeedback"></div>
+                <button id="quizNextBtn" disabled>Next Question</button>
+            </div>
+        </div>
+
+        <!-- SCREEN 5: Result & Review -->
+        <div id="resultScreen" class="screen">
+            <div class="screen-content">
+                <button id="restartQuizBtn" class="restart-btn">🏠 Main Menu</button>
+                <h2>Quiz Complete</h2>
+                <div id="resultStats"></div>
+                <button id="reviewWrongBtn" class="review-btn">📋 Review Wrong Answers</button>
+            </div>
+        </div>
+
+        <!-- SCREEN 6: Psychological Preparation (FULL DETAILED VERSION) -->
+        <div id="psychScreen" class="screen">
+            <div class="screen-content">
+                <button class="back-btn" data-back="stream">← Back to Main Menu</button>
+                <h2>🧠 Psychological Preparation</h2>
+
+                <!-- TABS -->
+                <div class="psych-tabs">
+                    <button class="psych-tab active" data-tab="general">🌐 General</button>
+                    <button class="psych-tab" data-tab="natural">🔬 Natural Science</button>
+                    <button class="psych-tab" data-tab="social">🌍 Social Science</button>
+                </div>
+
+                <!-- TAB 1: GENERAL -->
+                <div class="psych-tab-content active" id="tab-general">
+                    <div class="psych-content">
+                        <div class="psych-card">
+                            <h3>💪 Mindset Matters</h3>
+                            <p>Your attitude determines your altitude. Research on academic self-efficacy consistently shows that students who believe they can succeed perform significantly better, even when their content knowledge is equal to pessimistic peers. Approach the exam with confidence, not fear. You have prepared, and you are capable.</p>
+                            <ul>
+                                <li>Replace "I might fail" with "I will do my best and that is enough."</li>
+                                <li>Studies show that <strong>growth-mindset students</strong> recover from hard questions faster and make fewer careless errors.</li>
+                                <li>Your score is not your identity. One exam does not define you.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card">
+                            <h3>😰 Understanding Exam Anxiety — and Beating It</h3>
+                            <p>Research published in peer-reviewed psychology journals (Ramirez & Beilock, 2011) found that <strong>writing your worries down for 10 minutes before an exam frees up working-memory</strong>, measurably improving performance. Anxiety takes up cognitive space; expressive writing clears it.</p>
+                            <ul>
+                                <li><strong>The night before:</strong> write every fear on paper, then close the notebook. Your brain stops "holding" those thoughts.</li>
+                                <li><strong>At the exam hall:</strong> notice anxiety as energy, not danger. Tell yourself, "My body is preparing me to perform."</li>
+                                <li>A 2025 multi-modal study (Sparks et al.) showed students taught to <em>reappraise stress as helpful</em> — rather than eliminate it — outperformed control groups on actual exams.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card">
+                            <h3>⏱️ Time Management on Exam Day</h3>
+                            <ul>
+                                <li>Allocate roughly <strong>1.5 – 2 minutes per question</strong> as a baseline.</li>
+                                <li>If stuck, <strong>mark it and move on immediately</strong> — returning later is always faster than staring.</li>
+                                <li>In the final 10 minutes, answer every unanswered question. Blank answers are guaranteed zeros; a guess gives you a chance.</li>
+                                <li>Keep an eye on time, but never let the clock become your main source of panic.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card">
+                            <h3>🧘 Calmness Techniques — Evidence-Based</h3>
+                            <ul>
+                                <li><strong>Box breathing:</strong> Inhale 4 sec → hold 4 sec → exhale 4 sec → hold 4 sec. Repeat 3×. Activates your parasympathetic nervous system within 60 seconds.</li>
+                                <li><strong>Positive self-talk:</strong> "I know this. I can do this." Research confirms internal verbal cues reduce performance anxiety in test settings.</li>
+                                <li><strong>Visualisation:</strong> Spend 2 minutes the morning of the exam seeing yourself answering calmly and confidently. Athletes use this — so should you.</li>
+                                <li><strong>Body scan:</strong> Consciously relax your jaw, shoulders, and hands before the exam starts — physical tension amplifies mental tension.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card">
+                            <h3>📝 Universal Smart Test-Taking Strategies</h3>
+                            <ul>
+                                <li><strong>Read every question twice</strong> before looking at the options. Misreading is the single most common avoidable mistake.</li>
+                                <li><strong>Eliminate obviously wrong answers first.</strong> Removing two options turns a 1-in-4 guess into a 1-in-2.</li>
+                                <li>Watch for absolute language: words like <em>"always," "never," "all,"</em> or <em>"none"</em> are usually false in complex subjects.</li>
+                                <li>If two options are opposite, one of them is very likely correct.</li>
+                                <li>Trust your first instinct — research shows changing answers lowers scores unless you have a definite reason to change.</li>
+                                <li><strong>Interleave your review:</strong> Studies (Dunlosky et al., 2013) show that practicing mixed topics — not just one subject at a time — trains your brain to switch strategies, exactly as the real exam demands.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card">
+                            <h3>🛌 Physical Preparation — Non-Negotiable</h3>
+                            <ul>
+                                <li><strong>Sleep at least 7–8 hours</strong> the night before. Sleep consolidates memory. Staying up all night to cram is one of the worst decisions a student can make before an exam.</li>
+                                <li>Eat a <strong>moderate, balanced meal</strong> 1–2 hours before the exam — avoid heavy, greasy food or skipping food entirely.</li>
+                                <li>Stay hydrated but not excessively. Drink water before leaving for the exam hall.</li>
+                                <li>Arrive <strong>15–20 minutes early</strong>. Rushing raises cortisol levels and impairs working memory for up to 30 minutes after arrival.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card">
+                            <h3>📅 The Week Before — Study Science</h3>
+                            <p>A landmark 2013 review by Dunlosky and colleagues evaluated every major study technique. Their verdict:</p>
+                            <ul>
+                                <li>❌ <strong>Rereading and highlighting</strong> — ranked among the LEAST effective strategies despite being the most popular.</li>
+                                <li>✅ <strong>Active recall (self-testing)</strong> — answering questions from memory, not re-reading — is the single most effective strategy, confirmed across hundreds of experiments.</li>
+                                <li>✅ <strong>Spaced repetition</strong> — reviewing material over several days rather than cramming the night before — dramatically improves long-term retention.</li>
+                                <li>✅ <strong>Interleaved practice</strong> — mixing subjects in one session — forces your brain to choose strategies, mirroring real exam conditions.</li>
+                            </ul>
+                            <p><em>Apply these right now: close your notes, write everything you remember, then check what you missed.</em></p>
+                        </div>
+
+                        <div class="psych-card">
+                            <h3>🎯 Final Mindset Tip</h3>
+                            <p><em>"Success is the sum of small efforts, repeated day in and day out." – Robert Collier</em></p>
+                            <p>Trust your preparation. Every past paper you solved, every concept you reviewed — that work lives in your memory. The exam is just your chance to show it.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- TAB 2: NATURAL SCIENCE -->
+                <div class="psych-tab-content" id="tab-natural">
+                    <div class="psych-content">
+                        <div class="psych-card psych-card--stream">
+                            <h3>🔬 Natural Science Stream Overview</h3>
+                            <p>Your EUEE covers <strong>Mathematics, Physics, Chemistry, Biology, English,</strong> and <strong>SAT (Scholastic Aptitude Test)</strong>. Each subject requires a distinct mental approach. Below are research-backed strategies tailored to each one.</p>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>📐 Mathematics — Calm the Equation</h3>
+                            <p class="subject-tag">High cognitive load · Formula recall · Multi-step reasoning</p>
+                            <p>Math anxiety is a documented psychological condition that hijacks working memory — the mental space where you do calculations. Research (Beilock, 2011; APA, 2023) confirms that math-anxious students avoid hard problems during study, then face them unprepared in exams. The solution is deliberate exposure, not avoidance.</p>
+                            <ul>
+                                <li><strong>Before the exam:</strong> Write your worries on paper. Studies by Ramirez & Beilock show this measurably improves math scores by freeing working memory.</li>
+                                <li><strong>When you see a hard question:</strong> shift focus from "the answer" to "the process." Ask: What type of problem is this? What formula class applies? This reduces panic.</li>
+                                <li><strong>Estimation first:</strong> Before calculating, estimate the expected magnitude of the answer. This catches errors and grounds your thinking.</li>
+                                <li><strong>Break multi-step problems into one step at a time.</strong> Cognitive science confirms that chunking reduces cognitive overload.</li>
+                                <li><strong>Eliminate impossible options:</strong> For MCQs, check units and order-of-magnitude — two options are often clearly impossible without full calculation.</li>
+                                <li><strong>Don't second-guess computed answers</strong> unless you spot a specific error. Changing math answers without cause lowers accuracy.</li>
+                                <li><strong>Practice study tip:</strong> A 2023 study showed students who used <em>self-testing</em> (solving problems without looking at notes) on the hardest math topics outperformed those who reviewed solutions passively.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>⚡ Physics — Think in Principles, Not Formulas</h3>
+                            <p class="subject-tag">Conceptual reasoning · Formula application · Graph interpretation</p>
+                            <p>Cognitive science research on physics learning (2021, arXiv) shows students fail physics exams not because they don't know formulas, but because they memorise formulas without understanding <em>when</em> to apply them. The brain needs context, not just equations.</p>
+                            <ul>
+                                <li><strong>For every formula you know, ask:</strong> "What physical situation does this describe?" Linking equations to real-world scenarios builds automatic recall.</li>
+                                <li><strong>Diagram everything.</strong> Drawing a free-body diagram or circuit before calculating engages spatial reasoning and reduces formula-selection errors.</li>
+                                <li><strong>Read the question for given quantities first</strong> — list what is given and what is asked before choosing a formula. This single habit eliminates most physics MCQ mistakes.</li>
+                                <li><strong>For graph questions:</strong> identify axes and units before interpreting. Many errors happen from misreading axes.</li>
+                                <li><strong>Units are a built-in error-check:</strong> if your final units don't match the expected unit for the answer, your approach is wrong.</li>
+                                <li>Research on interleaving confirms physics students perform better by mixing mechanics, electricity, and optics problems in a single session — because the real exam does exactly that.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>🧪 Chemistry — Organise, Don't Memorise Randomly</h3>
+                            <p class="subject-tag">Conceptual + calculation · Periodic trends · Reaction logic</p>
+                            <p>Chemistry combines both conceptual thinking and calculation. Research on working memory in science (2021) shows chemistry students fail when they try to hold too much unorganised information in mind simultaneously. The fix is building strong mental categories.</p>
+                            <ul>
+                                <li><strong>Group knowledge by type:</strong> periodic trends, stoichiometry, reaction types, bonding, equilibrium. Having clear mental folders speeds up question identification.</li>
+                                <li><strong>On MCQs, identify the category first:</strong> Is this a stoichiometry question? An equilibrium question? Categorising before answering reduces the chance of applying the wrong method.</li>
+                                <li><strong>For stoichiometry:</strong> always write the balanced equation first, even under time pressure. The 10 seconds spent balancing saves minutes of wrong calculation.</li>
+                                <li><strong>Periodic table logic:</strong> most trend questions can be reasoned through (atomic radius, electronegativity, reactivity) if you understand <em>why</em> trends exist — not just what they are.</li>
+                                <li><strong>Elimination power:</strong> In chemistry MCQs, physically impossible answers (wrong charge, impossible reaction) can be eliminated immediately — often two out of four options.</li>
+                                <li>Research on elaborative interrogation (asking "why does this reaction happen?") shows deeper understanding and better retention than flashcard memorization alone.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>🧬 Biology — Understand Systems, Not Isolated Facts</h3>
+                            <p class="subject-tag">High content volume · Conceptual + factual · Application questions</p>
+                            <p>Biology has the highest content volume of any natural science subject. Research (CBE–Life Sciences Education, 2022) shows that students who study biology using <em>active recall and concept-mapping</em> significantly outperform those who re-read notes — even when re-readers spend more total time studying.</p>
+                            <ul>
+                                <li><strong>Think in systems:</strong> organs don't work in isolation. Understanding how the circulatory system connects to the respiratory system helps you answer questions about either, faster.</li>
+                                <li><strong>For genetics questions:</strong> draw the Punnett square. Never try to hold it in your head. Even a 10-second sketch eliminates confusion.</li>
+                                <li><strong>Application questions</strong> (e.g., "A patient has symptom X — what organ is likely affected?") require you to reason backwards from effect to cause. Practice this direction deliberately.</li>
+                                <li><strong>For evolution and ecology questions:</strong> focus on <em>mechanisms and relationships</em>, not species names. Examiners test whether you understand why things happen.</li>
+                                <li><strong>Self-testing beats rereading:</strong> close your notebook and write everything you remember about a topic. Research shows this alone predicts exam performance better than hours of passive review.</li>
+                                <li>Don't panic over unfamiliar species or scenarios in questions — the biological principle being tested is always something you have studied. Focus on the underlying concept, not the unfamiliar surface.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>📖 English — Read the Question, Not Just the Passage</h3>
+                            <p class="subject-tag">Comprehension · Vocabulary · Grammar · Writing skills</p>
+                            <p>Foreign-language anxiety is a documented phenomenon (Frontiers in Psychology, 2022) that causes students who actually know English well to underperform on exams. Managing this anxiety is as important as knowing the content.</p>
+                            <ul>
+                                <li><strong>Reading comprehension strategy:</strong> Read the questions <em>before</em> reading the passage. You will read the passage with a target — your brain will find relevant information faster. Research on standardized reading tests confirms this is effective.</li>
+                                <li><strong>For Natural Science passages</strong> in English: focus on the key scientific concept, experimental method, and conclusion. Note those three things as you read.</li>
+                                <li><strong>Vocabulary in context:</strong> If you don't know a word, look at the sentence around it. The meaning of difficult words is often implied by the clause structure.</li>
+                                <li><strong>Grammar questions:</strong> read the full sentence aloud (in your head). Your ear often catches what your eye misses — grammatical errors sound wrong.</li>
+                                <li>For questions about the author's purpose or tone, look for evaluative language (positive/negative words) — this reveals attitude even when meaning is unclear.</li>
+                                <li><strong>Don't let English be your weakest subject by default.</strong> Time spent on past English exam papers is among the highest-ROI study activities because the question formats repeat.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>🎓 SAT (Scholastic Aptitude Test) — Logic Over Knowledge</h3>
+                            <p class="subject-tag">Reasoning · Pattern recognition · Quantitative aptitude</p>
+                            <p>SAT questions test your ability to reason, not recall. This means your exam-day mental state matters more for SAT than for any other subject. A student who is calm and thinking clearly will always outperform an anxious student with equivalent knowledge.</p>
+                            <ul>
+                                <li><strong>Slow down on SAT questions.</strong> They are designed to seem straightforward but contain a twist. Read each question at least twice.</li>
+                                <li><strong>For analogy and pattern questions:</strong> state the relationship in a sentence before looking at options. This prevents being misled by surface similarity between words.</li>
+                                <li><strong>For quantitative reasoning:</strong> look for the elegant shortcut. SAT math problems usually have a fast solution that doesn't require heavy calculation — finding it is part of what is being tested.</li>
+                                <li><strong>Eliminate confidently:</strong> Two options in most SAT questions are clearly off. Eliminating them first is not guessing — it is reasoning.</li>
+                                <li>Familiarity with question types from past exams reduces cognitive load on exam day. Practice builds pattern recognition in the brain's prefrontal cortex — making the "obvious" choices actually obvious.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card">
+                            <h3>🌟 Natural Science — Before You Walk In</h3>
+                            <ul>
+                                <li>The night before: do <em>light</em> review of formula sheets only. No new topics.</li>
+                                <li>Get 7–8 hours of sleep. Sleep is when your brain consolidates the chemistry mechanisms and physics concepts you studied.</li>
+                                <li>Morning of the exam: eat a protein-rich meal. Your brain runs on glucose — stable blood sugar maintains focus.</li>
+                                <li>At the hall: scan the full exam paper in the first 2 minutes. Know what is ahead. Start with the subject you feel most confident in — build momentum.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- TAB 3: SOCIAL SCIENCE -->
+                <div class="psych-tab-content" id="tab-social">
+                    <div class="psych-content">
+                        <div class="psych-card psych-card--stream">
+                            <h3>🌍 Social Science Stream Overview</h3>
+                            <p>Your EUEE covers <strong>History, Geography, Economics, Mathematics, English,</strong> and <strong>SAT</strong>. Social science requires critical thinking, contextual analysis, and disciplined reading — not just memorisation. Research consistently shows that students who understand <em>themes and relationships</em> between concepts outperform those who memorise isolated facts.</p>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>📜 History — Think in Causes and Consequences</h3>
+                            <p class="subject-tag">Analytical thinking · Chronology · Cause-and-effect reasoning</p>
+                            <p>History exam questions at this level rarely ask you to simply recall a date. They test whether you understand <em>why</em> events happened and <em>what followed</em>. Research on social science exam performance shows students who organise history in cause → event → consequence chains answer questions 40% faster than those who memorise events as isolated facts.</p>
+                            <ul>
+                                <li><strong>Build timelines mentally:</strong> Before the exam, visualise major events in order. Chronological grounding prevents confusion between similar periods.</li>
+                                <li><strong>For every major event you study, know:</strong> (1) What caused it? (2) Who were the key actors? (3) What changed as a result?</li>
+                                <li><strong>Theme-based studying outperforms chapter-by-chapter review:</strong> Pick a theme (e.g., "colonialism," "independence movements") and trace it across different regions and times. This builds analytical frameworks you can apply to unseen questions.</li>
+                                <li><strong>On MCQs with historical documents or quotes:</strong> identify the time period and the author's likely perspective first. Historical figures' statements reflect their context — not modern thinking.</li>
+                                <li>If you see an unfamiliar event in a question, reason from what you know about that era. Examiners test your analytical ability, not your ability to recall obscure events.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>🗺️ Geography — Connect Place to Process</h3>
+                            <p class="subject-tag">Physical + human geography · Data interpretation · Map reading</p>
+                            <p>Geography bridges the physical world and human society. Questions often combine both — asking you to explain a human pattern using a physical factor (e.g., "Why do most people in Ethiopia live in the highlands?"). Preparing for this connection is the key skill.</p>
+                            <ul>
+                                <li><strong>Physical geography questions:</strong> focus on processes — how do rivers form valleys? How does altitude affect climate? Understanding the process lets you answer questions about any specific place, even unfamiliar ones.</li>
+                                <li><strong>Human geography questions:</strong> ask yourself how physical conditions drive human decisions — settlement, agriculture, trade routes, population density.</li>
+                                <li><strong>Map and data questions:</strong> read the title, legend, and scale before interpreting. Many marks are lost from misreading what the map actually shows.</li>
+                                <li><strong>Ethiopian geography:</strong> expect specific questions about Ethiopia's regions, rivers (Awash, Blue Nile, Omo), highland-lowland ecology, and population distribution. These are high-frequency exam topics.</li>
+                                <li>Research on social science exam strategies (Extramarks, 2025) confirms that creating <em>case studies</em> — linking a specific place to a broader geographic principle — builds the kind of transferable understanding that handles unseen exam questions.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>💹 Economics — Reason From Principles</h3>
+                            <p class="subject-tag">Conceptual + applied · Graphs · Supply, demand, and policy</p>
+                            <p>Economics feels abstract until you connect it to real decisions. Research on economics education shows students who link concepts to everyday examples (e.g., market prices in a local market, government spending visible in their city) develop stronger intuition for exam questions than pure formula memorisers.</p>
+                            <ul>
+                                <li><strong>Know your core concepts deeply:</strong> supply and demand, elasticity, GDP, inflation, unemployment, and fiscal/monetary policy. Most questions trace back to these foundations.</li>
+                                <li><strong>For graph questions:</strong> label axes before interpreting. A supply-demand graph shift question is unanswerable if you confuse which curve moved.</li>
+                                <li><strong>Policy questions</strong> (e.g., "If the government raises taxes, what happens to…"): trace the chain of effects step by step. Examiners reward logical chains, not unsupported conclusions.</li>
+                                <li>Distinguish between <em>positive statements</em> (what is) and <em>normative statements</em> (what should be). Some MCQ options are wrong because they confuse these — spot them and eliminate.</li>
+                                <li><strong>Ethiopian context:</strong> expect questions on Ethiopia's economy — agriculture's share of GDP, poverty reduction strategies, the role of the state in development. Know the broad picture.</li>
+                                <li>For unfamiliar scenarios in questions, apply first principles: who gains? Who loses? What incentive does this create? This framework handles novel questions you haven't seen before.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>📐 Mathematics — Applied and Statistical Focus</h3>
+                            <p class="subject-tag">Arithmetic · Statistics · Probability · Basic algebra</p>
+                            <p>Social science mathematics is less abstract than natural science mathematics, but no less important. The content emphasises statistics, percentages, graphs, and applied problem solving. Math anxiety is equally common in social science students — the same research-backed strategies apply.</p>
+                            <ul>
+                                <li><strong>Write down worries before the exam</strong> (Ramirez & Beilock, 2011) — proven to free working memory and improve math performance.</li>
+                                <li><strong>For percentage and ratio questions:</strong> establish the base (the "whole") first. The most common error is applying a percentage to the wrong quantity.</li>
+                                <li><strong>Statistics questions:</strong> know your mean, median, mode, and range thoroughly. These are almost always tested and are consistently high-scoring for prepared students.</li>
+                                <li><strong>Graphs and charts:</strong> read the title, units, and scale before drawing conclusions. Examiners embed trick changes in these elements.</li>
+                                <li><strong>Estimation eliminates wrong answers:</strong> Before calculating, estimate the rough answer. Options that are ten times larger or smaller than your estimate can be crossed off immediately.</li>
+                                <li>Research confirms that avoiding difficult math problems during study directly leads to worse exam performance. Practice the type of questions you fear most — repeatedly and deliberately.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>📖 English — Argumentation and Context Awareness</h3>
+                            <p class="subject-tag">Reading comprehension · Vocabulary · Grammar · Argument analysis</p>
+                            <p>Social science English passages are primarily argumentative or analytical — authors making a case, presenting evidence, or describing social phenomena. Your job is to understand the argument structure, not just the meaning of individual words.</p>
+                            <ul>
+                                <li><strong>Read questions first</strong> so you know what to look for in the passage. This is especially powerful for social science texts where arguments build slowly.</li>
+                                <li><strong>Identify the author's main claim</strong> in the first or last paragraph — that is usually where it lives.</li>
+                                <li><strong>Evidence vs. claim:</strong> examiners often ask you to distinguish what the author states as fact vs. what they argue. Train this distinction.</li>
+                                <li><strong>For social science passages</strong> (Piqosity, 2025): focus on key arguments, the evidence used, and the author's perspective or bias. These are the usual targets of comprehension questions.</li>
+                                <li><strong>Vocabulary:</strong> if a word is unknown, do not guess randomly. Analyse the prefix, root, or suffix (e.g., "anti-" = against; "socio-" = relating to society). This decodes many academic words.</li>
+                                <li><strong>Grammar MCQs:</strong> read the whole sentence in your head before selecting. Subject-verb agreement errors are the most common trap — always locate the subject first.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card psych-card--subject">
+                            <h3>🎓 SAT — Reasoning Wins Over Rushing</h3>
+                            <p class="subject-tag">Critical thinking · Verbal and quantitative aptitude</p>
+                            <p>The SAT rewards deliberate, calm reasoning. Social science students often excel in the verbal sections but feel less confident on quantitative items. Both respond to the same strategy: slow down, reason from what you know, and eliminate systematically.</p>
+                            <ul>
+                                <li><strong>Verbal analogy and inference questions:</strong> Form a precise relationship sentence before looking at options. Imprecise thinking leads to selecting "close enough" — which is always wrong.</li>
+                                <li><strong>Quantitative questions:</strong> look for the elegant approach. Most SAT quantitative items have a shortcut that avoids full calculation. Finding it is what's being tested.</li>
+                                <li><strong>Don't let time pressure override accuracy.</strong> A single correct answer is worth more than two rushed guesses.</li>
+                                <li>Familiarity with SAT question patterns — built through past-paper practice — reduces cognitive load on exam day. Pattern recognition is stored in long-term memory; anxiety only disrupts working memory. The more you've practiced, the less anxiety can harm you.</li>
+                            </ul>
+                        </div>
+
+                        <div class="psych-card">
+                            <h3>🌟 Social Science — Before You Walk In</h3>
+                            <ul>
+                                <li>The night before: review your timeline and theme summaries — brief, high-level. Do not attempt to read new chapters.</li>
+                                <li>Sleep 7–8 hours. Memory consolidation for content-heavy subjects like history happens largely during deep sleep.</li>
+                                <li>Morning of: eat a balanced meal. Avoid caffeine overdose — it amplifies anxiety without improving memory.</li>
+                                <li>At the hall: start with your strongest subject to build confidence and momentum. Psychological momentum is real — early success reduces anxiety for harder questions.</li>
+                                <li>For every difficult question: breathe, eliminate, reason. You are more prepared than you feel.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SCREEN 7: Performance Dashboard -->
+        <div id="dashboardScreen" class="screen">
+            <div class="screen-content">
+                <button class="back-btn" data-back="stream">← Back to Main Menu</button>
+                <h2>📊 Performance Dashboard</h2>
+                <div id="dashboardStats" class="dashboard-stats"></div>
+                <button id="clearHistoryBtn" class="clear-history-btn">🗑️ Clear All History</button>
+            </div>
+        </div>
+
+        <div class="install-container">
+            <button id="installBtn" class="install-btn" hidden>Install DE Prep</button>
+        </div>
+
+        <!-- FOOTER -->
+        <footer class="app-footer">
+            <p>🛠️ Built by <strong>DE Prep</strong> – Ethiopian Entrance Exam Trainer</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/service-worker.js')
+      .then(reg => console.log('Service Worker registered', reg))
+      .catch(err => console.log('SW registration failed', err));
+  }
+</script>
+</body>
+</html>
